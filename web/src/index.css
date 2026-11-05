@@ -1,0 +1,130 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: dark;
+  }
+
+  html {
+    font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  }
+
+  body {
+    @apply bg-slate-950 text-slate-100 antialiased selection:bg-blue-600 selection:text-white;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11", "tnum";
+  }
+}
+
+/* 8. Light theme: the UI is built with dark slate classes; html.light remaps them. */
+html.light .bg-slate-800 { background-color: rgb(226 232 240 / 1); }
+html.light .bg-slate-800\/40 { background-color: rgb(226 232 240 / 0.4); }
+html.light .bg-slate-800\/70 { background-color: rgb(226 232 240 / 0.7); }
+html.light .bg-slate-800\/90 { background-color: rgb(226 232 240 / 0.9); }
+html.light .bg-slate-900\/60 { background-color: rgb(255 255 255 / 0.6); }
+html.light .bg-slate-900\/80 { background-color: rgb(255 255 255 / 0.8); }
+html.light .bg-slate-900\/90 { background-color: rgb(255 255 255 / 0.9); }
+html.light .bg-slate-900\/95 { background-color: rgb(255 255 255 / 0.95); }
+html.light .bg-slate-950 { background-color: rgb(241 245 249 / 1); }
+html.light .bg-slate-950\/40 { background-color: rgb(241 245 249 / 0.4); }
+html.light .bg-slate-950\/50 { background-color: rgb(241 245 249 / 0.5); }
+html.light .bg-slate-950\/60 { background-color: rgb(241 245 249 / 0.6); }
+html.light .bg-slate-950\/70 { background-color: rgb(241 245 249 / 0.7); }
+html.light .bg-slate-950\/80 { background-color: rgb(241 245 249 / 0.8); }
+html.light .border-slate-500 { border-color: #94a3b8; }
+html.light .border-slate-700 { border-color: #cbd5e1; }
+html.light .border-slate-700\/80 { border-color: #cbd5e1; }
+html.light .border-slate-800 { border-color: #e2e8f0; }
+html.light .border-slate-800\/80 { border-color: #e2e8f0; }
+html.light .ring-slate-700 { --tw-ring-color: #cbd5e1; }
+html.light .ring-slate-700\/80 { --tw-ring-color: #cbd5e1; }
+html.light .text-slate-100 { color: #0f172a; }
+html.light .text-slate-200 { color: #1e293b; }
+html.light .text-slate-300 { color: #334155; }
+html.light .text-slate-400 { color: #475569; }
+html.light .text-slate-500 { color: #64748b; }
+html.light .fill-slate-400 { fill: #475569; }
+html.light body { background-color: #f1f5f9; color: #0f172a; }
+
+/* ---- Motion -------------------------------------------------------------------- */
+/* Entrance: cards fade and rise, staggered by animation-delay (Reveal.tsx). */
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: none; }
+}
+.reveal {
+  animation: reveal 0.55s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Map: counties fade in once the paths exist. */
+@keyframes map-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+.map-in { animation: map-in 0.9s ease-out both; }
+
+/* A card whose data just changed glows briefly (useFlash). */
+@keyframes flash-update {
+  0%   { box-shadow: 0 0 0 0 rgba(96, 165, 250, 0.55); }
+  100% { box-shadow: 0 0 0 14px rgba(96, 165, 250, 0); }
+}
+.flash-update { animation: flash-update 1.4s ease-out; }
+
+/* The LIVE dot breathes. */
+@keyframes live-ping {
+  0%   { box-shadow: 0 0 0 0 rgba(52, 211, 153, 0.7); }
+  70%  { box-shadow: 0 0 0 7px rgba(52, 211, 153, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(52, 211, 153, 0); }
+}
+.live-ping { animation: live-ping 1.8s ease-out infinite; }
+
+/* Bars and fills slide to their new size; county colors cross-fade. */
+.bar-anim { transition: width 0.7s cubic-bezier(0.22, 1, 0.36, 1), background-color 0.4s; }
+.county-anim { transition: fill 0.6s ease, opacity 0.3s ease; }
+
+/* Replay scrubber: a slim track filled up to the thumb (--pct), same on iOS and desktop. */
+.replay-range {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 9999px;
+  background: linear-gradient(to right, #fbbf24 var(--pct, 0%), rgba(148, 163, 184, 0.25) var(--pct, 0%));
+  cursor: pointer;
+}
+.replay-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  background: #fff;
+  border: 3px solid #fbbf24;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+}
+.replay-range::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+  background: #fff;
+  border: 3px solid #fbbf24;
+}
+
+/* Cards lift on hover. */
+.lift { transition: transform 0.2s ease, box-shadow 0.2s ease; }
+.lift:hover { transform: translateY(-2px); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35); }
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal, .map-in, .flash-update, .live-ping { animation: none !important; }
+  .bar-anim, .county-anim, .lift { transition: none !important; }
+  .lift:hover { transform: none; box-shadow: none; }
+}
+
+/* PipelineGraph: box and label fills match the graph canvas in both themes. */
+.pg-canvas { --pg-bg: rgb(2 6 23); }
+html.light .pg-canvas { --pg-bg: rgb(241 245 249); }
+@keyframes pg-pulse {
+  from { opacity: 0.6; transform: scale(1); }
+  to { opacity: 0; transform: scale(1.12, 1.4); }
+}
+.pg-pulse { transform-box: fill-box; transform-origin: center; animation: pg-pulse 700ms ease-out forwards; }
+@media (prefers-reduced-motion: reduce) { .pg-pulse { display: none; } }

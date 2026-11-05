@@ -1,0 +1,4982 @@
+{
+  "election_name": "Georgia US Senate",
+  "election_type": "US Senate",
+  "election_scope": "General",
+  "election_date": "2026-11-03T05:00:00.000Z",
+  "country": "US",
+  "province": "GA",
+  "district": null,
+  "municipality": null,
+  "polls_open": "2026-11-03T12:00:00.000Z",
+  "polls_close": "2026-11-04T00:00:00.000Z",
+  "is_disputed": false,
+  "has_map": true,
+  "registered_voters": null,
+  "percent_reporting": 39,
+  "test_data": false,
+  "last_updated": "2026-11-03T16:39:47.808Z",
+  "round": 1,
+  "maps": [
+    {
+      "name": "Georgia",
+      "map": "assets/Georgia.svg"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Jon Ossoff",
+      "candidate_id": 220200,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": true,
+      "advanced": false,
+      "color": "#4874a3",
+      "votes": 8098229,
+      "percent": 52.7
+    },
+    {
+      "name": "Mike Collins",
+      "candidate_id": 220201,
+      "party": "Republican",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#c6606b",
+      "votes": 7269675,
+      "percent": 47.3
+    }
+  ],
+  "region_results": {
+    "appling": {
+      "name": "Appling",
+      "type": "County",
+      "fips": "13001",
+      "fill": "#355577",
+      "percent_reporting": 56,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 17437,
+          "percent": 71.49,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 6955,
+          "percent": 28.51,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "atkinson": {
+      "name": "Atkinson",
+      "type": "County",
+      "fips": "13003",
+      "fill": "#355577",
+      "percent_reporting": 22,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 70420,
+          "percent": 71.47,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 28111,
+          "percent": 28.53,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bacon": {
+      "name": "Bacon",
+      "type": "County",
+      "fips": "13005",
+      "fill": "#3d628a",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 44600,
+          "percent": 66.05,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 22921,
+          "percent": 33.95,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "baker": {
+      "name": "Baker",
+      "type": "County",
+      "fips": "13007",
+      "fill": "#af555f",
+      "percent_reporting": 30,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2016,
+          "percent": 30.18,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 4665,
+          "percent": 69.82,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "baldwin": {
+      "name": "Baldwin",
+      "type": "County",
+      "fips": "13009",
+      "fill": "#7092b7",
+      "percent_reporting": 31,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 36493,
+          "percent": 53.76,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 31389,
+          "percent": 46.24,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "banks": {
+      "name": "Banks",
+      "type": "County",
+      "fips": "13011",
+      "fill": "#ca6b76",
+      "percent_reporting": 21,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 13587,
+          "percent": 40.24,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 20182,
+          "percent": 59.76,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "barrow": {
+      "name": "Barrow",
+      "type": "County",
+      "fips": "13013",
+      "fill": "#355577",
+      "percent_reporting": 63,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 53495,
+          "percent": 70.89,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 21971,
+          "percent": 29.11,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bartow": {
+      "name": "Bartow",
+      "type": "County",
+      "fips": "13015",
+      "fill": "#b3c5d9",
+      "percent_reporting": 21,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 42613,
+          "percent": 51.21,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 40605,
+          "percent": 48.79,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "ben_hill": {
+      "name": "Ben Hill",
+      "type": "County",
+      "fips": "13017",
+      "fill": "#8d454c",
+      "percent_reporting": 73,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2461,
+          "percent": 18.24,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 11032,
+          "percent": 81.76,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "berrien": {
+      "name": "Berrien",
+      "type": "County",
+      "fips": "13019",
+      "fill": "#547da9",
+      "percent_reporting": 0,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 97986,
+          "percent": 56.44,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 75625,
+          "percent": 43.56,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bibb": {
+      "name": "Bibb",
+      "type": "County",
+      "fips": "13021",
+      "fill": "#944850",
+      "percent_reporting": 4,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 25068,
+          "percent": 23.49,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 81666,
+          "percent": 76.51,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bleckley": {
+      "name": "Bleckley",
+      "type": "County",
+      "fips": "13023",
+      "fill": "#547da9",
+      "percent_reporting": 66,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 63812,
+          "percent": 59.9,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 42716,
+          "percent": 40.1,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "brantley": {
+      "name": "Brantley",
+      "type": "County",
+      "fips": "13025",
+      "fill": "#a2b8d0",
+      "percent_reporting": 88,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 58800,
+          "percent": 52.07,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 54124,
+          "percent": 47.93,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "brooks": {
+      "name": "Brooks",
+      "type": "County",
+      "fips": "13027",
+      "fill": "#bd5c66",
+      "percent_reporting": 16,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 19683,
+          "percent": 36.85,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33724,
+          "percent": 63.15,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bryan": {
+      "name": "Bryan",
+      "type": "County",
+      "fips": "13029",
+      "fill": "#874149",
+      "percent_reporting": 50,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 11001,
+          "percent": 13.04,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 73387,
+          "percent": 86.96,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bulloch": {
+      "name": "Bulloch",
+      "type": "County",
+      "fips": "13031",
+      "fill": "#bd5c66",
+      "percent_reporting": 81,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 55665,
+          "percent": 37.44,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 92997,
+          "percent": 62.56,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "burke": {
+      "name": "Burke",
+      "type": "County",
+      "fips": "13033",
+      "fill": "#2e4a68",
+      "percent_reporting": 23,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 104408,
+          "percent": 75.56,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33777,
+          "percent": 24.44,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "butts": {
+      "name": "Butts",
+      "type": "County",
+      "fips": "13035",
+      "fill": "#5f86af",
+      "percent_reporting": 12,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 92828,
+          "percent": 54.58,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 77234,
+          "percent": 45.42,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "calhoun": {
+      "name": "Calhoun",
+      "type": "County",
+      "fips": "13037",
+      "fill": "#5f86af",
+      "percent_reporting": 78,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 36513,
+          "percent": 55.08,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 29781,
+          "percent": 44.92,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "camden": {
+      "name": "Camden",
+      "type": "County",
+      "fips": "13039",
+      "fill": "#3d628a",
+      "percent_reporting": 62,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 82983,
+          "percent": 69,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 37280,
+          "percent": 31,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "candler": {
+      "name": "Candler",
+      "type": "County",
+      "fips": "13043",
+      "fill": "#bd5c66",
+      "percent_reporting": 2,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 58591,
+          "percent": 35.52,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 106381,
+          "percent": 64.48,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "carroll": {
+      "name": "Carroll",
+      "type": "County",
+      "fips": "13045",
+      "fill": "#2c4764",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 147870,
+          "percent": 88.9,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 18463,
+          "percent": 11.1,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "catoosa": {
+      "name": "Catoosa",
+      "type": "County",
+      "fips": "13047",
+      "fill": "#e7bbc0",
+      "percent_reporting": 42,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 30390,
+          "percent": 48.28,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 32549,
+          "percent": 51.72,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "charlton": {
+      "name": "Charlton",
+      "type": "County",
+      "fips": "13049",
+      "fill": "#446d99",
+      "percent_reporting": 96,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 65443,
+          "percent": 62.52,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 39237,
+          "percent": 37.48,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "chatham": {
+      "name": "Chatham",
+      "type": "County",
+      "fips": "13051",
+      "fill": "#2e4a68",
+      "percent_reporting": 61,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 102393,
+          "percent": 77.87,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 29103,
+          "percent": 22.13,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "chattahoochee": {
+      "name": "Chattahoochee",
+      "type": "County",
+      "fips": "13053",
+      "fill": "#af555f",
+      "percent_reporting": 98,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 50147,
+          "percent": 32.53,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 104024,
+          "percent": 67.47,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "chattooga": {
+      "name": "Chattooga",
+      "type": "County",
+      "fips": "13055",
+      "fill": "#355577",
+      "percent_reporting": 13,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 22758,
+          "percent": 74,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 7995,
+          "percent": 26,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "cherokee": {
+      "name": "Cherokee",
+      "type": "County",
+      "fips": "13057",
+      "fill": "#446d99",
+      "percent_reporting": 76,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 114758,
+          "percent": 63.77,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 65196,
+          "percent": 36.23,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clarke": {
+      "name": "Clarke",
+      "type": "County",
+      "fips": "13059",
+      "fill": "#5f86af",
+      "percent_reporting": 51,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 31226,
+          "percent": 55.11,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 25435,
+          "percent": 44.89,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clay": {
+      "name": "Clay",
+      "type": "County",
+      "fips": "13061",
+      "fill": "#355577",
+      "percent_reporting": 39,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 126363,
+          "percent": 71.07,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 51436,
+          "percent": 28.93,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clayton": {
+      "name": "Clayton",
+      "type": "County",
+      "fips": "13063",
+      "fill": "#d3858d",
+      "percent_reporting": 5,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 16429,
+          "percent": 45.63,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 19575,
+          "percent": 54.37,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clinch": {
+      "name": "Clinch",
+      "type": "County",
+      "fips": "13065",
+      "fill": "#bbcbdd",
+      "percent_reporting": 54,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 59794,
+          "percent": 50.6,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 58367,
+          "percent": 49.4,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "cobb": {
+      "name": "Cobb",
+      "type": "County",
+      "fips": "13067",
+      "fill": "#8d454c",
+      "percent_reporting": 1,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 5902,
+          "percent": 17.16,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 28499,
+          "percent": 82.84,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "coffee": {
+      "name": "Coffee",
+      "type": "County",
+      "fips": "13069",
+      "fill": "#d3858d",
+      "percent_reporting": 26,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 6921,
+          "percent": 45.95,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 8140,
+          "percent": 54.05,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "colquitt": {
+      "name": "Colquitt",
+      "type": "County",
+      "fips": "13071",
+      "fill": "#dea3a9",
+      "percent_reporting": 98,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 80970,
+          "percent": 46.58,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 92846,
+          "percent": 53.42,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "columbia": {
+      "name": "Columbia",
+      "type": "County",
+      "fips": "13073",
+      "fill": "#d3858d",
+      "percent_reporting": 63,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 54725,
+          "percent": 46.34,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 63359,
+          "percent": 53.66,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "cook": {
+      "name": "Cook",
+      "type": "County",
+      "fips": "13075",
+      "fill": "#446d99",
+      "percent_reporting": 90,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 40156,
+          "percent": 60.31,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 26428,
+          "percent": 39.69,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "coweta": {
+      "name": "Coweta",
+      "type": "County",
+      "fips": "13077",
+      "fill": "#3d628a",
+      "percent_reporting": 17,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 17323,
+          "percent": 69.22,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 7704,
+          "percent": 30.78,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "crawford": {
+      "name": "Crawford",
+      "type": "County",
+      "fips": "13079",
+      "fill": "#2c4764",
+      "percent_reporting": 69,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 126352,
+          "percent": 85.58,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 21285,
+          "percent": 14.42,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "crisp": {
+      "name": "Crisp",
+      "type": "County",
+      "fips": "13081",
+      "fill": "#2e4a68",
+      "percent_reporting": 19,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 97505,
+          "percent": 75.51,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 31621,
+          "percent": 24.49,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dade": {
+      "name": "Dade",
+      "type": "County",
+      "fips": "13083",
+      "fill": "#adc0d6",
+      "percent_reporting": 97,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 72846,
+          "percent": 51.9,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 67500,
+          "percent": 48.1,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dawson": {
+      "name": "Dawson",
+      "type": "County",
+      "fips": "13085",
+      "fill": "#944850",
+      "percent_reporting": 83,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 18194,
+          "percent": 22.27,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 63508,
+          "percent": 77.73,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dekalb": {
+      "name": "DeKalb",
+      "type": "County",
+      "fips": "13089",
+      "fill": "#944850",
+      "percent_reporting": 59,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 31617,
+          "percent": 21.61,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 114669,
+          "percent": 78.39,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "decatur": {
+      "name": "Decatur",
+      "type": "County",
+      "fips": "13087",
+      "fill": "#8d454c",
+      "percent_reporting": 71,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 23975,
+          "percent": 18.26,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 107353,
+          "percent": 81.74,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dodge": {
+      "name": "Dodge",
+      "type": "County",
+      "fips": "13091",
+      "fill": "#2c4764",
+      "percent_reporting": 90,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 103007,
+          "percent": 80.83,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 24432,
+          "percent": 19.17,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dooly": {
+      "name": "Dooly",
+      "type": "County",
+      "fips": "13093",
+      "fill": "#944850",
+      "percent_reporting": 65,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 19087,
+          "percent": 20.11,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 75806,
+          "percent": 79.89,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dougherty": {
+      "name": "Dougherty",
+      "type": "County",
+      "fips": "13095",
+      "fill": "#5f86af",
+      "percent_reporting": 21,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 85451,
+          "percent": 54.5,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 71338,
+          "percent": 45.5,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "douglas": {
+      "name": "Douglas",
+      "type": "County",
+      "fips": "13097",
+      "fill": "#547da9",
+      "percent_reporting": 78,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 45307,
+          "percent": 59.92,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 30306,
+          "percent": 40.08,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "early": {
+      "name": "Early",
+      "type": "County",
+      "fips": "13099",
+      "fill": "#9f4d56",
+      "percent_reporting": 90,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 11008,
+          "percent": 27,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 29769,
+          "percent": 73,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "echols": {
+      "name": "Echols",
+      "type": "County",
+      "fips": "13101",
+      "fill": "#355577",
+      "percent_reporting": 61,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 81130,
+          "percent": 72.67,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 30504,
+          "percent": 27.33,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "effingham": {
+      "name": "Effingham",
+      "type": "County",
+      "fips": "13103",
+      "fill": "#547da9",
+      "percent_reporting": 45,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 5131,
+          "percent": 59.96,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 3427,
+          "percent": 40.04,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "elbert": {
+      "name": "Elbert",
+      "type": "County",
+      "fips": "13105",
+      "fill": "#8d454c",
+      "percent_reporting": 42,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 12494,
+          "percent": 17.95,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 57119,
+          "percent": 82.05,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "emanuel": {
+      "name": "Emanuel",
+      "type": "County",
+      "fips": "13107",
+      "fill": "#446d99",
+      "percent_reporting": 67,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 82329,
+          "percent": 63.41,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 47509,
+          "percent": 36.59,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "evans": {
+      "name": "Evans",
+      "type": "County",
+      "fips": "13109",
+      "fill": "#355577",
+      "percent_reporting": 87,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 69042,
+          "percent": 70.7,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 28606,
+          "percent": 29.3,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "fannin": {
+      "name": "Fannin",
+      "type": "County",
+      "fips": "13111",
+      "fill": "#ebc8cc",
+      "percent_reporting": 43,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 16381,
+          "percent": 49.5,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 16710,
+          "percent": 50.5,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "fayette": {
+      "name": "Fayette",
+      "type": "County",
+      "fips": "13113",
+      "fill": "#ce757f",
+      "percent_reporting": 6,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 70446,
+          "percent": 44.39,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 88243,
+          "percent": 55.61,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "floyd": {
+      "name": "Floyd",
+      "type": "County",
+      "fips": "13115",
+      "fill": "#5f86af",
+      "percent_reporting": 4,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 16065,
+          "percent": 55.98,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 12635,
+          "percent": 44.02,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "forsyth": {
+      "name": "Forsyth",
+      "type": "County",
+      "fips": "13117",
+      "fill": "#3d628a",
+      "percent_reporting": 41,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 31001,
+          "percent": 69.11,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 13859,
+          "percent": 30.89,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "franklin": {
+      "name": "Franklin",
+      "type": "County",
+      "fips": "13119",
+      "fill": "#5f86af",
+      "percent_reporting": 24,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 15046,
+          "percent": 55.26,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 12180,
+          "percent": 44.74,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "fulton": {
+      "name": "Fulton",
+      "type": "County",
+      "fips": "13121",
+      "fill": "#3d628a",
+      "percent_reporting": 23,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 58726,
+          "percent": 67.43,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 28360,
+          "percent": 32.57,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "gilmer": {
+      "name": "Gilmer",
+      "type": "County",
+      "fips": "13123",
+      "fill": "#d3858d",
+      "percent_reporting": 94,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 72821,
+          "percent": 45.67,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 86633,
+          "percent": 54.33,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "glascock": {
+      "name": "Glascock",
+      "type": "County",
+      "fips": "13125",
+      "fill": "#547da9",
+      "percent_reporting": 47,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 85627,
+          "percent": 59.63,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 57966,
+          "percent": 40.37,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "glynn": {
+      "name": "Glynn",
+      "type": "County",
+      "fips": "13127",
+      "fill": "#3d628a",
+      "percent_reporting": 22,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 65656,
+          "percent": 69.13,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 29319,
+          "percent": 30.87,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "gordon": {
+      "name": "Gordon",
+      "type": "County",
+      "fips": "13129",
+      "fill": "#af555f",
+      "percent_reporting": 49,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 58648,
+          "percent": 34.26,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 112543,
+          "percent": 65.74,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "grady": {
+      "name": "Grady",
+      "type": "County",
+      "fips": "13131",
+      "fill": "#ca6b76",
+      "percent_reporting": 24,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 57306,
+          "percent": 43.83,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 73444,
+          "percent": 56.17,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "greene": {
+      "name": "Greene",
+      "type": "County",
+      "fips": "13133",
+      "fill": "#2c4764",
+      "percent_reporting": 33,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 54943,
+          "percent": 82.68,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 11506,
+          "percent": 17.32,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "gwinnett": {
+      "name": "Gwinnett",
+      "type": "County",
+      "fips": "13135",
+      "fill": "#ebc8cc",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 21237,
+          "percent": 49.05,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 22061,
+          "percent": 50.95,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "habersham": {
+      "name": "Habersham",
+      "type": "County",
+      "fips": "13137",
+      "fill": "#af555f",
+      "percent_reporting": 71,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 45098,
+          "percent": 33.98,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 87611,
+          "percent": 66.02,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "hall": {
+      "name": "Hall",
+      "type": "County",
+      "fips": "13139",
+      "fill": "#8d454c",
+      "percent_reporting": 39,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 14052,
+          "percent": 15.06,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 79269,
+          "percent": 84.94,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "hancock": {
+      "name": "Hancock",
+      "type": "County",
+      "fips": "13141",
+      "fill": "#547da9",
+      "percent_reporting": 69,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 71475,
+          "percent": 57.12,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 53650,
+          "percent": 42.88,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "haralson": {
+      "name": "Haralson",
+      "type": "County",
+      "fips": "13143",
+      "fill": "#ca6b76",
+      "percent_reporting": 48,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 45249,
+          "percent": 41.46,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 63890,
+          "percent": 58.54,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "harris": {
+      "name": "Harris",
+      "type": "County",
+      "fips": "13145",
+      "fill": "#bd5c66",
+      "percent_reporting": 20,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 26202,
+          "percent": 38.09,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 42594,
+          "percent": 61.91,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "hart": {
+      "name": "Hart",
+      "type": "County",
+      "fips": "13147",
+      "fill": "#446d99",
+      "percent_reporting": 98,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 63066,
+          "percent": 60.33,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 41469,
+          "percent": 39.67,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "heard": {
+      "name": "Heard",
+      "type": "County",
+      "fips": "13149",
+      "fill": "#e7bbc0",
+      "percent_reporting": 12,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 14182,
+          "percent": 48.35,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 15150,
+          "percent": 51.65,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "henry": {
+      "name": "Henry",
+      "type": "County",
+      "fips": "13151",
+      "fill": "#547da9",
+      "percent_reporting": 46,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 91504,
+          "percent": 56.65,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 70015,
+          "percent": 43.35,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "houston": {
+      "name": "Houston",
+      "type": "County",
+      "fips": "13153",
+      "fill": "#2c4764",
+      "percent_reporting": 26,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 120271,
+          "percent": 84.55,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 21969,
+          "percent": 15.45,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "irwin": {
+      "name": "Irwin",
+      "type": "County",
+      "fips": "13155",
+      "fill": "#355577",
+      "percent_reporting": 36,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 122777,
+          "percent": 70.23,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 52038,
+          "percent": 29.77,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jackson": {
+      "name": "Jackson",
+      "type": "County",
+      "fips": "13157",
+      "fill": "#5f86af",
+      "percent_reporting": 14,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 63057,
+          "percent": 55.72,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 50107,
+          "percent": 44.28,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jasper": {
+      "name": "Jasper",
+      "type": "County",
+      "fips": "13159",
+      "fill": "#91acc8",
+      "percent_reporting": 20,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 69605,
+          "percent": 53.16,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 61321,
+          "percent": 46.84,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jeff_davis": {
+      "name": "Jeff Davis",
+      "type": "County",
+      "fips": "13161",
+      "fill": "#446d99",
+      "percent_reporting": 39,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 83019,
+          "percent": 63.71,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 47296,
+          "percent": 36.29,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jefferson": {
+      "name": "Jefferson",
+      "type": "County",
+      "fips": "13163",
+      "fill": "#8d454c",
+      "percent_reporting": 53,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 12078,
+          "percent": 17.81,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 55731,
+          "percent": 82.19,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jenkins": {
+      "name": "Jenkins",
+      "type": "County",
+      "fips": "13165",
+      "fill": "#bd5c66",
+      "percent_reporting": 88,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 1896,
+          "percent": 37.1,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 3215,
+          "percent": 62.9,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "johnson": {
+      "name": "Johnson",
+      "type": "County",
+      "fips": "13167",
+      "fill": "#ce757f",
+      "percent_reporting": 84,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 49501,
+          "percent": 45.44,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 59427,
+          "percent": 54.56,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jones": {
+      "name": "Jones",
+      "type": "County",
+      "fips": "13169",
+      "fill": "#547da9",
+      "percent_reporting": 64,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 48471,
+          "percent": 59.55,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 32922,
+          "percent": 40.45,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lamar": {
+      "name": "Lamar",
+      "type": "County",
+      "fips": "13171",
+      "fill": "#2c4764",
+      "percent_reporting": 25,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 88058,
+          "percent": 84.34,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 16355,
+          "percent": 15.66,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lanier": {
+      "name": "Lanier",
+      "type": "County",
+      "fips": "13173",
+      "fill": "#bd5c66",
+      "percent_reporting": 3,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 17651,
+          "percent": 36.3,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 30972,
+          "percent": 63.7,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "laurens": {
+      "name": "Laurens",
+      "type": "County",
+      "fips": "13175",
+      "fill": "#ca6b76",
+      "percent_reporting": 40,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 41027,
+          "percent": 42.55,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 55391,
+          "percent": 57.45,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lee": {
+      "name": "Lee",
+      "type": "County",
+      "fips": "13177",
+      "fill": "#bd5c66",
+      "percent_reporting": 2,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 27693,
+          "percent": 38.56,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 44124,
+          "percent": 61.44,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "liberty": {
+      "name": "Liberty",
+      "type": "County",
+      "fips": "13179",
+      "fill": "#91acc8",
+      "percent_reporting": 57,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 17732,
+          "percent": 53.36,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 15497,
+          "percent": 46.64,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lincoln": {
+      "name": "Lincoln",
+      "type": "County",
+      "fips": "13181",
+      "fill": "#dea3a9",
+      "percent_reporting": 64,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 29716,
+          "percent": 46.85,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33715,
+          "percent": 53.15,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "long": {
+      "name": "Long",
+      "type": "County",
+      "fips": "13183",
+      "fill": "#8d454c",
+      "percent_reporting": 72,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 28526,
+          "percent": 17.02,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 139099,
+          "percent": 82.98,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lowndes": {
+      "name": "Lowndes",
+      "type": "County",
+      "fips": "13185",
+      "fill": "#2e4a68",
+      "percent_reporting": 39,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 131156,
+          "percent": 79.87,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33054,
+          "percent": 20.13,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lumpkin": {
+      "name": "Lumpkin",
+      "type": "County",
+      "fips": "13187",
+      "fill": "#3d628a",
+      "percent_reporting": 53,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 108839,
+          "percent": 67.51,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 52379,
+          "percent": 32.49,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "macon": {
+      "name": "Macon",
+      "type": "County",
+      "fips": "13193",
+      "fill": "#ebc8cc",
+      "percent_reporting": 86,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 46883,
+          "percent": 49.01,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 48770,
+          "percent": 50.99,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "madison": {
+      "name": "Madison",
+      "type": "County",
+      "fips": "13195",
+      "fill": "#bd5c66",
+      "percent_reporting": 97,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 36976,
+          "percent": 39.39,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 56885,
+          "percent": 60.61,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "marion": {
+      "name": "Marion",
+      "type": "County",
+      "fips": "13197",
+      "fill": "#8d454c",
+      "percent_reporting": 19,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2224,
+          "percent": 19.26,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 9322,
+          "percent": 80.74,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "mcduffie": {
+      "name": "McDuffie",
+      "type": "County",
+      "fips": "13189",
+      "fill": "#5f86af",
+      "percent_reporting": 66,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 47433,
+          "percent": 55.53,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 37985,
+          "percent": 44.47,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "mcintosh": {
+      "name": "McIntosh",
+      "type": "County",
+      "fips": "13191",
+      "fill": "#ce757f",
+      "percent_reporting": 75,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 50409,
+          "percent": 44.29,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 63416,
+          "percent": 55.71,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "meriwether": {
+      "name": "Meriwether",
+      "type": "County",
+      "fips": "13199",
+      "fill": "#3d628a",
+      "percent_reporting": 48,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 74186,
+          "percent": 65.57,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 38951,
+          "percent": 34.43,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "miller": {
+      "name": "Miller",
+      "type": "County",
+      "fips": "13201",
+      "fill": "#944850",
+      "percent_reporting": 18,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 27263,
+          "percent": 24.03,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 86174,
+          "percent": 75.97,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "mitchell": {
+      "name": "Mitchell",
+      "type": "County",
+      "fips": "13205",
+      "fill": "#547da9",
+      "percent_reporting": 7,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 41746,
+          "percent": 59.88,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 27970,
+          "percent": 40.12,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "monroe": {
+      "name": "Monroe",
+      "type": "County",
+      "fips": "13207",
+      "fill": "#3d628a",
+      "percent_reporting": 77,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 64145,
+          "percent": 67.69,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 30623,
+          "percent": 32.31,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "montgomery": {
+      "name": "Montgomery",
+      "type": "County",
+      "fips": "13209",
+      "fill": "#3d628a",
+      "percent_reporting": 69,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 14938,
+          "percent": 66.88,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 7399,
+          "percent": 33.12,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "morgan": {
+      "name": "Morgan",
+      "type": "County",
+      "fips": "13211",
+      "fill": "#2c4764",
+      "percent_reporting": 34,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2036,
+          "percent": 81.6,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 459,
+          "percent": 18.4,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "murray": {
+      "name": "Murray",
+      "type": "County",
+      "fips": "13213",
+      "fill": "#af555f",
+      "percent_reporting": 94,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 14520,
+          "percent": 30.09,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33732,
+          "percent": 69.91,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "muscogee": {
+      "name": "Muscogee",
+      "type": "County",
+      "fips": "13215",
+      "fill": "#2c4764",
+      "percent_reporting": 2,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 80971,
+          "percent": 86,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 13185,
+          "percent": 14,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "newton": {
+      "name": "Newton",
+      "type": "County",
+      "fips": "13217",
+      "fill": "#8d454c",
+      "percent_reporting": 98,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 29629,
+          "percent": 17.43,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 140323,
+          "percent": 82.57,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "oconee": {
+      "name": "Oconee",
+      "type": "County",
+      "fips": "13219",
+      "fill": "#9f4d56",
+      "percent_reporting": 86,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 33394,
+          "percent": 26.71,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 91626,
+          "percent": 73.29,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "oglethorpe": {
+      "name": "Oglethorpe",
+      "type": "County",
+      "fips": "13221",
+      "fill": "#355577",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 95557,
+          "percent": 71.42,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 38231,
+          "percent": 28.58,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "paulding": {
+      "name": "Paulding",
+      "type": "County",
+      "fips": "13223",
+      "fill": "#2e4a68",
+      "percent_reporting": 31,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 32098,
+          "percent": 75.94,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 10168,
+          "percent": 24.06,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "peach": {
+      "name": "Peach",
+      "type": "County",
+      "fips": "13225",
+      "fill": "#547da9",
+      "percent_reporting": 7,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 95289,
+          "percent": 56.48,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 73421,
+          "percent": 43.52,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pickens": {
+      "name": "Pickens",
+      "type": "County",
+      "fips": "13227",
+      "fill": "#af555f",
+      "percent_reporting": 70,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 51650,
+          "percent": 32.3,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 108269,
+          "percent": 67.7,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pierce": {
+      "name": "Pierce",
+      "type": "County",
+      "fips": "13229",
+      "fill": "#a2b8d0",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 86468,
+          "percent": 52.18,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 79257,
+          "percent": 47.82,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pike": {
+      "name": "Pike",
+      "type": "County",
+      "fips": "13231",
+      "fill": "#3d628a",
+      "percent_reporting": 8,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 96503,
+          "percent": 65.17,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 51577,
+          "percent": 34.83,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "polk": {
+      "name": "Polk",
+      "type": "County",
+      "fips": "13233",
+      "fill": "#547da9",
+      "percent_reporting": 60,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 24984,
+          "percent": 59.27,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 17166,
+          "percent": 40.73,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pulaski": {
+      "name": "Pulaski",
+      "type": "County",
+      "fips": "13235",
+      "fill": "#2e4a68",
+      "percent_reporting": 51,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 135048,
+          "percent": 77.43,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 39367,
+          "percent": 22.57,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "putnam": {
+      "name": "Putnam",
+      "type": "County",
+      "fips": "13237",
+      "fill": "#3d628a",
+      "percent_reporting": 47,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 96469,
+          "percent": 65.37,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 51106,
+          "percent": 34.63,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "quitman": {
+      "name": "Quitman",
+      "type": "County",
+      "fips": "13239",
+      "fill": "#af555f",
+      "percent_reporting": 54,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 33887,
+          "percent": 31.91,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 72311,
+          "percent": 68.09,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "rabun": {
+      "name": "Rabun",
+      "type": "County",
+      "fips": "13241",
+      "fill": "#547da9",
+      "percent_reporting": 22,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 4181,
+          "percent": 58.34,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 2985,
+          "percent": 41.66,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "randolph": {
+      "name": "Randolph",
+      "type": "County",
+      "fips": "13243",
+      "fill": "#8d454c",
+      "percent_reporting": 34,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 16212,
+          "percent": 19.23,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 68087,
+          "percent": 80.77,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "richmond": {
+      "name": "Richmond",
+      "type": "County",
+      "fips": "13245",
+      "fill": "#91acc8",
+      "percent_reporting": 45,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 43960,
+          "percent": 52.75,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 39381,
+          "percent": 47.25,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "rockdale": {
+      "name": "Rockdale",
+      "type": "County",
+      "fips": "13247",
+      "fill": "#2e4a68",
+      "percent_reporting": 34,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 115086,
+          "percent": 78.87,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 30833,
+          "percent": 21.13,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "schley": {
+      "name": "Schley",
+      "type": "County",
+      "fips": "13249",
+      "fill": "#3d628a",
+      "percent_reporting": 24,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 102988,
+          "percent": 68.97,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 46331,
+          "percent": 31.03,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "screven": {
+      "name": "Screven",
+      "type": "County",
+      "fips": "13251",
+      "fill": "#bd5c66",
+      "percent_reporting": 12,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2528,
+          "percent": 39.76,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 3830,
+          "percent": 60.24,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "seminole": {
+      "name": "Seminole",
+      "type": "County",
+      "fips": "13253",
+      "fill": "#3d628a",
+      "percent_reporting": 36,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2433,
+          "percent": 69.99,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 1043,
+          "percent": 30.01,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "spalding": {
+      "name": "Spalding",
+      "type": "County",
+      "fips": "13255",
+      "fill": "#8d454c",
+      "percent_reporting": 30,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 2804,
+          "percent": 17,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 13693,
+          "percent": 83,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "stephens": {
+      "name": "Stephens",
+      "type": "County",
+      "fips": "13257",
+      "fill": "#d3858d",
+      "percent_reporting": 46,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 80148,
+          "percent": 46.45,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 92396,
+          "percent": 53.55,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "stewart": {
+      "name": "Stewart",
+      "type": "County",
+      "fips": "13259",
+      "fill": "#5f86af",
+      "percent_reporting": 69,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 95241,
+          "percent": 55.22,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 77249,
+          "percent": 44.78,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "sumter": {
+      "name": "Sumter",
+      "type": "County",
+      "fips": "13261",
+      "fill": "#2e4a68",
+      "percent_reporting": 59,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 8434,
+          "percent": 77.52,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 2446,
+          "percent": 22.48,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "talbot": {
+      "name": "Talbot",
+      "type": "County",
+      "fips": "13263",
+      "fill": "#547da9",
+      "percent_reporting": 84,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 26482,
+          "percent": 56.5,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 20390,
+          "percent": 43.5,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "taliaferro": {
+      "name": "Taliaferro",
+      "type": "County",
+      "fips": "13265",
+      "fill": "#9f4d56",
+      "percent_reporting": 7,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 26057,
+          "percent": 27.2,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 69736,
+          "percent": 72.8,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "tattnall": {
+      "name": "Tattnall",
+      "type": "County",
+      "fips": "13267",
+      "fill": "#547da9",
+      "percent_reporting": 40,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 83186,
+          "percent": 58.39,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 59270,
+          "percent": 41.61,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "taylor": {
+      "name": "Taylor",
+      "type": "County",
+      "fips": "13269",
+      "fill": "#2e4a68",
+      "percent_reporting": 6,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 22056,
+          "percent": 79.98,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 5520,
+          "percent": 20.02,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "telfair": {
+      "name": "Telfair",
+      "type": "County",
+      "fips": "13271",
+      "fill": "#944850",
+      "percent_reporting": 44,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 13628,
+          "percent": 22.08,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 48097,
+          "percent": 77.92,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "terrell": {
+      "name": "Terrell",
+      "type": "County",
+      "fips": "13273",
+      "fill": "#af555f",
+      "percent_reporting": 94,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 21937,
+          "percent": 30.66,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 49622,
+          "percent": 69.34,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "thomas": {
+      "name": "Thomas",
+      "type": "County",
+      "fips": "13275",
+      "fill": "#bbcbdd",
+      "percent_reporting": 88,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 90027,
+          "percent": 50.57,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 87982,
+          "percent": 49.43,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "tift": {
+      "name": "Tift",
+      "type": "County",
+      "fips": "13277",
+      "fill": "#dea3a9",
+      "percent_reporting": 25,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 34506,
+          "percent": 46.56,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 39603,
+          "percent": 53.44,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "toombs": {
+      "name": "Toombs",
+      "type": "County",
+      "fips": "13279",
+      "fill": "#ebc8cc",
+      "percent_reporting": 9,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 62966,
+          "percent": 49.49,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 64266,
+          "percent": 50.51,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "towns": {
+      "name": "Towns",
+      "type": "County",
+      "fips": "13281",
+      "fill": "#ca6b76",
+      "percent_reporting": 59,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 25282,
+          "percent": 42.73,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33884,
+          "percent": 57.27,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "treutlen": {
+      "name": "Treutlen",
+      "type": "County",
+      "fips": "13283",
+      "fill": "#dea3a9",
+      "percent_reporting": 78,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 29635,
+          "percent": 46.62,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 33935,
+          "percent": 53.38,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "troup": {
+      "name": "Troup",
+      "type": "County",
+      "fips": "13285",
+      "fill": "#446d99",
+      "percent_reporting": 81,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 7930,
+          "percent": 62.19,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 4822,
+          "percent": 37.81,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "turner": {
+      "name": "Turner",
+      "type": "County",
+      "fips": "13287",
+      "fill": "#9f4d56",
+      "percent_reporting": 13,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 12421,
+          "percent": 26.31,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 34795,
+          "percent": 73.69,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "twiggs": {
+      "name": "Twiggs",
+      "type": "County",
+      "fips": "13289",
+      "fill": "#355577",
+      "percent_reporting": 14,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 88897,
+          "percent": 73.97,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 31288,
+          "percent": 26.03,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "union": {
+      "name": "Union",
+      "type": "County",
+      "fips": "13291",
+      "fill": "#d3858d",
+      "percent_reporting": 93,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 64784,
+          "percent": 46.25,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 75302,
+          "percent": 53.75,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "upson": {
+      "name": "Upson",
+      "type": "County",
+      "fips": "13293",
+      "fill": "#446d99",
+      "percent_reporting": 9,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 62719,
+          "percent": 62.31,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 37945,
+          "percent": 37.69,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "walker": {
+      "name": "Walker",
+      "type": "County",
+      "fips": "13295",
+      "fill": "#b3c5d9",
+      "percent_reporting": 52,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 49044,
+          "percent": 51.1,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 46931,
+          "percent": 48.9,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "walton": {
+      "name": "Walton",
+      "type": "County",
+      "fips": "13297",
+      "fill": "#446d99",
+      "percent_reporting": 86,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 112295,
+          "percent": 62.43,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 67571,
+          "percent": 37.57,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "ware": {
+      "name": "Ware",
+      "type": "County",
+      "fips": "13299",
+      "fill": "#ce757f",
+      "percent_reporting": 87,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 55834,
+          "percent": 44.23,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 70389,
+          "percent": 55.77,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "warren": {
+      "name": "Warren",
+      "type": "County",
+      "fips": "13301",
+      "fill": "#bd5c66",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 37427,
+          "percent": 35.05,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 69357,
+          "percent": 64.95,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "washington": {
+      "name": "Washington",
+      "type": "County",
+      "fips": "13303",
+      "fill": "#e7bbc0",
+      "percent_reporting": 49,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 5700,
+          "percent": 48.34,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 6092,
+          "percent": 51.66,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wayne": {
+      "name": "Wayne",
+      "type": "County",
+      "fips": "13305",
+      "fill": "#2c4764",
+      "percent_reporting": 39,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 136963,
+          "percent": 80.07,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 34093,
+          "percent": 19.93,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "webster": {
+      "name": "Webster",
+      "type": "County",
+      "fips": "13307",
+      "fill": "#91acc8",
+      "percent_reporting": 1,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 14809,
+          "percent": 53.4,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 12922,
+          "percent": 46.6,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wheeler": {
+      "name": "Wheeler",
+      "type": "County",
+      "fips": "13309",
+      "fill": "#547da9",
+      "percent_reporting": 67,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 82266,
+          "percent": 59.15,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 56811,
+          "percent": 40.85,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "white": {
+      "name": "White",
+      "type": "County",
+      "fips": "13311",
+      "fill": "#e9c1c5",
+      "percent_reporting": 23,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 81879,
+          "percent": 48.52,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 86858,
+          "percent": 51.48,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "whitfield": {
+      "name": "Whitfield",
+      "type": "County",
+      "fips": "13313",
+      "fill": "#ca6b76",
+      "percent_reporting": 39,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 52757,
+          "percent": 41,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 75933,
+          "percent": 59,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wilcox": {
+      "name": "Wilcox",
+      "type": "County",
+      "fips": "13315",
+      "fill": "#bd5c66",
+      "percent_reporting": 78,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 45451,
+          "percent": 38.85,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 71529,
+          "percent": 61.15,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wilkes": {
+      "name": "Wilkes",
+      "type": "County",
+      "fips": "13317",
+      "fill": "#547da9",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 25075,
+          "percent": 58.43,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 17837,
+          "percent": 41.57,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wilkinson": {
+      "name": "Wilkinson",
+      "type": "County",
+      "fips": "13319",
+      "fill": "#944850",
+      "percent_reporting": 87,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 26492,
+          "percent": 20.18,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 104765,
+          "percent": 79.82,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "worth": {
+      "name": "Worth",
+      "type": "County",
+      "fips": "13321",
+      "fill": "#af555f",
+      "percent_reporting": 17,
+      "candidates": [
+        {
+          "name": "Jon Ossoff",
+          "party": "Democratic",
+          "votes": 6696,
+          "percent": 34.32,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Mike Collins",
+          "party": "Republican",
+          "votes": 12813,
+          "percent": 65.68,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,60 @@
+[project]
+name = "elex"
+version = "0.1.0"
+description = "Live 2026 midterm results pipeline, projection model and dashboard"
+readme = "README.md"
+authors = [
+    { name = "Jay Desai", email = "jaydesai2001@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "dbt-core>=1.12.6",
+    "dbt-duckdb>=1.11.1",
+    "duckdb>=2.0.0",
+    "fastapi>=0.162.0",
+    "httpx>=0.28.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "prefect>=3.8.8",
+    "pyarrow>=26.0.1",
+    "pydantic>=2.14.2",
+    "pydantic-settings>=2.16.2",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.9.1",
+    "tenacity>=9.2.1",
+    "typer>=0.27.3",
+    "uvicorn>=0.54.0",
+]
+
+[project.scripts]
+elex = "elex.cli:app"
+
+[build-system]
+requires = ["uv_build>=0.13.7,<0.14.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+    "respx>=0.23.1",
+    "ruff>=0.17.3",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+extend-exclude = ["web", "dbt"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.ruff.lint.flake8-bugbear]
+extend-immutable-calls = ["typer.Option", "typer.Argument"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = [
+    "slow: long-running tests (backtest, perf)",
+    "live: hits the real network; run manually with make live-smoke",
+]

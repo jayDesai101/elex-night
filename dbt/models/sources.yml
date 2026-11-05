@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: bronze
+    schema: bronze
+    tables:
+      - name: race_snapshots
+      - name: race_catalog
+      - name: ingest_log
+        loaded_at_field: requested_at
+        freshness:
+          warn_after: {count: 3, period: minute}
+          error_after: {count: 10, period: minute}
+  - name: ref
+    schema: ref
+    tables:
+      - name: county_baseline
+      - name: county_features
+      - name: state_turnout_prior

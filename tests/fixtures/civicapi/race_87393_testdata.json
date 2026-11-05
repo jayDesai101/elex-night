@@ -1,0 +1,2879 @@
+{
+  "election_name": "Pennsylvania Governor",
+  "election_type": "Governor",
+  "election_scope": "Statewide",
+  "election_date": "2026-11-03T05:00:00.000Z",
+  "country": "US",
+  "province": "PA",
+  "district": null,
+  "municipality": null,
+  "polls_open": "2026-11-03T12:00:00.000Z",
+  "polls_close": "2026-11-04T01:00:00.000Z",
+  "is_disputed": false,
+  "has_map": true,
+  "registered_voters": null,
+  "percent_reporting": 94,
+  "test_data": false,
+  "last_updated": "2026-11-03T16:39:51.934Z",
+  "round": 1,
+  "maps": [
+    {
+      "name": "Pennsylvania",
+      "map": "assets/Pennsylvania.svg"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Stacy Garrity",
+      "candidate_id": 221050,
+      "party": "Republican",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": true,
+      "advanced": false,
+      "color": "#c6606b",
+      "votes": 2490292,
+      "percent": 36.59
+    },
+    {
+      "name": "Ken Krawchuk",
+      "candidate_id": 221051,
+      "party": "Libertarian",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#d4c029",
+      "votes": 2189365,
+      "percent": 32.17
+    },
+    {
+      "name": "Josh Shapiro",
+      "candidate_id": 221049,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#4874a3",
+      "votes": 2126646,
+      "percent": 31.25
+    }
+  ],
+  "region_results": {
+    "adams": {
+      "name": "Adams",
+      "type": "County",
+      "fips": "42001",
+      "fill": "#a2b8d0",
+      "percent_reporting": 86,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 10258,
+          "percent": 39.12,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 9019,
+          "percent": 34.39,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 6945,
+          "percent": 26.49,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "allegheny": {
+      "name": "Allegheny",
+      "type": "County",
+      "fips": "42003",
+      "fill": "#e9df91",
+      "percent_reporting": 41,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 21114,
+          "percent": 28.34,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 26084,
+          "percent": 35.01,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 27317,
+          "percent": 36.66,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "armstrong": {
+      "name": "Armstrong",
+      "type": "County",
+      "fips": "42005",
+      "fill": "#8d454c",
+      "percent_reporting": 97,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 7798,
+          "percent": 11.51,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 51893,
+          "percent": 76.6,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 8055,
+          "percent": 11.89,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "beaver": {
+      "name": "Beaver",
+      "type": "County",
+      "fips": "42007",
+      "fill": "#446d99",
+      "percent_reporting": 16,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 99016,
+          "percent": 56.11,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 48101,
+          "percent": 27.26,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 29343,
+          "percent": 16.63,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bedford": {
+      "name": "Bedford",
+      "type": "County",
+      "fips": "42009",
+      "fill": "#e9df91",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 54178,
+          "percent": 33.23,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 45870,
+          "percent": 28.13,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 63015,
+          "percent": 38.64,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "berks": {
+      "name": "Berks",
+      "type": "County",
+      "fips": "42011",
+      "fill": "#ce757f",
+      "percent_reporting": 82,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 37335,
+          "percent": 37.45,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 47692,
+          "percent": 47.84,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 14661,
+          "percent": 14.71,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "blair": {
+      "name": "Blair",
+      "type": "County",
+      "fips": "42013",
+      "fill": "#d0bd28",
+      "percent_reporting": 71,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 3729,
+          "percent": 7.26,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 16774,
+          "percent": 32.66,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 30854,
+          "percent": 60.08,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bradford": {
+      "name": "Bradford",
+      "type": "County",
+      "fips": "42015",
+      "fill": "#355577",
+      "percent_reporting": 1,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 29127,
+          "percent": 61.37,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 9578,
+          "percent": 20.18,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 8755,
+          "percent": 18.45,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "bucks": {
+      "name": "Bucks",
+      "type": "County",
+      "fips": "42017",
+      "fill": "#e0d266",
+      "percent_reporting": 80,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 10339,
+          "percent": 17.41,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 22210,
+          "percent": 37.39,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 26845,
+          "percent": 45.2,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "butler": {
+      "name": "Butler",
+      "type": "County",
+      "fips": "42019",
+      "fill": "#5f86af",
+      "percent_reporting": 18,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 38851,
+          "percent": 50.59,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 31304,
+          "percent": 40.76,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 6642,
+          "percent": 8.65,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "cambria": {
+      "name": "Cambria",
+      "type": "County",
+      "fips": "42021",
+      "fill": "#e9c1c5",
+      "percent_reporting": 2,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 27489,
+          "percent": 37.18,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 29064,
+          "percent": 39.31,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 17382,
+          "percent": 23.51,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "cameron": {
+      "name": "Cameron",
+      "type": "County",
+      "fips": "42023",
+      "fill": "#e0d266",
+      "percent_reporting": 91,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 18708,
+          "percent": 28.57,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 20950,
+          "percent": 31.99,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 25829,
+          "percent": 39.44,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "carbon": {
+      "name": "Carbon",
+      "type": "County",
+      "fips": "42025",
+      "fill": "#d8c53b",
+      "percent_reporting": 51,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 24392,
+          "percent": 23.78,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 29480,
+          "percent": 28.74,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 48686,
+          "percent": 47.47,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "centre": {
+      "name": "Centre",
+      "type": "County",
+      "fips": "42027",
+      "fill": "#d8c53b",
+      "percent_reporting": 57,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 39862,
+          "percent": 35.24,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 18494,
+          "percent": 16.35,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 54749,
+          "percent": 48.41,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "chester": {
+      "name": "Chester",
+      "type": "County",
+      "fips": "42029",
+      "fill": "#91acc8",
+      "percent_reporting": 2,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 25908,
+          "percent": 38.09,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 22001,
+          "percent": 32.34,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 20116,
+          "percent": 29.57,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clarion": {
+      "name": "Clarion",
+      "type": "County",
+      "fips": "42031",
+      "fill": "#ce757f",
+      "percent_reporting": 56,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 1215,
+          "percent": 33.54,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 1607,
+          "percent": 44.36,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 801,
+          "percent": 22.11,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clearfield": {
+      "name": "Clearfield",
+      "type": "County",
+      "fips": "42033",
+      "fill": "#547da9",
+      "percent_reporting": 46,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 55578,
+          "percent": 50.62,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 35801,
+          "percent": 32.61,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 18420,
+          "percent": 16.78,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "clinton": {
+      "name": "Clinton",
+      "type": "County",
+      "fips": "42035",
+      "fill": "#547da9",
+      "percent_reporting": 24,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 76271,
+          "percent": 48.54,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 56781,
+          "percent": 36.13,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 24087,
+          "percent": 15.33,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "columbia": {
+      "name": "Columbia",
+      "type": "County",
+      "fips": "42037",
+      "fill": "#547da9",
+      "percent_reporting": 40,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 53751,
+          "percent": 51.53,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 15278,
+          "percent": 14.65,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 35275,
+          "percent": 33.82,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "crawford": {
+      "name": "Crawford",
+      "type": "County",
+      "fips": "42039",
+      "fill": "#5f86af",
+      "percent_reporting": 28,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 28897,
+          "percent": 47.41,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 9639,
+          "percent": 15.81,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 22421,
+          "percent": 36.78,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "cumberland": {
+      "name": "Cumberland",
+      "type": "County",
+      "fips": "42041",
+      "fill": "#ce757f",
+      "percent_reporting": 22,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 14466,
+          "percent": 18.08,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 36943,
+          "percent": 46.16,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 28622,
+          "percent": 35.76,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "dauphin": {
+      "name": "Dauphin",
+      "type": "County",
+      "fips": "42043",
+      "fill": "#e9df91",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 12002,
+          "percent": 27.96,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 14101,
+          "percent": 32.85,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 16822,
+          "percent": 39.19,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "delaware": {
+      "name": "Delaware",
+      "type": "County",
+      "fips": "42045",
+      "fill": "#ce757f",
+      "percent_reporting": 23,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 45506,
+          "percent": 28.49,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 66176,
+          "percent": 41.44,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 48022,
+          "percent": 30.07,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "elk": {
+      "name": "Elk",
+      "type": "County",
+      "fips": "42047",
+      "fill": "#e3b2b7",
+      "percent_reporting": 56,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 11280,
+          "percent": 13.92,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 36811,
+          "percent": 45.42,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 32949,
+          "percent": 40.66,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "erie": {
+      "name": "Erie",
+      "type": "County",
+      "fips": "42049",
+      "fill": "#bd5c66",
+      "percent_reporting": 68,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 45789,
+          "percent": 29.22,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 83691,
+          "percent": 53.41,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 27225,
+          "percent": 17.37,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "fayette": {
+      "name": "Fayette",
+      "type": "County",
+      "fips": "42051",
+      "fill": "#af555f",
+      "percent_reporting": 21,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 2728,
+          "percent": 16.27,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 9596,
+          "percent": 57.23,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 4444,
+          "percent": 26.5,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "forest": {
+      "name": "Forest",
+      "type": "County",
+      "fips": "42053",
+      "fill": "#bbcbdd",
+      "percent_reporting": 5,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 43413,
+          "percent": 35.66,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 42024,
+          "percent": 34.52,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 36294,
+          "percent": 29.81,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "franklin": {
+      "name": "Franklin",
+      "type": "County",
+      "fips": "42055",
+      "fill": "#e0d266",
+      "percent_reporting": 35,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 55518,
+          "percent": 31.28,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 53093,
+          "percent": 29.92,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 68867,
+          "percent": 38.8,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "fulton": {
+      "name": "Fulton",
+      "type": "County",
+      "fips": "42057",
+      "fill": "#cdd9e6",
+      "percent_reporting": 51,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 51180,
+          "percent": 41.44,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 50166,
+          "percent": 40.62,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 22159,
+          "percent": 17.94,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "greene": {
+      "name": "Greene",
+      "type": "County",
+      "fips": "42059",
+      "fill": "#f0d7d9",
+      "percent_reporting": 46,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 69076,
+          "percent": 39.53,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 69410,
+          "percent": 39.72,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 36241,
+          "percent": 20.74,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "huntingdon": {
+      "name": "Huntingdon",
+      "type": "County",
+      "fips": "42061",
+      "fill": "#cbb727",
+      "percent_reporting": 22,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 40291,
+          "percent": 24.05,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 36099,
+          "percent": 21.54,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 91174,
+          "percent": 54.41,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "indiana": {
+      "name": "Indiana",
+      "type": "County",
+      "fips": "42063",
+      "fill": "#bd5c66",
+      "percent_reporting": 90,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 8903,
+          "percent": 27.49,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 17658,
+          "percent": 54.52,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 5826,
+          "percent": 17.99,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "jefferson": {
+      "name": "Jefferson",
+      "type": "County",
+      "fips": "42065",
+      "fill": "#547da9",
+      "percent_reporting": 56,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 65378,
+          "percent": 45.29,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 44903,
+          "percent": 31.1,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 34081,
+          "percent": 23.61,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "juniata": {
+      "name": "Juniata",
+      "type": "County",
+      "fips": "42067",
+      "fill": "#e7bbc0",
+      "percent_reporting": 35,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 8927,
+          "percent": 37.35,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 9782,
+          "percent": 40.93,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 5191,
+          "percent": 21.72,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lackawanna": {
+      "name": "Lackawanna",
+      "type": "County",
+      "fips": "42069",
+      "fill": "#dea3a9",
+      "percent_reporting": 4,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 31964,
+          "percent": 27.77,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 45194,
+          "percent": 39.27,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 37936,
+          "percent": 32.96,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lancaster": {
+      "name": "Lancaster",
+      "type": "County",
+      "fips": "42071",
+      "fill": "#ca6b76",
+      "percent_reporting": 17,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 20608,
+          "percent": 18.88,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 51808,
+          "percent": 47.45,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 36762,
+          "percent": 33.67,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lawrence": {
+      "name": "Lawrence",
+      "type": "County",
+      "fips": "42073",
+      "fill": "#dea3a9",
+      "percent_reporting": 10,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 1252,
+          "percent": 32.48,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 1455,
+          "percent": 37.74,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 1148,
+          "percent": 29.78,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lebanon": {
+      "name": "Lebanon",
+      "type": "County",
+      "fips": "42075",
+      "fill": "#e9df91",
+      "percent_reporting": 58,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 53449,
+          "percent": 32.39,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 48235,
+          "percent": 29.23,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 63351,
+          "percent": 38.39,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lehigh": {
+      "name": "Lehigh",
+      "type": "County",
+      "fips": "42077",
+      "fill": "#e9df91",
+      "percent_reporting": 76,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 187,
+          "percent": 9.06,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 882,
+          "percent": 42.71,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 996,
+          "percent": 48.23,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "luzerne": {
+      "name": "Luzerne",
+      "type": "County",
+      "fips": "42079",
+      "fill": "#944850",
+      "percent_reporting": 74,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 3887,
+          "percent": 20.77,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 13465,
+          "percent": 71.96,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 1361,
+          "percent": 7.27,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "lycoming": {
+      "name": "Lycoming",
+      "type": "County",
+      "fips": "42081",
+      "fill": "#e9df91",
+      "percent_reporting": 40,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 20228,
+          "percent": 11.44,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 75672,
+          "percent": 42.8,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 80902,
+          "percent": 45.76,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "mckean": {
+      "name": "McKean",
+      "type": "County",
+      "fips": "42083",
+      "fill": "#e9c1c5",
+      "percent_reporting": 93,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 51023,
+          "percent": 31.48,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 57687,
+          "percent": 35.59,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 53385,
+          "percent": 32.93,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "mercer": {
+      "name": "Mercer",
+      "type": "County",
+      "fips": "42085",
+      "fill": "#d8c53b",
+      "percent_reporting": 18,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 38392,
+          "percent": 32.17,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 19191,
+          "percent": 16.08,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 61741,
+          "percent": 51.74,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "mifflin": {
+      "name": "Mifflin",
+      "type": "County",
+      "fips": "42087",
+      "fill": "#e0d266",
+      "percent_reporting": 34,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 9052,
+          "percent": 21.46,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 15057,
+          "percent": 35.69,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 18077,
+          "percent": 42.85,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "monroe": {
+      "name": "Monroe",
+      "type": "County",
+      "fips": "42089",
+      "fill": "#91acc8",
+      "percent_reporting": 76,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 71003,
+          "percent": 49.04,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 62474,
+          "percent": 43.15,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 11318,
+          "percent": 7.82,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "montgomery": {
+      "name": "Montgomery",
+      "type": "County",
+      "fips": "42091",
+      "fill": "#d3858d",
+      "percent_reporting": 15,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 25278,
+          "percent": 14.37,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 82444,
+          "percent": 46.88,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 68142,
+          "percent": 38.75,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "montour": {
+      "name": "Montour",
+      "type": "County",
+      "fips": "42093",
+      "fill": "#e9df91",
+      "percent_reporting": 80,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 15480,
+          "percent": 19.19,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 31321,
+          "percent": 38.83,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 33870,
+          "percent": 41.99,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "northampton": {
+      "name": "Northampton",
+      "type": "County",
+      "fips": "42095",
+      "fill": "#af555f",
+      "percent_reporting": 13,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 2272,
+          "percent": 10.19,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 13565,
+          "percent": 60.81,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 6469,
+          "percent": 29,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "northumberland": {
+      "name": "Northumberland",
+      "type": "County",
+      "fips": "42097",
+      "fill": "#c5b226",
+      "percent_reporting": 1,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 20723,
+          "percent": 18.32,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 17812,
+          "percent": 15.75,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 74565,
+          "percent": 65.93,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "perry": {
+      "name": "Perry",
+      "type": "County",
+      "fips": "42099",
+      "fill": "#ca6b76",
+      "percent_reporting": 30,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 39280,
+          "percent": 28.28,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 66887,
+          "percent": 48.15,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 32750,
+          "percent": 23.58,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "philadelphia": {
+      "name": "Philadelphia",
+      "type": "County",
+      "fips": "42101",
+      "fill": "#9f4d56",
+      "percent_reporting": 46,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 20682,
+          "percent": 18.98,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 69203,
+          "percent": 63.51,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 19082,
+          "percent": 17.51,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pike": {
+      "name": "Pike",
+      "type": "County",
+      "fips": "42103",
+      "fill": "#5f86af",
+      "percent_reporting": 51,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 21608,
+          "percent": 44.74,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 16631,
+          "percent": 34.43,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 10060,
+          "percent": 20.83,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "potter": {
+      "name": "Potter",
+      "type": "County",
+      "fips": "42105",
+      "fill": "#d3dee9",
+      "percent_reporting": 55,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 51013,
+          "percent": 39.65,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 50845,
+          "percent": 39.52,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 26811,
+          "percent": 20.84,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "schuylkill": {
+      "name": "Schuylkill",
+      "type": "County",
+      "fips": "42107",
+      "fill": "#547da9",
+      "percent_reporting": 70,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 61315,
+          "percent": 50.91,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 44506,
+          "percent": 36.95,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 14620,
+          "percent": 12.14,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "snyder": {
+      "name": "Snyder",
+      "type": "County",
+      "fips": "42109",
+      "fill": "#d3858d",
+      "percent_reporting": 45,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 29854,
+          "percent": 21.4,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 60070,
+          "percent": 43.06,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 49590,
+          "percent": 35.54,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "somerset": {
+      "name": "Somerset",
+      "type": "County",
+      "fips": "42111",
+      "fill": "#c5b226",
+      "percent_reporting": 2,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 14408,
+          "percent": 8.6,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 40087,
+          "percent": 23.92,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 113125,
+          "percent": 67.49,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "sullivan": {
+      "name": "Sullivan",
+      "type": "County",
+      "fips": "42113",
+      "fill": "#446d99",
+      "percent_reporting": 80,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 68591,
+          "percent": 57.38,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 16420,
+          "percent": 13.74,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 34527,
+          "percent": 28.88,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "susquehanna": {
+      "name": "Susquehanna",
+      "type": "County",
+      "fips": "42115",
+      "fill": "#b3c5d9",
+      "percent_reporting": 53,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 61716,
+          "percent": 35.91,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 57623,
+          "percent": 33.53,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 52529,
+          "percent": 30.56,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "tioga": {
+      "name": "Tioga",
+      "type": "County",
+      "fips": "42117",
+      "fill": "#ce757f",
+      "percent_reporting": 97,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 37243,
+          "percent": 23.04,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 71138,
+          "percent": 44,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 53290,
+          "percent": 32.96,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "union": {
+      "name": "Union",
+      "type": "County",
+      "fips": "42119",
+      "fill": "#7092b7",
+      "percent_reporting": 31,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 58857,
+          "percent": 43.34,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 46958,
+          "percent": 34.58,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 29993,
+          "percent": 22.08,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "venango": {
+      "name": "Venango",
+      "type": "County",
+      "fips": "42121",
+      "fill": "#ebc8cc",
+      "percent_reporting": 7,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 2253,
+          "percent": 10.11,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 10233,
+          "percent": 45.92,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 9796,
+          "percent": 43.96,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "warren": {
+      "name": "Warren",
+      "type": "County",
+      "fips": "42123",
+      "fill": "#547da9",
+      "percent_reporting": 86,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 38426,
+          "percent": 46.52,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 20546,
+          "percent": 24.87,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 23634,
+          "percent": 28.61,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "washington": {
+      "name": "Washington",
+      "type": "County",
+      "fips": "42125",
+      "fill": "#ca6b76",
+      "percent_reporting": 60,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 31700,
+          "percent": 23.1,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 65952,
+          "percent": 48.05,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 39606,
+          "percent": 28.86,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wayne": {
+      "name": "Wayne",
+      "type": "County",
+      "fips": "42127",
+      "fill": "#adc0d6",
+      "percent_reporting": 16,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 7115,
+          "percent": 46.19,
+          "color": "#4874a3",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 6541,
+          "percent": 42.47,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 1747,
+          "percent": 11.34,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "westmoreland": {
+      "name": "Westmoreland",
+      "type": "County",
+      "fips": "42129",
+      "fill": "#d8c53b",
+      "percent_reporting": 32,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 36703,
+          "percent": 20.65,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 53002,
+          "percent": 29.81,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 88070,
+          "percent": 49.54,
+          "color": "#d4c029",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "wyoming": {
+      "name": "Wyoming",
+      "type": "County",
+      "fips": "42131",
+      "fill": "#ca6b76",
+      "percent_reporting": 52,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 18993,
+          "percent": 12.97,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 73756,
+          "percent": 50.36,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 53702,
+          "percent": 36.67,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "york": {
+      "name": "York",
+      "type": "County",
+      "fips": "42133",
+      "fill": "#bd5c66",
+      "percent_reporting": 49,
+      "candidates": [
+        {
+          "name": "Josh Shapiro",
+          "party": "Democratic",
+          "votes": 23818,
+          "percent": 18.66,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Stacy Garrity",
+          "party": "Republican",
+          "votes": 65559,
+          "percent": 51.35,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Ken Krawchuk",
+          "party": "Libertarian",
+          "votes": 38295,
+          "percent": 29.99,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    }
+  }
+}

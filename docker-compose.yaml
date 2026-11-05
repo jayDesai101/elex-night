@@ -1,0 +1,36 @@
+services:
+  archiver:
+    build: .
+    image: elex-night:latest
+    container_name: elex-archiver
+    restart: unless-stopped
+    user: "1000:1000"
+    environment:
+      ELEX_DATA_DIR: /app/data
+      TZ: UTC
+    volumes:
+      - ./data:/app/data
+      - ./dbt:/app/dbt
+      - ./config:/app/config:ro  # model kill switch: edit enabled, no rebuild needed
+    stop_grace_period: 60s
+    logging:
+      options: { max-size: "20m", max-file: "5" }
+
+  api:
+    image: elex-night:latest
+    container_name: elex-api
+    restart: unless-stopped
+    user: "1000:1000"
+    # no depends_on: the API only reads data/serving, and deploying it must not restart
+    # the archiver
+    command: ["elex", "api", "--host", "0.0.0.0", "--port", "8000"]
+    environment:
+      ELEX_DATA_DIR: /app/data
+      TZ: UTC
+    ports:
+      - "8000:8000"
+    volumes:
+      # the API reads only the Parquet serving versions, never the warehouse
+      - ./data/serving:/app/data/serving:ro
+    logging:
+      options: { max-size: "20m", max-file: "5" }

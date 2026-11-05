@@ -1,0 +1,9 @@
+province,region_key,region_name,region_name_norm,api_fips,crosswalk_fips
+CT,fairfield,Fairfield,FAIRFIELD,09001,
+CT,hartford,Hartford,HARTFORD,09003,
+CT,litchfield,Litchfield,LITCHFIELD,09005,
+CT,middlesex,Middlesex,MIDDLESEX,09007,
+CT,new_haven,New Haven,NEW HAVEN,09009,
+CT,new_london,New London,NEW LONDON,09011,
+CT,tolland,Tolland,TOLLAND,09013,
+CT,windham,Windham,WINDHAM,09015,

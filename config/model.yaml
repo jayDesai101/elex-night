@@ -1,0 +1,16 @@
+# Projection model settings. kappa, sigma_nu and alpha were tuned by the backtest
+# (reports/backtest.md, ADR-006) and are frozen here. enabled: false = counts only.
+enabled: true
+kappa: 0.1
+sigma_nu: 0.0
+alpha: 0.1
+draws: 2000
+seed: 20261103
+min_informative: 1000000000
+informative_pct: 20
+full_pct: 99
+shrink_m: 10
+sigma_floor: 0.02
+eta_floor: 0.005
+sigma_vt: 0.05
+min_pct_counted: 25  # hide projections below 25% of expected vote counted (ADR-006)

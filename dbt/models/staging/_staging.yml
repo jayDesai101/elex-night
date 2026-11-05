@@ -1,0 +1,35 @@
+version: 2
+
+models:
+  - name: stg_civic__race_snapshots
+    columns:
+      - name: race_id
+        tests: [not_null]
+      - name: fetched_at
+        tests: [not_null]
+      - name: "race_id || '|' || fetched_at"
+        tests: [unique]
+      - name: office
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: [senate, house, governor, other]
+  - name: stg_civic__candidate_results
+    columns:
+      - name: candidate_id
+        tests: [not_null]
+      - name: "race_id || '|' || fetched_at || '|' || candidate_id"
+        tests: [unique]
+      - name: party_code
+        tests:
+          - accepted_values:
+              arguments:
+                values: [D, R, I, O]
+  - name: stg_civic__region_results
+    columns:
+      - name: party_code
+        tests:
+          - accepted_values:
+              arguments:
+                values: [D, R, I, O]

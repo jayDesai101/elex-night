@@ -1,0 +1,17 @@
+data*/
+.env
+node_modules/
+dbt/target/
+dbt/logs/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+web/dist/
+dbt/.user.yml
+data-replay*/
+web/public/replay/
+data-fr-test/
+data-memtest/
+data-chunktest/

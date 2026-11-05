@@ -1,0 +1,1523 @@
+{
+  "election_name": "New Jersey Governor Democratic Primary",
+  "election_type": "Primary",
+  "election_scope": "Statewide",
+  "election_date": "2025-06-10T05:00:00.000Z",
+  "country": "US",
+  "province": "NJ",
+  "district": null,
+  "municipality": null,
+  "polls_open": "2025-06-10T11:00:00.000Z",
+  "polls_close": "2025-06-11T01:00:00.000Z",
+  "is_disputed": false,
+  "has_map": true,
+  "registered_voters": null,
+  "percent_reporting": 99.93,
+  "test_data": false,
+  "last_updated": "2026-01-14T03:19:57.918Z",
+  "round": 1,
+  "maps": [
+    {
+      "name": "New Jersey",
+      "map": "assets/New_Jersey.svg"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Mikie Sherrill",
+      "candidate_id": 12734,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": true,
+      "color": "#4874a3",
+      "votes": 276449,
+      "percent": 33.94
+    },
+    {
+      "name": "Ras Baraka",
+      "candidate_id": 12735,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#AA00BB",
+      "votes": 167491,
+      "percent": 20.56
+    },
+    {
+      "name": "Steve Fulop",
+      "candidate_id": 12736,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#00b0b0",
+      "votes": 130309,
+      "percent": 16
+    },
+    {
+      "name": "Josh Gottheimer",
+      "candidate_id": 12737,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#cd45c1",
+      "votes": 95050,
+      "percent": 11.67
+    },
+    {
+      "name": "Sean Spiller",
+      "candidate_id": 12738,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#8e4700",
+      "votes": 86963,
+      "percent": 10.68
+    },
+    {
+      "name": "Stephen Sweeney",
+      "candidate_id": 12739,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#002C77",
+      "votes": 58376,
+      "percent": 7.17
+    }
+  ],
+  "region_results": {
+    "atlantic": {
+      "name": "Atlantic",
+      "type": "County",
+      "fill": "#6790bc",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 5127,
+          "percent": 24.27
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 4059,
+          "percent": 19.22
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 3939,
+          "percent": 18.65
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 3611,
+          "percent": 17.1
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 3243,
+          "percent": 15.35
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 1144,
+          "percent": 5.42
+        }
+      ]
+    },
+    "bergen": {
+      "name": "Bergen",
+      "type": "County",
+      "fill": "#c836bb",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 30340,
+          "percent": 37.18
+        },
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 18557,
+          "percent": 22.74
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 14427,
+          "percent": 17.68
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 13037,
+          "percent": 15.97
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 4489,
+          "percent": 5.5
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 762,
+          "percent": 0.93
+        }
+      ]
+    },
+    "burlington": {
+      "name": "Burlington",
+      "type": "County",
+      "fill": "#4d7cae",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 16651,
+          "percent": 33.92
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 8252,
+          "percent": 16.81
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 8191,
+          "percent": 16.68
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 8151,
+          "percent": 16.6
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 5093,
+          "percent": 10.37
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 2758,
+          "percent": 5.62
+        }
+      ]
+    },
+    "camden": {
+      "name": "Camden",
+      "type": "County",
+      "fill": "#799dc4",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 15108,
+          "percent": 24.22
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 14492,
+          "percent": 23.23
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 14233,
+          "percent": 22.81
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 7480,
+          "percent": 11.99
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 6522,
+          "percent": 10.45
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 4550,
+          "percent": 7.29
+        }
+      ]
+    },
+    "cape_may": {
+      "name": "Cape May",
+      "type": "County",
+      "fill": "#608bb9",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 2615,
+          "percent": 38.52
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 1283,
+          "percent": 18.9
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 1254,
+          "percent": 18.47
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 898,
+          "percent": 13.23
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 434,
+          "percent": 6.39
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 304,
+          "percent": 4.48
+        }
+      ]
+    },
+    "cumberland": {
+      "name": "Cumberland",
+      "type": "County",
+      "fill": "#ff9328",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 2138,
+          "percent": 25.62
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 2007,
+          "percent": 24.05
+        },
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 1618,
+          "percent": 19.39
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 1403,
+          "percent": 16.81
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 668,
+          "percent": 8
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 511,
+          "percent": 6.12
+        }
+      ]
+    },
+    "essex": {
+      "name": "Essex",
+      "type": "County",
+      "fill": "#b800ca",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 36619,
+          "percent": 40.12
+        },
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 30822,
+          "percent": 33.77
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 12351,
+          "percent": 13.53
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 6114,
+          "percent": 6.7
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 4621,
+          "percent": 5.06
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 749,
+          "percent": 0.82
+        }
+      ]
+    },
+    "gloucester": {
+      "name": "Gloucester",
+      "type": "County",
+      "fill": "#003286",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 13359,
+          "percent": 40.32
+        },
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 7426,
+          "percent": 22.41
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 5413,
+          "percent": 16.34
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 2938,
+          "percent": 8.87
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 2345,
+          "percent": 7.08
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 1654,
+          "percent": 4.99
+        }
+      ]
+    },
+    "hudson": {
+      "name": "Hudson",
+      "type": "County",
+      "fill": "#5281b3",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 24590,
+          "percent": 34.43
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 20488,
+          "percent": 28.69
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 15640,
+          "percent": 21.9
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 5381,
+          "percent": 7.53
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 4192,
+          "percent": 5.87
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 1126,
+          "percent": 1.58
+        }
+      ]
+    },
+    "hunterdon": {
+      "name": "Hunterdon",
+      "type": "County",
+      "fill": "#5281b3",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 5902,
+          "percent": 50.38
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 2140,
+          "percent": 18.27
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 1419,
+          "percent": 12.11
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 1070,
+          "percent": 9.13
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 858,
+          "percent": 7.32
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 327,
+          "percent": 2.79
+        }
+      ]
+    },
+    "mercer": {
+      "name": "Mercer",
+      "type": "County",
+      "fill": "#4d7cae",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 13047,
+          "percent": 37.35
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 7674,
+          "percent": 21.97
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 6030,
+          "percent": 17.26
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 4444,
+          "percent": 12.72
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 2271,
+          "percent": 6.5
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 1464,
+          "percent": 4.19
+        }
+      ]
+    },
+    "middlesex": {
+      "name": "Middlesex",
+      "type": "County",
+      "fill": "#4d7cae",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 25795,
+          "percent": 34.68
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 15846,
+          "percent": 21.31
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 15199,
+          "percent": 20.44
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 7792,
+          "percent": 10.48
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 7421,
+          "percent": 9.98
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 2321,
+          "percent": 3.12
+        }
+      ]
+    },
+    "monmouth": {
+      "name": "Monmouth",
+      "type": "County",
+      "fill": "#426a95",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 21263,
+          "percent": 44.47
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 9554,
+          "percent": 19.98
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 6882,
+          "percent": 14.39
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 4677,
+          "percent": 9.78
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 4054,
+          "percent": 8.48
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 1382,
+          "percent": 2.89
+        }
+      ]
+    },
+    "morris": {
+      "name": "Morris",
+      "type": "County",
+      "fill": "#3a5d83",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 26244,
+          "percent": 62.27
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 5004,
+          "percent": 11.87
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 4267,
+          "percent": 10.12
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 3527,
+          "percent": 8.37
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 2626,
+          "percent": 6.23
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 477,
+          "percent": 1.13
+        }
+      ]
+    },
+    "ocean": {
+      "name": "Ocean",
+      "type": "County",
+      "fill": "#4d7cae",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 14496,
+          "percent": 36.31
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 9118,
+          "percent": 22.84
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 7301,
+          "percent": 18.29
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 3380,
+          "percent": 8.47
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 3368,
+          "percent": 8.44
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 2261,
+          "percent": 5.66
+        }
+      ]
+    },
+    "passaic": {
+      "name": "Passaic",
+      "type": "County",
+      "fill": "#608bb9",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 11828,
+          "percent": 35.42
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 10164,
+          "percent": 30.44
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 4102,
+          "percent": 12.28
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 3604,
+          "percent": 10.79
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 3250,
+          "percent": 9.73
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 446,
+          "percent": 1.34
+        }
+      ]
+    },
+    "salem": {
+      "name": "Salem",
+      "type": "County",
+      "fill": "#0045b9",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 1589,
+          "percent": 40.12
+        },
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 770,
+          "percent": 19.44
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 677,
+          "percent": 17.09
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 326,
+          "percent": 8.23
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 309,
+          "percent": 7.8
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 290,
+          "percent": 7.32
+        }
+      ]
+    },
+    "somerset": {
+      "name": "Somerset",
+      "type": "County",
+      "fill": "#4d7cae",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 12780,
+          "percent": 41.4
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 7337,
+          "percent": 23.77
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 4717,
+          "percent": 15.28
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 2919,
+          "percent": 9.46
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 2391,
+          "percent": 7.75
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 725,
+          "percent": 2.35
+        }
+      ]
+    },
+    "sussex": {
+      "name": "Sussex",
+      "type": "County",
+      "fill": "#608bb9",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 3882,
+          "percent": 43.49
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 2018,
+          "percent": 22.61
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 1028,
+          "percent": 11.52
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 970,
+          "percent": 10.87
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 916,
+          "percent": 10.26
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 112,
+          "percent": 1.25
+        }
+      ]
+    },
+    "union": {
+      "name": "Union",
+      "type": "County",
+      "fill": "#c100d4",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 19864,
+          "percent": 36.28
+        },
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 15568,
+          "percent": 28.43
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 8115,
+          "percent": 14.82
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 6081,
+          "percent": 11.11
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 4091,
+          "percent": 7.47
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 1035,
+          "percent": 1.89
+        }
+      ]
+    },
+    "warren": {
+      "name": "Warren",
+      "type": "County",
+      "fill": "#6e95bf",
+      "percent_reporting": 100,
+      "candidates": [
+        {
+          "name": "Mikie Sherrill",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": true,
+          "color": "#4874a3",
+          "votes": 2360,
+          "percent": 35.46
+        },
+        {
+          "name": "Josh Gottheimer",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#cd45c1",
+          "votes": 1527,
+          "percent": 22.94
+        },
+        {
+          "name": "Steve Fulop",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#00b0b0",
+          "votes": 980,
+          "percent": 14.72
+        },
+        {
+          "name": "Ras Baraka",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#AA00BB",
+          "votes": 852,
+          "percent": 12.8
+        },
+        {
+          "name": "Sean Spiller",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#8e4700",
+          "votes": 760,
+          "percent": 11.42
+        },
+        {
+          "name": "Stephen Sweeney",
+          "party": "Democratic",
+          "incumbent": false,
+          "major_candidate": true,
+          "winner": false,
+          "color": "#002C77",
+          "votes": 177,
+          "percent": 2.66
+        }
+      ]
+    }
+  }
+}

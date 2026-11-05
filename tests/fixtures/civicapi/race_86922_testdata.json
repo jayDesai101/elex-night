@@ -1,0 +1,409 @@
+{
+  "election_name": "Arizona US House 6",
+  "election_type": "House of Representatives",
+  "election_scope": "General",
+  "election_date": "2026-11-03T05:00:00.000Z",
+  "country": "US",
+  "province": "AZ",
+  "district": "AZ-06",
+  "municipality": null,
+  "polls_open": "2026-11-03T13:00:00.000Z",
+  "polls_close": "2026-11-04T02:00:00.000Z",
+  "is_disputed": false,
+  "has_map": true,
+  "registered_voters": null,
+  "percent_reporting": 100,
+  "test_data": false,
+  "last_updated": "2026-11-03T16:39:56.195Z",
+  "round": 1,
+  "maps": [
+    {
+      "name": "Arizona",
+      "map": "assets/Arizona.svg"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Juan Ciscomani",
+      "candidate_id": 219783,
+      "party": "Republican",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": true,
+      "advanced": false,
+      "color": "#c6606b",
+      "votes": 95550,
+      "percent": 25.38
+    },
+    {
+      "name": "Michael Dorland",
+      "candidate_id": 219786,
+      "party": "Independent",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#63c660",
+      "votes": 91879,
+      "percent": 24.41
+    },
+    {
+      "name": "Gary Swing",
+      "candidate_id": 219784,
+      "party": "Green",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#09ad00",
+      "votes": 77964,
+      "percent": 20.71
+    },
+    {
+      "name": "Jereme Peters",
+      "candidate_id": 219785,
+      "party": "Libertarian",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#d4c029",
+      "votes": 73662,
+      "percent": 19.57
+    },
+    {
+      "name": "JoAnna Mendoza",
+      "candidate_id": 219782,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": false,
+      "winner": false,
+      "advanced": false,
+      "color": "#4874a3",
+      "votes": 37365,
+      "percent": 9.93
+    }
+  ],
+  "region_results": {
+    "cochise": {
+      "name": "Cochise",
+      "type": "County",
+      "fips": "04003",
+      "fill": "#4bc344",
+      "percent_reporting": 15,
+      "candidates": [
+        {
+          "name": "JoAnna Mendoza",
+          "party": "Democratic",
+          "votes": 6817,
+          "percent": 7.03,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Juan Ciscomani",
+          "party": "Republican",
+          "votes": 21463,
+          "percent": 22.13,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Gary Swing",
+          "party": "Green",
+          "votes": 31890,
+          "percent": 32.89,
+          "color": "#09ad00",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Jereme Peters",
+          "party": "Libertarian",
+          "votes": 13607,
+          "percent": 14.03,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Michael Dorland",
+          "party": "Independent",
+          "votes": 23192,
+          "percent": 23.92,
+          "color": "#63c660",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "graham": {
+      "name": "Graham",
+      "type": "County",
+      "fips": "04009",
+      "fill": "#ebc8cc",
+      "percent_reporting": 69,
+      "candidates": [
+        {
+          "name": "JoAnna Mendoza",
+          "party": "Democratic",
+          "votes": 4962,
+          "percent": 3.58,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Juan Ciscomani",
+          "party": "Republican",
+          "votes": 49573,
+          "percent": 35.8,
+          "color": "#c6606b",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Gary Swing",
+          "party": "Green",
+          "votes": 14055,
+          "percent": 10.15,
+          "color": "#09ad00",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Jereme Peters",
+          "party": "Libertarian",
+          "votes": 46826,
+          "percent": 33.82,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Michael Dorland",
+          "party": "Independent",
+          "votes": 23050,
+          "percent": 16.65,
+          "color": "#63c660",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "greenlee": {
+      "name": "Greenlee",
+      "type": "County",
+      "fips": "04011",
+      "fill": "#b0e2af",
+      "percent_reporting": 48,
+      "candidates": [
+        {
+          "name": "JoAnna Mendoza",
+          "party": "Democratic",
+          "votes": 5738,
+          "percent": 26.07,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Juan Ciscomani",
+          "party": "Republican",
+          "votes": 5238,
+          "percent": 23.8,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Gary Swing",
+          "party": "Green",
+          "votes": 1231,
+          "percent": 5.59,
+          "color": "#09ad00",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Jereme Peters",
+          "party": "Libertarian",
+          "votes": 2712,
+          "percent": 12.32,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Michael Dorland",
+          "party": "Independent",
+          "votes": 7090,
+          "percent": 32.21,
+          "color": "#63c660",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pima": {
+      "name": "Pima",
+      "type": "County",
+      "fips": "04019",
+      "fill": "#bee7bd",
+      "percent_reporting": 16,
+      "candidates": [
+        {
+          "name": "JoAnna Mendoza",
+          "party": "Democratic",
+          "votes": 2732,
+          "percent": 16.23,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Juan Ciscomani",
+          "party": "Republican",
+          "votes": 2350,
+          "percent": 13.96,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Gary Swing",
+          "party": "Green",
+          "votes": 3326,
+          "percent": 19.76,
+          "color": "#09ad00",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Jereme Peters",
+          "party": "Libertarian",
+          "votes": 4048,
+          "percent": 24.05,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Michael Dorland",
+          "party": "Independent",
+          "votes": 4379,
+          "percent": 26.01,
+          "color": "#63c660",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    },
+    "pinal": {
+      "name": "Pinal",
+      "type": "County",
+      "fips": "04021",
+      "fill": "#b0e2af",
+      "percent_reporting": 66,
+      "candidates": [
+        {
+          "name": "JoAnna Mendoza",
+          "party": "Democratic",
+          "votes": 17116,
+          "percent": 16.76,
+          "color": "#4874a3",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Juan Ciscomani",
+          "party": "Republican",
+          "votes": 16926,
+          "percent": 16.57,
+          "color": "#c6606b",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Gary Swing",
+          "party": "Green",
+          "votes": 27462,
+          "percent": 26.89,
+          "color": "#09ad00",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Jereme Peters",
+          "party": "Libertarian",
+          "votes": 6469,
+          "percent": 6.33,
+          "color": "#d4c029",
+          "winner": false,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        },
+        {
+          "name": "Michael Dorland",
+          "party": "Independent",
+          "votes": 34168,
+          "percent": 33.45,
+          "color": "#63c660",
+          "winner": true,
+          "advanced": false,
+          "incumbent": false,
+          "major_candidate": false
+        }
+      ]
+    }
+  }
+}

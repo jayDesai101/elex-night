@@ -1,0 +1,12 @@
+party_label,party_code
+Democratic,D
+Republican,R
+Independent,I
+Nonaffiliated,I
+Unaffiliated,I
+Libertarian,O
+Green,O
+Nonpartisan,O
+Write-In,O
+Constitution,O
+U.S. Taxpayers,O

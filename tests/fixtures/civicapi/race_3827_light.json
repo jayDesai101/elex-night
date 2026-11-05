@@ -1,0 +1,93 @@
+{
+  "election_name": "New Jersey Governor Democratic Primary",
+  "election_type": "Primary",
+  "election_scope": "Statewide",
+  "election_date": "2025-06-10T05:00:00.000Z",
+  "country": "US",
+  "province": "NJ",
+  "district": null,
+  "municipality": null,
+  "polls_open": "2025-06-10T11:00:00.000Z",
+  "polls_close": "2025-06-11T01:00:00.000Z",
+  "is_disputed": false,
+  "has_map": true,
+  "registered_voters": null,
+  "percent_reporting": 99.93,
+  "test_data": false,
+  "last_updated": "2026-01-14T03:19:57.918Z",
+  "round": 1,
+  "maps": [
+    {
+      "name": "New Jersey",
+      "map": "assets/New_Jersey.svg"
+    }
+  ],
+  "candidates": [
+    {
+      "name": "Mikie Sherrill",
+      "candidate_id": 12734,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": true,
+      "color": "#4874a3",
+      "votes": 276449,
+      "percent": 33.94
+    },
+    {
+      "name": "Ras Baraka",
+      "candidate_id": 12735,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#AA00BB",
+      "votes": 167491,
+      "percent": 20.56
+    },
+    {
+      "name": "Steve Fulop",
+      "candidate_id": 12736,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#00b0b0",
+      "votes": 130309,
+      "percent": 16
+    },
+    {
+      "name": "Josh Gottheimer",
+      "candidate_id": 12737,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#cd45c1",
+      "votes": 95050,
+      "percent": 11.67
+    },
+    {
+      "name": "Sean Spiller",
+      "candidate_id": 12738,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#8e4700",
+      "votes": 86963,
+      "percent": 10.68
+    },
+    {
+      "name": "Stephen Sweeney",
+      "candidate_id": 12739,
+      "party": "Democratic",
+      "incumbent": false,
+      "major_candidate": true,
+      "winner": false,
+      "color": "#002C77",
+      "votes": 58376,
+      "percent": 7.17
+    }
+  ]
+}

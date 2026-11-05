@@ -1,0 +1,3224 @@
+province,region_name_norm,county_fips,match_method
+AK,ALEUTIANS EAST,02013,normalized
+AK,ALEUTIANS WEST,02016,normalized
+AK,ANCHORAGE,02020,normalized
+AK,BETHEL,02050,normalized
+AK,BRISTOL BAY,02060,normalized
+AK,CHUGACH,02063,normalized
+AK,COPPER RIVER,02066,normalized
+AK,DENALI,02068,normalized
+AK,DILLINGHAM,02070,normalized
+AK,FAIRBANKS NORTH STAR,02090,normalized
+AK,HAINES,02100,normalized
+AK,HOONAH ANGOON,02105,normalized
+AK,JUNEAU CITY AND,02110,normalized
+AK,KENAI PENINSULA,02122,normalized
+AK,KETCHIKAN GATEWAY,02130,normalized
+AK,KODIAK ISLAND,02150,normalized
+AK,KUSILVAK,02158,normalized
+AK,LAKE AND PENINSULA,02164,normalized
+AK,MATANUSKA SUSITNA,02170,normalized
+AK,NOME,02180,normalized
+AK,NORTH SLOPE,02185,normalized
+AK,NORTHWEST ARCTIC,02188,normalized
+AK,PETERSBURG,02195,normalized
+AK,PRINCE OF WALES HYDER,02198,normalized
+AK,SITKA CITY AND,02220,normalized
+AK,SKAGWAY,02230,normalized
+AK,SOUTHEAST FAIRBANKS,02240,normalized
+AK,WRANGELL CITY AND,02275,normalized
+AK,YAKUTAT CITY AND,02282,normalized
+AK,YUKON KOYUKUK,02290,normalized
+AL,AUTAUGA,01001,normalized
+AL,BALDWIN,01003,normalized
+AL,BARBOUR,01005,normalized
+AL,BIBB,01007,normalized
+AL,BLOUNT,01009,normalized
+AL,BULLOCK,01011,normalized
+AL,BUTLER,01013,normalized
+AL,CALHOUN,01015,normalized
+AL,CHAMBERS,01017,normalized
+AL,CHEROKEE,01019,normalized
+AL,CHILTON,01021,normalized
+AL,CHOCTAW,01023,normalized
+AL,CLARKE,01025,normalized
+AL,CLAY,01027,normalized
+AL,CLEBURNE,01029,normalized
+AL,COFFEE,01031,normalized
+AL,COLBERT,01033,normalized
+AL,CONECUH,01035,normalized
+AL,COOSA,01037,normalized
+AL,COVINGTON,01039,normalized
+AL,CRENSHAW,01041,normalized
+AL,CULLMAN,01043,normalized
+AL,DALE,01045,normalized
+AL,DALLAS,01047,normalized
+AL,DEKALB,01049,normalized
+AL,ELMORE,01051,normalized
+AL,ESCAMBIA,01053,normalized
+AL,ETOWAH,01055,normalized
+AL,FAYETTE,01057,normalized
+AL,FRANKLIN,01059,normalized
+AL,GENEVA,01061,normalized
+AL,GREENE,01063,normalized
+AL,HALE,01065,normalized
+AL,HENRY,01067,normalized
+AL,HOUSTON,01069,normalized
+AL,JACKSON,01071,normalized
+AL,JEFFERSON,01073,normalized
+AL,LAMAR,01075,normalized
+AL,LAUDERDALE,01077,normalized
+AL,LAWRENCE,01079,normalized
+AL,LEE,01081,normalized
+AL,LIMESTONE,01083,normalized
+AL,LOWNDES,01085,normalized
+AL,MACON,01087,normalized
+AL,MADISON,01089,normalized
+AL,MARENGO,01091,normalized
+AL,MARION,01093,normalized
+AL,MARSHALL,01095,normalized
+AL,MOBILE,01097,normalized
+AL,MONROE,01099,normalized
+AL,MONTGOMERY,01101,normalized
+AL,MORGAN,01103,normalized
+AL,PERRY,01105,normalized
+AL,PICKENS,01107,normalized
+AL,PIKE,01109,normalized
+AL,RANDOLPH,01111,normalized
+AL,RUSSELL,01113,normalized
+AL,SHELBY,01117,normalized
+AL,ST CLAIR,01115,normalized
+AL,SUMTER,01119,normalized
+AL,TALLADEGA,01121,normalized
+AL,TALLAPOOSA,01123,normalized
+AL,TUSCALOOSA,01125,normalized
+AL,WALKER,01127,normalized
+AL,WASHINGTON,01129,normalized
+AL,WILCOX,01131,normalized
+AL,WINSTON,01133,normalized
+AR,ARKANSAS,05001,normalized
+AR,ASHLEY,05003,normalized
+AR,BAXTER,05005,normalized
+AR,BENTON,05007,normalized
+AR,BOONE,05009,normalized
+AR,BRADLEY,05011,normalized
+AR,CALHOUN,05013,normalized
+AR,CARROLL,05015,normalized
+AR,CHICOT,05017,normalized
+AR,CLARK,05019,normalized
+AR,CLAY,05021,normalized
+AR,CLEBURNE,05023,normalized
+AR,CLEVELAND,05025,normalized
+AR,COLUMBIA,05027,normalized
+AR,CONWAY,05029,normalized
+AR,CRAIGHEAD,05031,normalized
+AR,CRAWFORD,05033,normalized
+AR,CRITTENDEN,05035,normalized
+AR,CROSS,05037,normalized
+AR,DALLAS,05039,normalized
+AR,DESHA,05041,normalized
+AR,DREW,05043,normalized
+AR,FAULKNER,05045,normalized
+AR,FRANKLIN,05047,normalized
+AR,FULTON,05049,normalized
+AR,GARLAND,05051,normalized
+AR,GRANT,05053,normalized
+AR,GREENE,05055,normalized
+AR,HEMPSTEAD,05057,normalized
+AR,HOT SPRING,05059,normalized
+AR,HOWARD,05061,normalized
+AR,INDEPENDENCE,05063,normalized
+AR,IZARD,05065,normalized
+AR,JACKSON,05067,normalized
+AR,JEFFERSON,05069,normalized
+AR,JOHNSON,05071,normalized
+AR,LAFAYETTE,05073,normalized
+AR,LAWRENCE,05075,normalized
+AR,LEE,05077,normalized
+AR,LINCOLN,05079,normalized
+AR,LITTLE RIVER,05081,normalized
+AR,LOGAN,05083,normalized
+AR,LONOKE,05085,normalized
+AR,MADISON,05087,normalized
+AR,MARION,05089,normalized
+AR,MILLER,05091,normalized
+AR,MISSISSIPPI,05093,normalized
+AR,MONROE,05095,normalized
+AR,MONTGOMERY,05097,normalized
+AR,NEVADA,05099,normalized
+AR,NEWTON,05101,normalized
+AR,OUACHITA,05103,normalized
+AR,PERRY,05105,normalized
+AR,PHILLIPS,05107,normalized
+AR,PIKE,05109,normalized
+AR,POINSETT,05111,normalized
+AR,POLK,05113,normalized
+AR,POPE,05115,normalized
+AR,PRAIRIE,05117,normalized
+AR,PULASKI,05119,normalized
+AR,RANDOLPH,05121,normalized
+AR,SALINE,05125,normalized
+AR,SCOTT,05127,normalized
+AR,SEARCY,05129,normalized
+AR,SEBASTIAN,05131,normalized
+AR,SEVIER,05133,normalized
+AR,SHARP,05135,normalized
+AR,ST FRANCIS,05123,normalized
+AR,STONE,05137,normalized
+AR,UNION,05139,normalized
+AR,VAN BUREN,05141,normalized
+AR,WASHINGTON,05143,normalized
+AR,WHITE,05145,normalized
+AR,WOODRUFF,05147,normalized
+AR,YELL,05149,normalized
+AZ,APACHE,04001,normalized
+AZ,COCHISE,04003,normalized
+AZ,COCONINO,04005,normalized
+AZ,GILA,04007,normalized
+AZ,GRAHAM,04009,normalized
+AZ,GREENLEE,04011,normalized
+AZ,LA PAZ,04012,normalized
+AZ,MARICOPA,04013,normalized
+AZ,MOHAVE,04015,normalized
+AZ,NAVAJO,04017,normalized
+AZ,PIMA,04019,normalized
+AZ,PINAL,04021,normalized
+AZ,SANTA CRUZ,04023,normalized
+AZ,YAVAPAI,04025,normalized
+AZ,YUMA,04027,normalized
+CA,ALAMEDA,06001,normalized
+CA,ALPINE,06003,normalized
+CA,AMADOR,06005,normalized
+CA,BUTTE,06007,normalized
+CA,CALAVERAS,06009,normalized
+CA,COLUSA,06011,normalized
+CA,CONTRA COSTA,06013,normalized
+CA,DEL NORTE,06015,normalized
+CA,EL DORADO,06017,normalized
+CA,FRESNO,06019,normalized
+CA,GLENN,06021,normalized
+CA,HUMBOLDT,06023,normalized
+CA,IMPERIAL,06025,normalized
+CA,INYO,06027,normalized
+CA,KERN,06029,normalized
+CA,KINGS,06031,normalized
+CA,LAKE,06033,normalized
+CA,LASSEN,06035,normalized
+CA,LOS ANGELES,06037,normalized
+CA,MADERA,06039,normalized
+CA,MARIN,06041,normalized
+CA,MARIPOSA,06043,normalized
+CA,MENDOCINO,06045,normalized
+CA,MERCED,06047,normalized
+CA,MODOC,06049,normalized
+CA,MONO,06051,normalized
+CA,MONTEREY,06053,normalized
+CA,NAPA,06055,normalized
+CA,NEVADA,06057,normalized
+CA,ORANGE,06059,normalized
+CA,PLACER,06061,normalized
+CA,PLUMAS,06063,normalized
+CA,RIVERSIDE,06065,normalized
+CA,SACRAMENTO,06067,normalized
+CA,SAN BENITO,06069,normalized
+CA,SAN BERNARDINO,06071,normalized
+CA,SAN DIEGO,06073,normalized
+CA,SAN FRANCISCO,06075,normalized
+CA,SAN JOAQUIN,06077,normalized
+CA,SAN LUIS OBISPO,06079,normalized
+CA,SAN MATEO,06081,normalized
+CA,SANTA BARBARA,06083,normalized
+CA,SANTA CLARA,06085,normalized
+CA,SANTA CRUZ,06087,normalized
+CA,SHASTA,06089,normalized
+CA,SIERRA,06091,normalized
+CA,SISKIYOU,06093,normalized
+CA,SOLANO,06095,normalized
+CA,SONOMA,06097,normalized
+CA,STANISLAUS,06099,normalized
+CA,SUTTER,06101,normalized
+CA,TEHAMA,06103,normalized
+CA,TRINITY,06105,normalized
+CA,TULARE,06107,normalized
+CA,TUOLUMNE,06109,normalized
+CA,VENTURA,06111,normalized
+CA,YOLO,06113,normalized
+CA,YUBA,06115,normalized
+CO,ADAMS,08001,normalized
+CO,ALAMOSA,08003,normalized
+CO,ARAPAHOE,08005,normalized
+CO,ARCHULETA,08007,normalized
+CO,BACA,08009,normalized
+CO,BENT,08011,normalized
+CO,BOULDER,08013,normalized
+CO,BROOMFIELD,08014,normalized
+CO,CHAFFEE,08015,normalized
+CO,CHEYENNE,08017,normalized
+CO,CLEAR CREEK,08019,normalized
+CO,CONEJOS,08021,normalized
+CO,COSTILLA,08023,normalized
+CO,CROWLEY,08025,normalized
+CO,CUSTER,08027,normalized
+CO,DELTA,08029,normalized
+CO,DENVER,08031,normalized
+CO,DOLORES,08033,normalized
+CO,DOUGLAS,08035,normalized
+CO,EAGLE,08037,normalized
+CO,EL PASO,08041,normalized
+CO,ELBERT,08039,normalized
+CO,FREMONT,08043,normalized
+CO,GARFIELD,08045,normalized
+CO,GILPIN,08047,normalized
+CO,GRAND,08049,normalized
+CO,GUNNISON,08051,normalized
+CO,HINSDALE,08053,normalized
+CO,HUERFANO,08055,normalized
+CO,JACKSON,08057,normalized
+CO,JEFFERSON,08059,normalized
+CO,KIOWA,08061,normalized
+CO,KIT CARSON,08063,normalized
+CO,LA PLATA,08067,normalized
+CO,LAKE,08065,normalized
+CO,LARIMER,08069,normalized
+CO,LAS ANIMAS,08071,normalized
+CO,LINCOLN,08073,normalized
+CO,LOGAN,08075,normalized
+CO,MESA,08077,normalized
+CO,MINERAL,08079,normalized
+CO,MOFFAT,08081,normalized
+CO,MONTEZUMA,08083,normalized
+CO,MONTROSE,08085,normalized
+CO,MORGAN,08087,normalized
+CO,OTERO,08089,normalized
+CO,OURAY,08091,normalized
+CO,PARK,08093,normalized
+CO,PHILLIPS,08095,normalized
+CO,PITKIN,08097,normalized
+CO,PROWERS,08099,normalized
+CO,PUEBLO,08101,normalized
+CO,RIO BLANCO,08103,normalized
+CO,RIO GRANDE,08105,normalized
+CO,ROUTT,08107,normalized
+CO,SAGUACHE,08109,normalized
+CO,SAN JUAN,08111,normalized
+CO,SAN MIGUEL,08113,normalized
+CO,SEDGWICK,08115,normalized
+CO,SUMMIT,08117,normalized
+CO,TELLER,08119,normalized
+CO,WASHINGTON,08121,normalized
+CO,WELD,08123,normalized
+CO,YUMA,08125,normalized
+CT,CAPITOL PLANNING REGION,09110,normalized
+CT,GREATER BRIDGEPORT PLANNING REGION,09120,normalized
+CT,LOWER CONNECTICUT RIVER VALLEY PLANNING REGION,09130,normalized
+CT,NAUGATUCK VALLEY PLANNING REGION,09140,normalized
+CT,NORTHEASTERN CONNECTICUT PLANNING REGION,09150,normalized
+CT,NORTHWEST HILLS PLANNING REGION,09160,normalized
+CT,SOUTH CENTRAL CONNECTICUT PLANNING REGION,09170,normalized
+CT,SOUTHEASTERN CONNECTICUT PLANNING REGION,09180,normalized
+CT,WESTERN CONNECTICUT PLANNING REGION,09190,normalized
+DC,DISTRICT OF COLUMBIA,11001,normalized
+DE,KENT,10001,normalized
+DE,NEW CASTLE,10003,normalized
+DE,SUSSEX,10005,normalized
+FL,ALACHUA,12001,normalized
+FL,BAKER,12003,normalized
+FL,BAY,12005,normalized
+FL,BRADFORD,12007,normalized
+FL,BREVARD,12009,normalized
+FL,BROWARD,12011,normalized
+FL,CALHOUN,12013,normalized
+FL,CHARLOTTE,12015,normalized
+FL,CITRUS,12017,normalized
+FL,CLAY,12019,normalized
+FL,COLLIER,12021,normalized
+FL,COLUMBIA,12023,normalized
+FL,DESOTO,12027,normalized
+FL,DIXIE,12029,normalized
+FL,DUVAL,12031,normalized
+FL,ESCAMBIA,12033,normalized
+FL,FLAGLER,12035,normalized
+FL,FRANKLIN,12037,normalized
+FL,GADSDEN,12039,normalized
+FL,GILCHRIST,12041,normalized
+FL,GLADES,12043,normalized
+FL,GULF,12045,normalized
+FL,HAMILTON,12047,normalized
+FL,HARDEE,12049,normalized
+FL,HENDRY,12051,normalized
+FL,HERNANDO,12053,normalized
+FL,HIGHLANDS,12055,normalized
+FL,HILLSBOROUGH,12057,normalized
+FL,HOLMES,12059,normalized
+FL,INDIAN RIVER,12061,normalized
+FL,JACKSON,12063,normalized
+FL,JEFFERSON,12065,normalized
+FL,LAFAYETTE,12067,normalized
+FL,LAKE,12069,normalized
+FL,LEE,12071,normalized
+FL,LEON,12073,normalized
+FL,LEVY,12075,normalized
+FL,LIBERTY,12077,normalized
+FL,MADISON,12079,normalized
+FL,MANATEE,12081,normalized
+FL,MARION,12083,normalized
+FL,MARTIN,12085,normalized
+FL,MIAMI DADE,12086,normalized
+FL,MONROE,12087,normalized
+FL,NASSAU,12089,normalized
+FL,OKALOOSA,12091,normalized
+FL,OKEECHOBEE,12093,normalized
+FL,ORANGE,12095,normalized
+FL,OSCEOLA,12097,normalized
+FL,PALM BEACH,12099,normalized
+FL,PASCO,12101,normalized
+FL,PINELLAS,12103,normalized
+FL,POLK,12105,normalized
+FL,PUTNAM,12107,normalized
+FL,SANTA ROSA,12113,normalized
+FL,SARASOTA,12115,normalized
+FL,SEMINOLE,12117,normalized
+FL,ST JOHNS,12109,normalized
+FL,ST LUCIE,12111,normalized
+FL,SUMTER,12119,normalized
+FL,SUWANNEE,12121,normalized
+FL,TAYLOR,12123,normalized
+FL,UNION,12125,normalized
+FL,VOLUSIA,12127,normalized
+FL,WAKULLA,12129,normalized
+FL,WALTON,12131,normalized
+FL,WASHINGTON,12133,normalized
+GA,APPLING,13001,normalized
+GA,ATKINSON,13003,normalized
+GA,BACON,13005,normalized
+GA,BAKER,13007,normalized
+GA,BALDWIN,13009,normalized
+GA,BANKS,13011,normalized
+GA,BARROW,13013,normalized
+GA,BARTOW,13015,normalized
+GA,BEN HILL,13017,normalized
+GA,BERRIEN,13019,normalized
+GA,BIBB,13021,normalized
+GA,BLECKLEY,13023,normalized
+GA,BRANTLEY,13025,normalized
+GA,BROOKS,13027,normalized
+GA,BRYAN,13029,normalized
+GA,BULLOCH,13031,normalized
+GA,BURKE,13033,normalized
+GA,BUTTS,13035,normalized
+GA,CALHOUN,13037,normalized
+GA,CAMDEN,13039,normalized
+GA,CANDLER,13043,normalized
+GA,CARROLL,13045,normalized
+GA,CATOOSA,13047,normalized
+GA,CHARLTON,13049,normalized
+GA,CHATHAM,13051,normalized
+GA,CHATTAHOOCHEE,13053,normalized
+GA,CHATTOOGA,13055,normalized
+GA,CHEROKEE,13057,normalized
+GA,CLARKE,13059,normalized
+GA,CLAY,13061,normalized
+GA,CLAYTON,13063,normalized
+GA,CLINCH,13065,normalized
+GA,COBB,13067,normalized
+GA,COFFEE,13069,normalized
+GA,COLQUITT,13071,normalized
+GA,COLUMBIA,13073,normalized
+GA,COOK,13075,normalized
+GA,COWETA,13077,normalized
+GA,CRAWFORD,13079,normalized
+GA,CRISP,13081,normalized
+GA,DADE,13083,normalized
+GA,DAWSON,13085,normalized
+GA,DECATUR,13087,normalized
+GA,DEKALB,13089,normalized
+GA,DODGE,13091,normalized
+GA,DOOLY,13093,normalized
+GA,DOUGHERTY,13095,normalized
+GA,DOUGLAS,13097,normalized
+GA,EARLY,13099,normalized
+GA,ECHOLS,13101,normalized
+GA,EFFINGHAM,13103,normalized
+GA,ELBERT,13105,normalized
+GA,EMANUEL,13107,normalized
+GA,EVANS,13109,normalized
+GA,FANNIN,13111,normalized
+GA,FAYETTE,13113,normalized
+GA,FLOYD,13115,normalized
+GA,FORSYTH,13117,normalized
+GA,FRANKLIN,13119,normalized
+GA,FULTON,13121,normalized
+GA,GILMER,13123,normalized
+GA,GLASCOCK,13125,normalized
+GA,GLYNN,13127,normalized
+GA,GORDON,13129,normalized
+GA,GRADY,13131,normalized
+GA,GREENE,13133,normalized
+GA,GWINNETT,13135,normalized
+GA,HABERSHAM,13137,normalized
+GA,HALL,13139,normalized
+GA,HANCOCK,13141,normalized
+GA,HARALSON,13143,normalized
+GA,HARRIS,13145,normalized
+GA,HART,13147,normalized
+GA,HEARD,13149,normalized
+GA,HENRY,13151,normalized
+GA,HOUSTON,13153,normalized
+GA,IRWIN,13155,normalized
+GA,JACKSON,13157,normalized
+GA,JASPER,13159,normalized
+GA,JEFF DAVIS,13161,normalized
+GA,JEFFERSON,13163,normalized
+GA,JENKINS,13165,normalized
+GA,JOHNSON,13167,normalized
+GA,JONES,13169,normalized
+GA,LAMAR,13171,normalized
+GA,LANIER,13173,normalized
+GA,LAURENS,13175,normalized
+GA,LEE,13177,normalized
+GA,LIBERTY,13179,normalized
+GA,LINCOLN,13181,normalized
+GA,LONG,13183,normalized
+GA,LOWNDES,13185,normalized
+GA,LUMPKIN,13187,normalized
+GA,MACON,13193,normalized
+GA,MADISON,13195,normalized
+GA,MARION,13197,normalized
+GA,MCDUFFIE,13189,normalized
+GA,MCINTOSH,13191,normalized
+GA,MERIWETHER,13199,normalized
+GA,MILLER,13201,normalized
+GA,MITCHELL,13205,normalized
+GA,MONROE,13207,normalized
+GA,MONTGOMERY,13209,normalized
+GA,MORGAN,13211,normalized
+GA,MURRAY,13213,normalized
+GA,MUSCOGEE,13215,normalized
+GA,NEWTON,13217,normalized
+GA,OCONEE,13219,normalized
+GA,OGLETHORPE,13221,normalized
+GA,PAULDING,13223,normalized
+GA,PEACH,13225,normalized
+GA,PICKENS,13227,normalized
+GA,PIERCE,13229,normalized
+GA,PIKE,13231,normalized
+GA,POLK,13233,normalized
+GA,PULASKI,13235,normalized
+GA,PUTNAM,13237,normalized
+GA,QUITMAN,13239,normalized
+GA,RABUN,13241,normalized
+GA,RANDOLPH,13243,normalized
+GA,RICHMOND,13245,normalized
+GA,ROCKDALE,13247,normalized
+GA,SCHLEY,13249,normalized
+GA,SCREVEN,13251,normalized
+GA,SEMINOLE,13253,normalized
+GA,SPALDING,13255,normalized
+GA,STEPHENS,13257,normalized
+GA,STEWART,13259,normalized
+GA,SUMTER,13261,normalized
+GA,TALBOT,13263,normalized
+GA,TALIAFERRO,13265,normalized
+GA,TATTNALL,13267,normalized
+GA,TAYLOR,13269,normalized
+GA,TELFAIR,13271,normalized
+GA,TERRELL,13273,normalized
+GA,THOMAS,13275,normalized
+GA,TIFT,13277,normalized
+GA,TOOMBS,13279,normalized
+GA,TOWNS,13281,normalized
+GA,TREUTLEN,13283,normalized
+GA,TROUP,13285,normalized
+GA,TURNER,13287,normalized
+GA,TWIGGS,13289,normalized
+GA,UNION,13291,normalized
+GA,UPSON,13293,normalized
+GA,WALKER,13295,normalized
+GA,WALTON,13297,normalized
+GA,WARE,13299,normalized
+GA,WARREN,13301,normalized
+GA,WASHINGTON,13303,normalized
+GA,WAYNE,13305,normalized
+GA,WEBSTER,13307,normalized
+GA,WHEELER,13309,normalized
+GA,WHITE,13311,normalized
+GA,WHITFIELD,13313,normalized
+GA,WILCOX,13315,normalized
+GA,WILKES,13317,normalized
+GA,WILKINSON,13319,normalized
+GA,WORTH,13321,normalized
+HI,HAWAII,15001,normalized
+HI,HONOLULU,15003,normalized
+HI,KALAWAO,15005,normalized
+HI,KAUAI,15007,normalized
+HI,MAUI,15009,normalized
+IA,ADAIR,19001,normalized
+IA,ADAMS,19003,normalized
+IA,ALLAMAKEE,19005,normalized
+IA,APPANOOSE,19007,normalized
+IA,AUDUBON,19009,normalized
+IA,BENTON,19011,normalized
+IA,BLACK HAWK,19013,normalized
+IA,BOONE,19015,normalized
+IA,BREMER,19017,normalized
+IA,BUCHANAN,19019,normalized
+IA,BUENA VISTA,19021,normalized
+IA,BUTLER,19023,normalized
+IA,CALHOUN,19025,normalized
+IA,CARROLL,19027,normalized
+IA,CASS,19029,normalized
+IA,CEDAR,19031,normalized
+IA,CERRO GORDO,19033,normalized
+IA,CHEROKEE,19035,normalized
+IA,CHICKASAW,19037,normalized
+IA,CLARKE,19039,normalized
+IA,CLAY,19041,normalized
+IA,CLAYTON,19043,normalized
+IA,CLINTON,19045,normalized
+IA,CRAWFORD,19047,normalized
+IA,DALLAS,19049,normalized
+IA,DAVIS,19051,normalized
+IA,DECATUR,19053,normalized
+IA,DELAWARE,19055,normalized
+IA,DES MOINES,19057,normalized
+IA,DICKINSON,19059,normalized
+IA,DUBUQUE,19061,normalized
+IA,EMMET,19063,normalized
+IA,FAYETTE,19065,normalized
+IA,FLOYD,19067,normalized
+IA,FRANKLIN,19069,normalized
+IA,FREMONT,19071,normalized
+IA,GREENE,19073,normalized
+IA,GRUNDY,19075,normalized
+IA,GUTHRIE,19077,normalized
+IA,HAMILTON,19079,normalized
+IA,HANCOCK,19081,normalized
+IA,HARDIN,19083,normalized
+IA,HARRISON,19085,normalized
+IA,HENRY,19087,normalized
+IA,HOWARD,19089,normalized
+IA,HUMBOLDT,19091,normalized
+IA,IDA,19093,normalized
+IA,IOWA,19095,normalized
+IA,JACKSON,19097,normalized
+IA,JASPER,19099,normalized
+IA,JEFFERSON,19101,normalized
+IA,JOHNSON,19103,normalized
+IA,JONES,19105,normalized
+IA,KEOKUK,19107,normalized
+IA,KOSSUTH,19109,normalized
+IA,LEE,19111,normalized
+IA,LINN,19113,normalized
+IA,LOUISA,19115,normalized
+IA,LUCAS,19117,normalized
+IA,LYON,19119,normalized
+IA,MADISON,19121,normalized
+IA,MAHASKA,19123,normalized
+IA,MARION,19125,normalized
+IA,MARSHALL,19127,normalized
+IA,MILLS,19129,normalized
+IA,MITCHELL,19131,normalized
+IA,MONONA,19133,normalized
+IA,MONROE,19135,normalized
+IA,MONTGOMERY,19137,normalized
+IA,MUSCATINE,19139,normalized
+IA,OBRIEN,19141,normalized
+IA,OSCEOLA,19143,normalized
+IA,PAGE,19145,normalized
+IA,PALO ALTO,19147,normalized
+IA,PLYMOUTH,19149,normalized
+IA,POCAHONTAS,19151,normalized
+IA,POLK,19153,normalized
+IA,POTTAWATTAMIE,19155,normalized
+IA,POWESHIEK,19157,normalized
+IA,RINGGOLD,19159,normalized
+IA,SAC,19161,normalized
+IA,SCOTT,19163,normalized
+IA,SHELBY,19165,normalized
+IA,SIOUX,19167,normalized
+IA,STORY,19169,normalized
+IA,TAMA,19171,normalized
+IA,TAYLOR,19173,normalized
+IA,UNION,19175,normalized
+IA,VAN BUREN,19177,normalized
+IA,WAPELLO,19179,normalized
+IA,WARREN,19181,normalized
+IA,WASHINGTON,19183,normalized
+IA,WAYNE,19185,normalized
+IA,WEBSTER,19187,normalized
+IA,WINNEBAGO,19189,normalized
+IA,WINNESHIEK,19191,normalized
+IA,WOODBURY,19193,normalized
+IA,WORTH,19195,normalized
+IA,WRIGHT,19197,normalized
+ID,ADA,16001,normalized
+ID,ADAMS,16003,normalized
+ID,BANNOCK,16005,normalized
+ID,BEAR LAKE,16007,normalized
+ID,BENEWAH,16009,normalized
+ID,BINGHAM,16011,normalized
+ID,BLAINE,16013,normalized
+ID,BOISE,16015,normalized
+ID,BONNER,16017,normalized
+ID,BONNEVILLE,16019,normalized
+ID,BOUNDARY,16021,normalized
+ID,BUTTE,16023,normalized
+ID,CAMAS,16025,normalized
+ID,CANYON,16027,normalized
+ID,CARIBOU,16029,normalized
+ID,CASSIA,16031,normalized
+ID,CLARK,16033,normalized
+ID,CLEARWATER,16035,normalized
+ID,CUSTER,16037,normalized
+ID,ELMORE,16039,normalized
+ID,FRANKLIN,16041,normalized
+ID,FREMONT,16043,normalized
+ID,GEM,16045,normalized
+ID,GOODING,16047,normalized
+ID,IDAHO,16049,normalized
+ID,JEFFERSON,16051,normalized
+ID,JEROME,16053,normalized
+ID,KOOTENAI,16055,normalized
+ID,LATAH,16057,normalized
+ID,LEMHI,16059,normalized
+ID,LEWIS,16061,normalized
+ID,LINCOLN,16063,normalized
+ID,MADISON,16065,normalized
+ID,MINIDOKA,16067,normalized
+ID,NEZ PERCE,16069,normalized
+ID,ONEIDA,16071,normalized
+ID,OWYHEE,16073,normalized
+ID,PAYETTE,16075,normalized
+ID,POWER,16077,normalized
+ID,SHOSHONE,16079,normalized
+ID,TETON,16081,normalized
+ID,TWIN FALLS,16083,normalized
+ID,VALLEY,16085,normalized
+ID,WASHINGTON,16087,normalized
+IL,ADAMS,17001,normalized
+IL,ALEXANDER,17003,normalized
+IL,BOND,17005,normalized
+IL,BOONE,17007,normalized
+IL,BROWN,17009,normalized
+IL,BUREAU,17011,normalized
+IL,CALHOUN,17013,normalized
+IL,CARROLL,17015,normalized
+IL,CASS,17017,normalized
+IL,CHAMPAIGN,17019,normalized
+IL,CHRISTIAN,17021,normalized
+IL,CLARK,17023,normalized
+IL,CLAY,17025,normalized
+IL,CLINTON,17027,normalized
+IL,COLES,17029,normalized
+IL,COOK,17031,normalized
+IL,CRAWFORD,17033,normalized
+IL,CUMBERLAND,17035,normalized
+IL,DE WITT,17039,normalized
+IL,DEKALB,17037,normalized
+IL,DOUGLAS,17041,normalized
+IL,DUPAGE,17043,normalized
+IL,EDGAR,17045,normalized
+IL,EDWARDS,17047,normalized
+IL,EFFINGHAM,17049,normalized
+IL,FAYETTE,17051,normalized
+IL,FORD,17053,normalized
+IL,FRANKLIN,17055,normalized
+IL,FULTON,17057,normalized
+IL,GALLATIN,17059,normalized
+IL,GREENE,17061,normalized
+IL,GRUNDY,17063,normalized
+IL,HAMILTON,17065,normalized
+IL,HANCOCK,17067,normalized
+IL,HARDIN,17069,normalized
+IL,HENDERSON,17071,normalized
+IL,HENRY,17073,normalized
+IL,IROQUOIS,17075,normalized
+IL,JACKSON,17077,normalized
+IL,JASPER,17079,normalized
+IL,JEFFERSON,17081,normalized
+IL,JERSEY,17083,normalized
+IL,JO DAVIESS,17085,normalized
+IL,JOHNSON,17087,normalized
+IL,KANE,17089,normalized
+IL,KANKAKEE,17091,normalized
+IL,KENDALL,17093,normalized
+IL,KNOX,17095,normalized
+IL,LAKE,17097,normalized
+IL,LASALLE,17099,normalized
+IL,LAWRENCE,17101,normalized
+IL,LEE,17103,normalized
+IL,LIVINGSTON,17105,normalized
+IL,LOGAN,17107,normalized
+IL,MACON,17115,normalized
+IL,MACOUPIN,17117,normalized
+IL,MADISON,17119,normalized
+IL,MARION,17121,normalized
+IL,MARSHALL,17123,normalized
+IL,MASON,17125,normalized
+IL,MASSAC,17127,normalized
+IL,MCDONOUGH,17109,normalized
+IL,MCHENRY,17111,normalized
+IL,MCLEAN,17113,normalized
+IL,MENARD,17129,normalized
+IL,MERCER,17131,normalized
+IL,MONROE,17133,normalized
+IL,MONTGOMERY,17135,normalized
+IL,MORGAN,17137,normalized
+IL,MOULTRIE,17139,normalized
+IL,OGLE,17141,normalized
+IL,PEORIA,17143,normalized
+IL,PERRY,17145,normalized
+IL,PIATT,17147,normalized
+IL,PIKE,17149,normalized
+IL,POPE,17151,normalized
+IL,PULASKI,17153,normalized
+IL,PUTNAM,17155,normalized
+IL,RANDOLPH,17157,normalized
+IL,RICHLAND,17159,normalized
+IL,ROCK ISLAND,17161,normalized
+IL,SALINE,17165,normalized
+IL,SANGAMON,17167,normalized
+IL,SCHUYLER,17169,normalized
+IL,SCOTT,17171,normalized
+IL,SHELBY,17173,normalized
+IL,ST CLAIR,17163,normalized
+IL,STARK,17175,normalized
+IL,STEPHENSON,17177,normalized
+IL,TAZEWELL,17179,normalized
+IL,UNION,17181,normalized
+IL,VERMILION,17183,normalized
+IL,WABASH,17185,normalized
+IL,WARREN,17187,normalized
+IL,WASHINGTON,17189,normalized
+IL,WAYNE,17191,normalized
+IL,WHITE,17193,normalized
+IL,WHITESIDE,17195,normalized
+IL,WILL,17197,normalized
+IL,WILLIAMSON,17199,normalized
+IL,WINNEBAGO,17201,normalized
+IL,WOODFORD,17203,normalized
+IN,ADAMS,18001,normalized
+IN,ALLEN,18003,normalized
+IN,BARTHOLOMEW,18005,normalized
+IN,BENTON,18007,normalized
+IN,BLACKFORD,18009,normalized
+IN,BOONE,18011,normalized
+IN,BROWN,18013,normalized
+IN,CARROLL,18015,normalized
+IN,CASS,18017,normalized
+IN,CLARK,18019,normalized
+IN,CLAY,18021,normalized
+IN,CLINTON,18023,normalized
+IN,CRAWFORD,18025,normalized
+IN,DAVIESS,18027,normalized
+IN,DEARBORN,18029,normalized
+IN,DECATUR,18031,normalized
+IN,DEKALB,18033,normalized
+IN,DELAWARE,18035,normalized
+IN,DUBOIS,18037,normalized
+IN,ELKHART,18039,normalized
+IN,FAYETTE,18041,normalized
+IN,FLOYD,18043,normalized
+IN,FOUNTAIN,18045,normalized
+IN,FRANKLIN,18047,normalized
+IN,FULTON,18049,normalized
+IN,GIBSON,18051,normalized
+IN,GRANT,18053,normalized
+IN,GREENE,18055,normalized
+IN,HAMILTON,18057,normalized
+IN,HANCOCK,18059,normalized
+IN,HARRISON,18061,normalized
+IN,HENDRICKS,18063,normalized
+IN,HENRY,18065,normalized
+IN,HOWARD,18067,normalized
+IN,HUNTINGTON,18069,normalized
+IN,JACKSON,18071,normalized
+IN,JASPER,18073,normalized
+IN,JAY,18075,normalized
+IN,JEFFERSON,18077,normalized
+IN,JENNINGS,18079,normalized
+IN,JOHNSON,18081,normalized
+IN,KNOX,18083,normalized
+IN,KOSCIUSKO,18085,normalized
+IN,LAGRANGE,18087,normalized
+IN,LAKE,18089,normalized
+IN,LAPORTE,18091,normalized
+IN,LAWRENCE,18093,normalized
+IN,MADISON,18095,normalized
+IN,MARION,18097,normalized
+IN,MARSHALL,18099,normalized
+IN,MARTIN,18101,normalized
+IN,MIAMI,18103,normalized
+IN,MONROE,18105,normalized
+IN,MONTGOMERY,18107,normalized
+IN,MORGAN,18109,normalized
+IN,NEWTON,18111,normalized
+IN,NOBLE,18113,normalized
+IN,OHIO,18115,normalized
+IN,ORANGE,18117,normalized
+IN,OWEN,18119,normalized
+IN,PARKE,18121,normalized
+IN,PERRY,18123,normalized
+IN,PIKE,18125,normalized
+IN,PORTER,18127,normalized
+IN,POSEY,18129,normalized
+IN,PULASKI,18131,normalized
+IN,PUTNAM,18133,normalized
+IN,RANDOLPH,18135,normalized
+IN,RIPLEY,18137,normalized
+IN,RUSH,18139,normalized
+IN,SCOTT,18143,normalized
+IN,SHELBY,18145,normalized
+IN,SPENCER,18147,normalized
+IN,ST JOSEPH,18141,normalized
+IN,STARKE,18149,normalized
+IN,STEUBEN,18151,normalized
+IN,SULLIVAN,18153,normalized
+IN,SWITZERLAND,18155,normalized
+IN,TIPPECANOE,18157,normalized
+IN,TIPTON,18159,normalized
+IN,UNION,18161,normalized
+IN,VANDERBURGH,18163,normalized
+IN,VERMILLION,18165,normalized
+IN,VIGO,18167,normalized
+IN,WABASH,18169,normalized
+IN,WARREN,18171,normalized
+IN,WARRICK,18173,normalized
+IN,WASHINGTON,18175,normalized
+IN,WAYNE,18177,normalized
+IN,WELLS,18179,normalized
+IN,WHITE,18181,normalized
+IN,WHITLEY,18183,normalized
+KS,ALLEN,20001,normalized
+KS,ANDERSON,20003,normalized
+KS,ATCHISON,20005,normalized
+KS,BARBER,20007,normalized
+KS,BARTON,20009,normalized
+KS,BOURBON,20011,normalized
+KS,BROWN,20013,normalized
+KS,BUTLER,20015,normalized
+KS,CHASE,20017,normalized
+KS,CHAUTAUQUA,20019,normalized
+KS,CHEROKEE,20021,normalized
+KS,CHEYENNE,20023,normalized
+KS,CLARK,20025,normalized
+KS,CLAY,20027,normalized
+KS,CLOUD,20029,normalized
+KS,COFFEY,20031,normalized
+KS,COMANCHE,20033,normalized
+KS,COWLEY,20035,normalized
+KS,CRAWFORD,20037,normalized
+KS,DECATUR,20039,normalized
+KS,DICKINSON,20041,normalized
+KS,DONIPHAN,20043,normalized
+KS,DOUGLAS,20045,normalized
+KS,EDWARDS,20047,normalized
+KS,ELK,20049,normalized
+KS,ELLIS,20051,normalized
+KS,ELLSWORTH,20053,normalized
+KS,FINNEY,20055,normalized
+KS,FORD,20057,normalized
+KS,FRANKLIN,20059,normalized
+KS,GEARY,20061,normalized
+KS,GOVE,20063,normalized
+KS,GRAHAM,20065,normalized
+KS,GRANT,20067,normalized
+KS,GRAY,20069,normalized
+KS,GREELEY,20071,normalized
+KS,GREENWOOD,20073,normalized
+KS,HAMILTON,20075,normalized
+KS,HARPER,20077,normalized
+KS,HARVEY,20079,normalized
+KS,HASKELL,20081,normalized
+KS,HODGEMAN,20083,normalized
+KS,JACKSON,20085,normalized
+KS,JEFFERSON,20087,normalized
+KS,JEWELL,20089,normalized
+KS,JOHNSON,20091,normalized
+KS,KEARNY,20093,normalized
+KS,KINGMAN,20095,normalized
+KS,KIOWA,20097,normalized
+KS,LABETTE,20099,normalized
+KS,LANE,20101,normalized
+KS,LEAVENWORTH,20103,normalized
+KS,LINCOLN,20105,normalized
+KS,LINN,20107,normalized
+KS,LOGAN,20109,normalized
+KS,LYON,20111,normalized
+KS,MARION,20115,normalized
+KS,MARSHALL,20117,normalized
+KS,MCPHERSON,20113,normalized
+KS,MEADE,20119,normalized
+KS,MIAMI,20121,normalized
+KS,MITCHELL,20123,normalized
+KS,MONTGOMERY,20125,normalized
+KS,MORRIS,20127,normalized
+KS,MORTON,20129,normalized
+KS,NEMAHA,20131,normalized
+KS,NEOSHO,20133,normalized
+KS,NESS,20135,normalized
+KS,NORTON,20137,normalized
+KS,OSAGE,20139,normalized
+KS,OSBORNE,20141,normalized
+KS,OTTAWA,20143,normalized
+KS,PAWNEE,20145,normalized
+KS,PHILLIPS,20147,normalized
+KS,POTTAWATOMIE,20149,normalized
+KS,PRATT,20151,normalized
+KS,RAWLINS,20153,normalized
+KS,RENO,20155,normalized
+KS,REPUBLIC,20157,normalized
+KS,RICE,20159,normalized
+KS,RILEY,20161,normalized
+KS,ROOKS,20163,normalized
+KS,RUSH,20165,normalized
+KS,RUSSELL,20167,normalized
+KS,SALINE,20169,normalized
+KS,SCOTT,20171,normalized
+KS,SEDGWICK,20173,normalized
+KS,SEWARD,20175,normalized
+KS,SHAWNEE,20177,normalized
+KS,SHERIDAN,20179,normalized
+KS,SHERMAN,20181,normalized
+KS,SMITH,20183,normalized
+KS,STAFFORD,20185,normalized
+KS,STANTON,20187,normalized
+KS,STEVENS,20189,normalized
+KS,SUMNER,20191,normalized
+KS,THOMAS,20193,normalized
+KS,TREGO,20195,normalized
+KS,WABAUNSEE,20197,normalized
+KS,WALLACE,20199,normalized
+KS,WASHINGTON,20201,normalized
+KS,WICHITA,20203,normalized
+KS,WILSON,20205,normalized
+KS,WOODSON,20207,normalized
+KS,WYANDOTTE,20209,normalized
+KY,ADAIR,21001,normalized
+KY,ALLEN,21003,normalized
+KY,ANDERSON,21005,normalized
+KY,BALLARD,21007,normalized
+KY,BARREN,21009,normalized
+KY,BATH,21011,normalized
+KY,BELL,21013,normalized
+KY,BOONE,21015,normalized
+KY,BOURBON,21017,normalized
+KY,BOYD,21019,normalized
+KY,BOYLE,21021,normalized
+KY,BRACKEN,21023,normalized
+KY,BREATHITT,21025,normalized
+KY,BRECKINRIDGE,21027,normalized
+KY,BULLITT,21029,normalized
+KY,BUTLER,21031,normalized
+KY,CALDWELL,21033,normalized
+KY,CALLOWAY,21035,normalized
+KY,CAMPBELL,21037,normalized
+KY,CARLISLE,21039,normalized
+KY,CARROLL,21041,normalized
+KY,CARTER,21043,normalized
+KY,CASEY,21045,normalized
+KY,CHRISTIAN,21047,normalized
+KY,CLARK,21049,normalized
+KY,CLAY,21051,normalized
+KY,CLINTON,21053,normalized
+KY,CRITTENDEN,21055,normalized
+KY,CUMBERLAND,21057,normalized
+KY,DAVIESS,21059,normalized
+KY,EDMONSON,21061,normalized
+KY,ELLIOTT,21063,normalized
+KY,ESTILL,21065,normalized
+KY,FAYETTE,21067,normalized
+KY,FLEMING,21069,normalized
+KY,FLOYD,21071,normalized
+KY,FRANKLIN,21073,normalized
+KY,FULTON,21075,normalized
+KY,GALLATIN,21077,normalized
+KY,GARRARD,21079,normalized
+KY,GRANT,21081,normalized
+KY,GRAVES,21083,normalized
+KY,GRAYSON,21085,normalized
+KY,GREEN,21087,normalized
+KY,GREENUP,21089,normalized
+KY,HANCOCK,21091,normalized
+KY,HARDIN,21093,normalized
+KY,HARLAN,21095,normalized
+KY,HARRISON,21097,normalized
+KY,HART,21099,normalized
+KY,HENDERSON,21101,normalized
+KY,HENRY,21103,normalized
+KY,HICKMAN,21105,normalized
+KY,HOPKINS,21107,normalized
+KY,JACKSON,21109,normalized
+KY,JEFFERSON,21111,normalized
+KY,JESSAMINE,21113,normalized
+KY,JOHNSON,21115,normalized
+KY,KENTON,21117,normalized
+KY,KNOTT,21119,normalized
+KY,KNOX,21121,normalized
+KY,LARUE,21123,normalized
+KY,LAUREL,21125,normalized
+KY,LAWRENCE,21127,normalized
+KY,LEE,21129,normalized
+KY,LESLIE,21131,normalized
+KY,LETCHER,21133,normalized
+KY,LEWIS,21135,normalized
+KY,LINCOLN,21137,normalized
+KY,LIVINGSTON,21139,normalized
+KY,LOGAN,21141,normalized
+KY,LYON,21143,normalized
+KY,MADISON,21151,normalized
+KY,MAGOFFIN,21153,normalized
+KY,MARION,21155,normalized
+KY,MARSHALL,21157,normalized
+KY,MARTIN,21159,normalized
+KY,MASON,21161,normalized
+KY,MCCRACKEN,21145,normalized
+KY,MCCREARY,21147,normalized
+KY,MCLEAN,21149,normalized
+KY,MEADE,21163,normalized
+KY,MENIFEE,21165,normalized
+KY,MERCER,21167,normalized
+KY,METCALFE,21169,normalized
+KY,MONROE,21171,normalized
+KY,MONTGOMERY,21173,normalized
+KY,MORGAN,21175,normalized
+KY,MUHLENBERG,21177,normalized
+KY,NELSON,21179,normalized
+KY,NICHOLAS,21181,normalized
+KY,OHIO,21183,normalized
+KY,OLDHAM,21185,normalized
+KY,OWEN,21187,normalized
+KY,OWSLEY,21189,normalized
+KY,PENDLETON,21191,normalized
+KY,PERRY,21193,normalized
+KY,PIKE,21195,normalized
+KY,POWELL,21197,normalized
+KY,PULASKI,21199,normalized
+KY,ROBERTSON,21201,normalized
+KY,ROCKCASTLE,21203,normalized
+KY,ROWAN,21205,normalized
+KY,RUSSELL,21207,normalized
+KY,SCOTT,21209,normalized
+KY,SHELBY,21211,normalized
+KY,SIMPSON,21213,normalized
+KY,SPENCER,21215,normalized
+KY,TAYLOR,21217,normalized
+KY,TODD,21219,normalized
+KY,TRIGG,21221,normalized
+KY,TRIMBLE,21223,normalized
+KY,UNION,21225,normalized
+KY,WARREN,21227,normalized
+KY,WASHINGTON,21229,normalized
+KY,WAYNE,21231,normalized
+KY,WEBSTER,21233,normalized
+KY,WHITLEY,21235,normalized
+KY,WOLFE,21237,normalized
+KY,WOODFORD,21239,normalized
+LA,ACADIA,22001,normalized
+LA,ALLEN,22003,normalized
+LA,ASCENSION,22005,normalized
+LA,ASSUMPTION,22007,normalized
+LA,AVOYELLES,22009,normalized
+LA,BEAUREGARD,22011,normalized
+LA,BIENVILLE,22013,normalized
+LA,BOSSIER,22015,normalized
+LA,CADDO,22017,normalized
+LA,CALCASIEU,22019,normalized
+LA,CALDWELL,22021,normalized
+LA,CAMERON,22023,normalized
+LA,CATAHOULA,22025,normalized
+LA,CLAIBORNE,22027,normalized
+LA,CONCORDIA,22029,normalized
+LA,DE SOTO,22031,normalized
+LA,EAST BATON ROUGE,22033,normalized
+LA,EAST CARROLL,22035,normalized
+LA,EAST FELICIANA,22037,normalized
+LA,EVANGELINE,22039,normalized
+LA,FRANKLIN,22041,normalized
+LA,GRANT,22043,normalized
+LA,IBERIA,22045,normalized
+LA,IBERVILLE,22047,normalized
+LA,JACKSON,22049,normalized
+LA,JEFFERSON,22051,normalized
+LA,JEFFERSON DAVIS,22053,normalized
+LA,LAFAYETTE,22055,normalized
+LA,LAFOURCHE,22057,normalized
+LA,LASALLE,22059,normalized
+LA,LINCOLN,22061,normalized
+LA,LIVINGSTON,22063,normalized
+LA,MADISON,22065,normalized
+LA,MOREHOUSE,22067,normalized
+LA,NATCHITOCHES,22069,normalized
+LA,ORLEANS,22071,normalized
+LA,OUACHITA,22073,normalized
+LA,PLAQUEMINES,22075,normalized
+LA,POINTE COUPEE,22077,normalized
+LA,RAPIDES,22079,normalized
+LA,RED RIVER,22081,normalized
+LA,RICHLAND,22083,normalized
+LA,SABINE,22085,normalized
+LA,ST BERNARD,22087,normalized
+LA,ST CHARLES,22089,normalized
+LA,ST HELENA,22091,normalized
+LA,ST JAMES,22093,normalized
+LA,ST JOHN THE BAPTIST,22095,normalized
+LA,ST LANDRY,22097,normalized
+LA,ST MARTIN,22099,normalized
+LA,ST MARY,22101,normalized
+LA,ST TAMMANY,22103,normalized
+LA,TANGIPAHOA,22105,normalized
+LA,TENSAS,22107,normalized
+LA,TERREBONNE,22109,normalized
+LA,UNION,22111,normalized
+LA,VERMILION,22113,normalized
+LA,VERNON,22115,normalized
+LA,WASHINGTON,22117,normalized
+LA,WEBSTER,22119,normalized
+LA,WEST BATON ROUGE,22121,normalized
+LA,WEST CARROLL,22123,normalized
+LA,WEST FELICIANA,22125,normalized
+LA,WINN,22127,normalized
+MA,BARNSTABLE,25001,normalized
+MA,BERKSHIRE,25003,normalized
+MA,BRISTOL,25005,normalized
+MA,DUKES,25007,normalized
+MA,ESSEX,25009,normalized
+MA,FRANKLIN,25011,normalized
+MA,HAMPDEN,25013,normalized
+MA,HAMPSHIRE,25015,normalized
+MA,MIDDLESEX,25017,normalized
+MA,NANTUCKET,25019,normalized
+MA,NORFOLK,25021,normalized
+MA,PLYMOUTH,25023,normalized
+MA,SUFFOLK,25025,normalized
+MA,WORCESTER,25027,normalized
+MD,ALLEGANY,24001,normalized
+MD,ANNE ARUNDEL,24003,normalized
+MD,BALTIMORE,24005,normalized
+MD,BALTIMORE CITY,24510,normalized
+MD,CALVERT,24009,normalized
+MD,CAROLINE,24011,normalized
+MD,CARROLL,24013,normalized
+MD,CECIL,24015,normalized
+MD,CHARLES,24017,normalized
+MD,DORCHESTER,24019,normalized
+MD,FREDERICK,24021,normalized
+MD,GARRETT,24023,normalized
+MD,HARFORD,24025,normalized
+MD,HOWARD,24027,normalized
+MD,KENT,24029,normalized
+MD,MONTGOMERY,24031,normalized
+MD,PRINCE GEORGES,24033,normalized
+MD,QUEEN ANNES,24035,normalized
+MD,SOMERSET,24039,normalized
+MD,ST MARYS,24037,normalized
+MD,TALBOT,24041,normalized
+MD,WASHINGTON,24043,normalized
+MD,WICOMICO,24045,normalized
+MD,WORCESTER,24047,normalized
+ME,ANDROSCOGGIN,23001,normalized
+ME,AROOSTOOK,23003,normalized
+ME,CUMBERLAND,23005,normalized
+ME,FRANKLIN,23007,normalized
+ME,HANCOCK,23009,normalized
+ME,KENNEBEC,23011,normalized
+ME,KNOX,23013,normalized
+ME,LINCOLN,23015,normalized
+ME,OXFORD,23017,normalized
+ME,PENOBSCOT,23019,normalized
+ME,PISCATAQUIS,23021,normalized
+ME,SAGADAHOC,23023,normalized
+ME,SOMERSET,23025,normalized
+ME,WALDO,23027,normalized
+ME,WASHINGTON,23029,normalized
+ME,YORK,23031,normalized
+MI,ALCONA,26001,normalized
+MI,ALGER,26003,normalized
+MI,ALLEGAN,26005,normalized
+MI,ALPENA,26007,normalized
+MI,ANTRIM,26009,normalized
+MI,ARENAC,26011,normalized
+MI,BARAGA,26013,normalized
+MI,BARRY,26015,normalized
+MI,BAY,26017,normalized
+MI,BENZIE,26019,normalized
+MI,BERRIEN,26021,normalized
+MI,BRANCH,26023,normalized
+MI,CALHOUN,26025,normalized
+MI,CASS,26027,normalized
+MI,CHARLEVOIX,26029,normalized
+MI,CHEBOYGAN,26031,normalized
+MI,CHIPPEWA,26033,normalized
+MI,CLARE,26035,normalized
+MI,CLINTON,26037,normalized
+MI,CRAWFORD,26039,normalized
+MI,DELTA,26041,normalized
+MI,DICKINSON,26043,normalized
+MI,EATON,26045,normalized
+MI,EMMET,26047,normalized
+MI,GENESEE,26049,normalized
+MI,GLADWIN,26051,normalized
+MI,GOGEBIC,26053,normalized
+MI,GRAND TRAVERSE,26055,normalized
+MI,GRATIOT,26057,normalized
+MI,HILLSDALE,26059,normalized
+MI,HOUGHTON,26061,normalized
+MI,HURON,26063,normalized
+MI,INGHAM,26065,normalized
+MI,IONIA,26067,normalized
+MI,IOSCO,26069,normalized
+MI,IRON,26071,normalized
+MI,ISABELLA,26073,normalized
+MI,JACKSON,26075,normalized
+MI,KALAMAZOO,26077,normalized
+MI,KALKASKA,26079,normalized
+MI,KENT,26081,normalized
+MI,KEWEENAW,26083,normalized
+MI,LAKE,26085,normalized
+MI,LAPEER,26087,normalized
+MI,LEELANAU,26089,normalized
+MI,LENAWEE,26091,normalized
+MI,LIVINGSTON,26093,normalized
+MI,LUCE,26095,normalized
+MI,MACKINAC,26097,normalized
+MI,MACOMB,26099,normalized
+MI,MANISTEE,26101,normalized
+MI,MARQUETTE,26103,normalized
+MI,MASON,26105,normalized
+MI,MECOSTA,26107,normalized
+MI,MENOMINEE,26109,normalized
+MI,MIDLAND,26111,normalized
+MI,MISSAUKEE,26113,normalized
+MI,MONROE,26115,normalized
+MI,MONTCALM,26117,normalized
+MI,MONTMORENCY,26119,normalized
+MI,MUSKEGON,26121,normalized
+MI,NEWAYGO,26123,normalized
+MI,OAKLAND,26125,normalized
+MI,OCEANA,26127,normalized
+MI,OGEMAW,26129,normalized
+MI,ONTONAGON,26131,normalized
+MI,OSCEOLA,26133,normalized
+MI,OSCODA,26135,normalized
+MI,OTSEGO,26137,normalized
+MI,OTTAWA,26139,normalized
+MI,PRESQUE ISLE,26141,normalized
+MI,ROSCOMMON,26143,normalized
+MI,SAGINAW,26145,normalized
+MI,SANILAC,26151,normalized
+MI,SCHOOLCRAFT,26153,normalized
+MI,SHIAWASSEE,26155,normalized
+MI,ST CLAIR,26147,normalized
+MI,ST JOSEPH,26149,normalized
+MI,TUSCOLA,26157,normalized
+MI,VAN BUREN,26159,normalized
+MI,WASHTENAW,26161,normalized
+MI,WAYNE,26163,normalized
+MI,WEXFORD,26165,normalized
+MN,AITKIN,27001,normalized
+MN,ANOKA,27003,normalized
+MN,BECKER,27005,normalized
+MN,BELTRAMI,27007,normalized
+MN,BENTON,27009,normalized
+MN,BIG STONE,27011,normalized
+MN,BLUE EARTH,27013,normalized
+MN,BROWN,27015,normalized
+MN,CARLTON,27017,normalized
+MN,CARVER,27019,normalized
+MN,CASS,27021,normalized
+MN,CHIPPEWA,27023,normalized
+MN,CHISAGO,27025,normalized
+MN,CLAY,27027,normalized
+MN,CLEARWATER,27029,normalized
+MN,COOK,27031,normalized
+MN,COTTONWOOD,27033,normalized
+MN,CROW WING,27035,normalized
+MN,DAKOTA,27037,normalized
+MN,DODGE,27039,normalized
+MN,DOUGLAS,27041,normalized
+MN,FARIBAULT,27043,normalized
+MN,FILLMORE,27045,normalized
+MN,FREEBORN,27047,normalized
+MN,GOODHUE,27049,normalized
+MN,GRANT,27051,normalized
+MN,HENNEPIN,27053,normalized
+MN,HOUSTON,27055,normalized
+MN,HUBBARD,27057,normalized
+MN,ISANTI,27059,normalized
+MN,ITASCA,27061,normalized
+MN,JACKSON,27063,normalized
+MN,KANABEC,27065,normalized
+MN,KANDIYOHI,27067,normalized
+MN,KITTSON,27069,normalized
+MN,KOOCHICHING,27071,normalized
+MN,LAC QUI PARLE,27073,normalized
+MN,LAKE,27075,normalized
+MN,LAKE OF THE WOODS,27077,normalized
+MN,LE SUEUR,27079,normalized
+MN,LINCOLN,27081,normalized
+MN,LYON,27083,normalized
+MN,MAHNOMEN,27087,normalized
+MN,MARSHALL,27089,normalized
+MN,MARTIN,27091,normalized
+MN,MCLEOD,27085,normalized
+MN,MEEKER,27093,normalized
+MN,MILLE LACS,27095,normalized
+MN,MORRISON,27097,normalized
+MN,MOWER,27099,normalized
+MN,MURRAY,27101,normalized
+MN,NICOLLET,27103,normalized
+MN,NOBLES,27105,normalized
+MN,NORMAN,27107,normalized
+MN,OLMSTED,27109,normalized
+MN,OTTER TAIL,27111,normalized
+MN,PENNINGTON,27113,normalized
+MN,PINE,27115,normalized
+MN,PIPESTONE,27117,normalized
+MN,POLK,27119,normalized
+MN,POPE,27121,normalized
+MN,RAMSEY,27123,normalized
+MN,RED LAKE,27125,normalized
+MN,REDWOOD,27127,normalized
+MN,RENVILLE,27129,normalized
+MN,RICE,27131,normalized
+MN,ROCK,27133,normalized
+MN,ROSEAU,27135,normalized
+MN,SCOTT,27139,normalized
+MN,SHERBURNE,27141,normalized
+MN,SIBLEY,27143,normalized
+MN,ST LOUIS,27137,normalized
+MN,STEARNS,27145,normalized
+MN,STEELE,27147,normalized
+MN,STEVENS,27149,normalized
+MN,SWIFT,27151,normalized
+MN,TODD,27153,normalized
+MN,TRAVERSE,27155,normalized
+MN,WABASHA,27157,normalized
+MN,WADENA,27159,normalized
+MN,WASECA,27161,normalized
+MN,WASHINGTON,27163,normalized
+MN,WATONWAN,27165,normalized
+MN,WILKIN,27167,normalized
+MN,WINONA,27169,normalized
+MN,WRIGHT,27171,normalized
+MN,YELLOW MEDICINE,27173,normalized
+MO,ADAIR,29001,normalized
+MO,ANDREW,29003,normalized
+MO,ATCHISON,29005,normalized
+MO,AUDRAIN,29007,normalized
+MO,BARRY,29009,normalized
+MO,BARTON,29011,normalized
+MO,BATES,29013,normalized
+MO,BENTON,29015,normalized
+MO,BOLLINGER,29017,normalized
+MO,BOONE,29019,normalized
+MO,BUCHANAN,29021,normalized
+MO,BUTLER,29023,normalized
+MO,CALDWELL,29025,normalized
+MO,CALLAWAY,29027,normalized
+MO,CAMDEN,29029,normalized
+MO,CAPE GIRARDEAU,29031,normalized
+MO,CARROLL,29033,normalized
+MO,CARTER,29035,normalized
+MO,CASS,29037,normalized
+MO,CEDAR,29039,normalized
+MO,CHARITON,29041,normalized
+MO,CHRISTIAN,29043,normalized
+MO,CLARK,29045,normalized
+MO,CLAY,29047,normalized
+MO,CLINTON,29049,normalized
+MO,COLE,29051,normalized
+MO,COOPER,29053,normalized
+MO,CRAWFORD,29055,normalized
+MO,DADE,29057,normalized
+MO,DALLAS,29059,normalized
+MO,DAVIESS,29061,normalized
+MO,DEKALB,29063,normalized
+MO,DENT,29065,normalized
+MO,DOUGLAS,29067,normalized
+MO,DUNKLIN,29069,normalized
+MO,FRANKLIN,29071,normalized
+MO,GASCONADE,29073,normalized
+MO,GENTRY,29075,normalized
+MO,GREENE,29077,normalized
+MO,GRUNDY,29079,normalized
+MO,HARRISON,29081,normalized
+MO,HENRY,29083,normalized
+MO,HICKORY,29085,normalized
+MO,HOLT,29087,normalized
+MO,HOWARD,29089,normalized
+MO,HOWELL,29091,normalized
+MO,IRON,29093,normalized
+MO,JACKSON,29095,normalized
+MO,JASPER,29097,normalized
+MO,JEFFERSON,29099,normalized
+MO,JOHNSON,29101,normalized
+MO,KNOX,29103,normalized
+MO,LACLEDE,29105,normalized
+MO,LAFAYETTE,29107,normalized
+MO,LAWRENCE,29109,normalized
+MO,LEWIS,29111,normalized
+MO,LINCOLN,29113,normalized
+MO,LINN,29115,normalized
+MO,LIVINGSTON,29117,normalized
+MO,MACON,29121,normalized
+MO,MADISON,29123,normalized
+MO,MARIES,29125,normalized
+MO,MARION,29127,normalized
+MO,MCDONALD,29119,normalized
+MO,MERCER,29129,normalized
+MO,MILLER,29131,normalized
+MO,MISSISSIPPI,29133,normalized
+MO,MONITEAU,29135,normalized
+MO,MONROE,29137,normalized
+MO,MONTGOMERY,29139,normalized
+MO,MORGAN,29141,normalized
+MO,NEW MADRID,29143,normalized
+MO,NEWTON,29145,normalized
+MO,NODAWAY,29147,normalized
+MO,OREGON,29149,normalized
+MO,OSAGE,29151,normalized
+MO,OZARK,29153,normalized
+MO,PEMISCOT,29155,normalized
+MO,PERRY,29157,normalized
+MO,PETTIS,29159,normalized
+MO,PHELPS,29161,normalized
+MO,PIKE,29163,normalized
+MO,PLATTE,29165,normalized
+MO,POLK,29167,normalized
+MO,PULASKI,29169,normalized
+MO,PUTNAM,29171,normalized
+MO,RALLS,29173,normalized
+MO,RANDOLPH,29175,normalized
+MO,RAY,29177,normalized
+MO,REYNOLDS,29179,normalized
+MO,RIPLEY,29181,normalized
+MO,SALINE,29195,normalized
+MO,SCHUYLER,29197,normalized
+MO,SCOTLAND,29199,normalized
+MO,SCOTT,29201,normalized
+MO,SHANNON,29203,normalized
+MO,SHELBY,29205,normalized
+MO,ST CHARLES,29183,normalized
+MO,ST CLAIR,29185,normalized
+MO,ST FRANCOIS,29187,normalized
+MO,ST LOUIS,29189,normalized
+MO,ST LOUIS CITY,29510,normalized
+MO,STE GENEVIEVE,29186,normalized
+MO,STODDARD,29207,normalized
+MO,STONE,29209,normalized
+MO,SULLIVAN,29211,normalized
+MO,TANEY,29213,normalized
+MO,TEXAS,29215,normalized
+MO,VERNON,29217,normalized
+MO,WARREN,29219,normalized
+MO,WASHINGTON,29221,normalized
+MO,WAYNE,29223,normalized
+MO,WEBSTER,29225,normalized
+MO,WORTH,29227,normalized
+MO,WRIGHT,29229,normalized
+MS,ADAMS,28001,normalized
+MS,ALCORN,28003,normalized
+MS,AMITE,28005,normalized
+MS,ATTALA,28007,normalized
+MS,BENTON,28009,normalized
+MS,BOLIVAR,28011,normalized
+MS,CALHOUN,28013,normalized
+MS,CARROLL,28015,normalized
+MS,CHICKASAW,28017,normalized
+MS,CHOCTAW,28019,normalized
+MS,CLAIBORNE,28021,normalized
+MS,CLARKE,28023,normalized
+MS,CLAY,28025,normalized
+MS,COAHOMA,28027,normalized
+MS,COPIAH,28029,normalized
+MS,COVINGTON,28031,normalized
+MS,DESOTO,28033,normalized
+MS,FORREST,28035,normalized
+MS,FRANKLIN,28037,normalized
+MS,GEORGE,28039,normalized
+MS,GREENE,28041,normalized
+MS,GRENADA,28043,normalized
+MS,HANCOCK,28045,normalized
+MS,HARRISON,28047,normalized
+MS,HINDS,28049,normalized
+MS,HOLMES,28051,normalized
+MS,HUMPHREYS,28053,normalized
+MS,ISSAQUENA,28055,normalized
+MS,ITAWAMBA,28057,normalized
+MS,JACKSON,28059,normalized
+MS,JASPER,28061,normalized
+MS,JEFFERSON,28063,normalized
+MS,JEFFERSON DAVIS,28065,normalized
+MS,JONES,28067,normalized
+MS,KEMPER,28069,normalized
+MS,LAFAYETTE,28071,normalized
+MS,LAMAR,28073,normalized
+MS,LAUDERDALE,28075,normalized
+MS,LAWRENCE,28077,normalized
+MS,LEAKE,28079,normalized
+MS,LEE,28081,normalized
+MS,LEFLORE,28083,normalized
+MS,LINCOLN,28085,normalized
+MS,LOWNDES,28087,normalized
+MS,MADISON,28089,normalized
+MS,MARION,28091,normalized
+MS,MARSHALL,28093,normalized
+MS,MONROE,28095,normalized
+MS,MONTGOMERY,28097,normalized
+MS,NESHOBA,28099,normalized
+MS,NEWTON,28101,normalized
+MS,NOXUBEE,28103,normalized
+MS,OKTIBBEHA,28105,normalized
+MS,PANOLA,28107,normalized
+MS,PEARL RIVER,28109,normalized
+MS,PERRY,28111,normalized
+MS,PIKE,28113,normalized
+MS,PONTOTOC,28115,normalized
+MS,PRENTISS,28117,normalized
+MS,QUITMAN,28119,normalized
+MS,RANKIN,28121,normalized
+MS,SCOTT,28123,normalized
+MS,SHARKEY,28125,normalized
+MS,SIMPSON,28127,normalized
+MS,SMITH,28129,normalized
+MS,STONE,28131,normalized
+MS,SUNFLOWER,28133,normalized
+MS,TALLAHATCHIE,28135,normalized
+MS,TATE,28137,normalized
+MS,TIPPAH,28139,normalized
+MS,TISHOMINGO,28141,normalized
+MS,TUNICA,28143,normalized
+MS,UNION,28145,normalized
+MS,WALTHALL,28147,normalized
+MS,WARREN,28149,normalized
+MS,WASHINGTON,28151,normalized
+MS,WAYNE,28153,normalized
+MS,WEBSTER,28155,normalized
+MS,WILKINSON,28157,normalized
+MS,WINSTON,28159,normalized
+MS,YALOBUSHA,28161,normalized
+MS,YAZOO,28163,normalized
+MT,BEAVERHEAD,30001,normalized
+MT,BIG HORN,30003,normalized
+MT,BLAINE,30005,normalized
+MT,BROADWATER,30007,normalized
+MT,CARBON,30009,normalized
+MT,CARTER,30011,normalized
+MT,CASCADE,30013,normalized
+MT,CHOUTEAU,30015,normalized
+MT,CUSTER,30017,normalized
+MT,DANIELS,30019,normalized
+MT,DAWSON,30021,normalized
+MT,DEER LODGE,30023,normalized
+MT,FALLON,30025,normalized
+MT,FERGUS,30027,normalized
+MT,FLATHEAD,30029,normalized
+MT,GALLATIN,30031,normalized
+MT,GARFIELD,30033,normalized
+MT,GLACIER,30035,normalized
+MT,GOLDEN VALLEY,30037,normalized
+MT,GRANITE,30039,normalized
+MT,HILL,30041,normalized
+MT,JEFFERSON,30043,normalized
+MT,JUDITH BASIN,30045,normalized
+MT,LAKE,30047,normalized
+MT,LEWIS AND CLARK,30049,normalized
+MT,LIBERTY,30051,normalized
+MT,LINCOLN,30053,normalized
+MT,MADISON,30057,normalized
+MT,MCCONE,30055,normalized
+MT,MEAGHER,30059,normalized
+MT,MINERAL,30061,normalized
+MT,MISSOULA,30063,normalized
+MT,MUSSELSHELL,30065,normalized
+MT,PARK,30067,normalized
+MT,PETROLEUM,30069,normalized
+MT,PHILLIPS,30071,normalized
+MT,PONDERA,30073,normalized
+MT,POWDER RIVER,30075,normalized
+MT,POWELL,30077,normalized
+MT,PRAIRIE,30079,normalized
+MT,RAVALLI,30081,normalized
+MT,RICHLAND,30083,normalized
+MT,ROOSEVELT,30085,normalized
+MT,ROSEBUD,30087,normalized
+MT,SANDERS,30089,normalized
+MT,SHERIDAN,30091,normalized
+MT,SILVER BOW,30093,normalized
+MT,STILLWATER,30095,normalized
+MT,SWEET GRASS,30097,normalized
+MT,TETON,30099,normalized
+MT,TOOLE,30101,normalized
+MT,TREASURE,30103,normalized
+MT,VALLEY,30105,normalized
+MT,WHEATLAND,30107,normalized
+MT,WIBAUX,30109,normalized
+MT,YELLOWSTONE,30111,normalized
+NC,ALAMANCE,37001,normalized
+NC,ALEXANDER,37003,normalized
+NC,ALLEGHANY,37005,normalized
+NC,ANSON,37007,normalized
+NC,ASHE,37009,normalized
+NC,AVERY,37011,normalized
+NC,BEAUFORT,37013,normalized
+NC,BERTIE,37015,normalized
+NC,BLADEN,37017,normalized
+NC,BRUNSWICK,37019,normalized
+NC,BUNCOMBE,37021,normalized
+NC,BURKE,37023,normalized
+NC,CABARRUS,37025,normalized
+NC,CALDWELL,37027,normalized
+NC,CAMDEN,37029,normalized
+NC,CARTERET,37031,normalized
+NC,CASWELL,37033,normalized
+NC,CATAWBA,37035,normalized
+NC,CHATHAM,37037,normalized
+NC,CHEROKEE,37039,normalized
+NC,CHOWAN,37041,normalized
+NC,CLAY,37043,normalized
+NC,CLEVELAND,37045,normalized
+NC,COLUMBUS,37047,normalized
+NC,CRAVEN,37049,normalized
+NC,CUMBERLAND,37051,normalized
+NC,CURRITUCK,37053,normalized
+NC,DARE,37055,normalized
+NC,DAVIDSON,37057,normalized
+NC,DAVIE,37059,normalized
+NC,DUPLIN,37061,normalized
+NC,DURHAM,37063,normalized
+NC,EDGECOMBE,37065,normalized
+NC,FORSYTH,37067,normalized
+NC,FRANKLIN,37069,normalized
+NC,GASTON,37071,normalized
+NC,GATES,37073,normalized
+NC,GRAHAM,37075,normalized
+NC,GRANVILLE,37077,normalized
+NC,GREENE,37079,normalized
+NC,GUILFORD,37081,normalized
+NC,HALIFAX,37083,normalized
+NC,HARNETT,37085,normalized
+NC,HAYWOOD,37087,normalized
+NC,HENDERSON,37089,normalized
+NC,HERTFORD,37091,normalized
+NC,HOKE,37093,normalized
+NC,HYDE,37095,normalized
+NC,IREDELL,37097,normalized
+NC,JACKSON,37099,normalized
+NC,JOHNSTON,37101,normalized
+NC,JONES,37103,normalized
+NC,LEE,37105,normalized
+NC,LENOIR,37107,normalized
+NC,LINCOLN,37109,normalized
+NC,MACON,37113,normalized
+NC,MADISON,37115,normalized
+NC,MARTIN,37117,normalized
+NC,MCDOWELL,37111,normalized
+NC,MECKLENBURG,37119,normalized
+NC,MITCHELL,37121,normalized
+NC,MONTGOMERY,37123,normalized
+NC,MOORE,37125,normalized
+NC,NASH,37127,normalized
+NC,NEW HANOVER,37129,normalized
+NC,NORTHAMPTON,37131,normalized
+NC,ONSLOW,37133,normalized
+NC,ORANGE,37135,normalized
+NC,PAMLICO,37137,normalized
+NC,PASQUOTANK,37139,normalized
+NC,PENDER,37141,normalized
+NC,PERQUIMANS,37143,normalized
+NC,PERSON,37145,normalized
+NC,PITT,37147,normalized
+NC,POLK,37149,normalized
+NC,RANDOLPH,37151,normalized
+NC,RICHMOND,37153,normalized
+NC,ROBESON,37155,normalized
+NC,ROCKINGHAM,37157,normalized
+NC,ROWAN,37159,normalized
+NC,RUTHERFORD,37161,normalized
+NC,SAMPSON,37163,normalized
+NC,SCOTLAND,37165,normalized
+NC,STANLY,37167,normalized
+NC,STOKES,37169,normalized
+NC,SURRY,37171,normalized
+NC,SWAIN,37173,normalized
+NC,TRANSYLVANIA,37175,normalized
+NC,TYRRELL,37177,normalized
+NC,UNION,37179,normalized
+NC,VANCE,37181,normalized
+NC,WAKE,37183,normalized
+NC,WARREN,37185,normalized
+NC,WASHINGTON,37187,normalized
+NC,WATAUGA,37189,normalized
+NC,WAYNE,37191,normalized
+NC,WILKES,37193,normalized
+NC,WILSON,37195,normalized
+NC,YADKIN,37197,normalized
+NC,YANCEY,37199,normalized
+ND,ADAMS,38001,normalized
+ND,BARNES,38003,normalized
+ND,BENSON,38005,normalized
+ND,BILLINGS,38007,normalized
+ND,BOTTINEAU,38009,normalized
+ND,BOWMAN,38011,normalized
+ND,BURKE,38013,normalized
+ND,BURLEIGH,38015,normalized
+ND,CASS,38017,normalized
+ND,CAVALIER,38019,normalized
+ND,DICKEY,38021,normalized
+ND,DIVIDE,38023,normalized
+ND,DUNN,38025,normalized
+ND,EDDY,38027,normalized
+ND,EMMONS,38029,normalized
+ND,FOSTER,38031,normalized
+ND,GOLDEN VALLEY,38033,normalized
+ND,GRAND FORKS,38035,normalized
+ND,GRANT,38037,normalized
+ND,GRIGGS,38039,normalized
+ND,HETTINGER,38041,normalized
+ND,KIDDER,38043,normalized
+ND,LAMOURE,38045,normalized
+ND,LOGAN,38047,normalized
+ND,MCHENRY,38049,normalized
+ND,MCINTOSH,38051,normalized
+ND,MCKENZIE,38053,normalized
+ND,MCLEAN,38055,normalized
+ND,MERCER,38057,normalized
+ND,MORTON,38059,normalized
+ND,MOUNTRAIL,38061,normalized
+ND,NELSON,38063,normalized
+ND,OLIVER,38065,normalized
+ND,PEMBINA,38067,normalized
+ND,PIERCE,38069,normalized
+ND,RAMSEY,38071,normalized
+ND,RANSOM,38073,normalized
+ND,RENVILLE,38075,normalized
+ND,RICHLAND,38077,normalized
+ND,ROLETTE,38079,normalized
+ND,SARGENT,38081,normalized
+ND,SHERIDAN,38083,normalized
+ND,SIOUX,38085,normalized
+ND,SLOPE,38087,normalized
+ND,STARK,38089,normalized
+ND,STEELE,38091,normalized
+ND,STUTSMAN,38093,normalized
+ND,TOWNER,38095,normalized
+ND,TRAILL,38097,normalized
+ND,WALSH,38099,normalized
+ND,WARD,38101,normalized
+ND,WELLS,38103,normalized
+ND,WILLIAMS,38105,normalized
+NE,ADAMS,31001,normalized
+NE,ANTELOPE,31003,normalized
+NE,ARTHUR,31005,normalized
+NE,BANNER,31007,normalized
+NE,BLAINE,31009,normalized
+NE,BOONE,31011,normalized
+NE,BOX BUTTE,31013,normalized
+NE,BOYD,31015,normalized
+NE,BROWN,31017,normalized
+NE,BUFFALO,31019,normalized
+NE,BURT,31021,normalized
+NE,BUTLER,31023,normalized
+NE,CASS,31025,normalized
+NE,CEDAR,31027,normalized
+NE,CHASE,31029,normalized
+NE,CHERRY,31031,normalized
+NE,CHEYENNE,31033,normalized
+NE,CLAY,31035,normalized
+NE,COLFAX,31037,normalized
+NE,CUMING,31039,normalized
+NE,CUSTER,31041,normalized
+NE,DAKOTA,31043,normalized
+NE,DAWES,31045,normalized
+NE,DAWSON,31047,normalized
+NE,DEUEL,31049,normalized
+NE,DIXON,31051,normalized
+NE,DODGE,31053,normalized
+NE,DOUGLAS,31055,normalized
+NE,DUNDY,31057,normalized
+NE,FILLMORE,31059,normalized
+NE,FRANKLIN,31061,normalized
+NE,FRONTIER,31063,normalized
+NE,FURNAS,31065,normalized
+NE,GAGE,31067,normalized
+NE,GARDEN,31069,normalized
+NE,GARFIELD,31071,normalized
+NE,GOSPER,31073,normalized
+NE,GRANT,31075,normalized
+NE,GREELEY,31077,normalized
+NE,HALL,31079,normalized
+NE,HAMILTON,31081,normalized
+NE,HARLAN,31083,normalized
+NE,HAYES,31085,normalized
+NE,HITCHCOCK,31087,normalized
+NE,HOLT,31089,normalized
+NE,HOOKER,31091,normalized
+NE,HOWARD,31093,normalized
+NE,JEFFERSON,31095,normalized
+NE,JOHNSON,31097,normalized
+NE,KEARNEY,31099,normalized
+NE,KEITH,31101,normalized
+NE,KEYA PAHA,31103,normalized
+NE,KIMBALL,31105,normalized
+NE,KNOX,31107,normalized
+NE,LANCASTER,31109,normalized
+NE,LINCOLN,31111,normalized
+NE,LOGAN,31113,normalized
+NE,LOUP,31115,normalized
+NE,MADISON,31119,normalized
+NE,MCPHERSON,31117,normalized
+NE,MERRICK,31121,normalized
+NE,MORRILL,31123,normalized
+NE,NANCE,31125,normalized
+NE,NEMAHA,31127,normalized
+NE,NUCKOLLS,31129,normalized
+NE,OTOE,31131,normalized
+NE,PAWNEE,31133,normalized
+NE,PERKINS,31135,normalized
+NE,PHELPS,31137,normalized
+NE,PIERCE,31139,normalized
+NE,PLATTE,31141,normalized
+NE,POLK,31143,normalized
+NE,RED WILLOW,31145,normalized
+NE,RICHARDSON,31147,normalized
+NE,ROCK,31149,normalized
+NE,SALINE,31151,normalized
+NE,SARPY,31153,normalized
+NE,SAUNDERS,31155,normalized
+NE,SCOTTS BLUFF,31157,normalized
+NE,SEWARD,31159,normalized
+NE,SHERIDAN,31161,normalized
+NE,SHERMAN,31163,normalized
+NE,SIOUX,31165,normalized
+NE,STANTON,31167,normalized
+NE,THAYER,31169,normalized
+NE,THOMAS,31171,normalized
+NE,THURSTON,31173,normalized
+NE,VALLEY,31175,normalized
+NE,WASHINGTON,31177,normalized
+NE,WAYNE,31179,normalized
+NE,WEBSTER,31181,normalized
+NE,WHEELER,31183,normalized
+NE,YORK,31185,normalized
+NH,BELKNAP,33001,normalized
+NH,CARROLL,33003,normalized
+NH,CHESHIRE,33005,normalized
+NH,COOS,33007,normalized
+NH,GRAFTON,33009,normalized
+NH,HILLSBOROUGH,33011,normalized
+NH,MERRIMACK,33013,normalized
+NH,ROCKINGHAM,33015,normalized
+NH,STRAFFORD,33017,normalized
+NH,SULLIVAN,33019,normalized
+NJ,ATLANTIC,34001,normalized
+NJ,BERGEN,34003,normalized
+NJ,BURLINGTON,34005,normalized
+NJ,CAMDEN,34007,normalized
+NJ,CAPE MAY,34009,normalized
+NJ,CUMBERLAND,34011,normalized
+NJ,ESSEX,34013,normalized
+NJ,GLOUCESTER,34015,normalized
+NJ,HUDSON,34017,normalized
+NJ,HUNTERDON,34019,normalized
+NJ,MERCER,34021,normalized
+NJ,MIDDLESEX,34023,normalized
+NJ,MONMOUTH,34025,normalized
+NJ,MORRIS,34027,normalized
+NJ,OCEAN,34029,normalized
+NJ,PASSAIC,34031,normalized
+NJ,SALEM,34033,normalized
+NJ,SOMERSET,34035,normalized
+NJ,SUSSEX,34037,normalized
+NJ,UNION,34039,normalized
+NJ,WARREN,34041,normalized
+NM,BERNALILLO,35001,normalized
+NM,CATRON,35003,normalized
+NM,CHAVES,35005,normalized
+NM,CIBOLA,35006,normalized
+NM,COLFAX,35007,normalized
+NM,CURRY,35009,normalized
+NM,DE BACA,35011,normalized
+NM,DOA ANA,35013,normalized
+NM,DONA ANA,35013,override
+NM,EDDY,35015,normalized
+NM,GRANT,35017,normalized
+NM,GUADALUPE,35019,normalized
+NM,HARDING,35021,normalized
+NM,HIDALGO,35023,normalized
+NM,LEA,35025,normalized
+NM,LINCOLN,35027,normalized
+NM,LOS ALAMOS,35028,normalized
+NM,LUNA,35029,normalized
+NM,MCKINLEY,35031,normalized
+NM,MORA,35033,normalized
+NM,OTERO,35035,normalized
+NM,QUAY,35037,normalized
+NM,RIO ARRIBA,35039,normalized
+NM,ROOSEVELT,35041,normalized
+NM,SAN JUAN,35045,normalized
+NM,SAN MIGUEL,35047,normalized
+NM,SANDOVAL,35043,normalized
+NM,SANTA FE,35049,normalized
+NM,SIERRA,35051,normalized
+NM,SOCORRO,35053,normalized
+NM,TAOS,35055,normalized
+NM,TORRANCE,35057,normalized
+NM,UNION,35059,normalized
+NM,VALENCIA,35061,normalized
+NV,CARSON CITY,32510,normalized
+NV,CHURCHILL,32001,normalized
+NV,CLARK,32003,normalized
+NV,DOUGLAS,32005,normalized
+NV,ELKO,32007,normalized
+NV,ESMERALDA,32009,normalized
+NV,EUREKA,32011,normalized
+NV,HUMBOLDT,32013,normalized
+NV,LANDER,32015,normalized
+NV,LINCOLN,32017,normalized
+NV,LYON,32019,normalized
+NV,MINERAL,32021,normalized
+NV,NYE,32023,normalized
+NV,PERSHING,32027,normalized
+NV,STOREY,32029,normalized
+NV,WASHOE,32031,normalized
+NV,WHITE PINE,32033,normalized
+NY,ALBANY,36001,normalized
+NY,ALLEGANY,36003,normalized
+NY,BRONX,36005,normalized
+NY,BROOME,36007,normalized
+NY,CATTARAUGUS,36009,normalized
+NY,CAYUGA,36011,normalized
+NY,CHAUTAUQUA,36013,normalized
+NY,CHEMUNG,36015,normalized
+NY,CHENANGO,36017,normalized
+NY,CLINTON,36019,normalized
+NY,COLUMBIA,36021,normalized
+NY,CORTLAND,36023,normalized
+NY,DELAWARE,36025,normalized
+NY,DUTCHESS,36027,normalized
+NY,ERIE,36029,normalized
+NY,ESSEX,36031,normalized
+NY,FRANKLIN,36033,normalized
+NY,FULTON,36035,normalized
+NY,GENESEE,36037,normalized
+NY,GREENE,36039,normalized
+NY,HAMILTON,36041,normalized
+NY,HERKIMER,36043,normalized
+NY,JEFFERSON,36045,normalized
+NY,KINGS,36047,normalized
+NY,LEWIS,36049,normalized
+NY,LIVINGSTON,36051,normalized
+NY,MADISON,36053,normalized
+NY,MONROE,36055,normalized
+NY,MONTGOMERY,36057,normalized
+NY,NASSAU,36059,normalized
+NY,NEW YORK,36061,normalized
+NY,NIAGARA,36063,normalized
+NY,ONEIDA,36065,normalized
+NY,ONONDAGA,36067,normalized
+NY,ONTARIO,36069,normalized
+NY,ORANGE,36071,normalized
+NY,ORLEANS,36073,normalized
+NY,OSWEGO,36075,normalized
+NY,OTSEGO,36077,normalized
+NY,PUTNAM,36079,normalized
+NY,QUEENS,36081,normalized
+NY,RENSSELAER,36083,normalized
+NY,RICHMOND,36085,normalized
+NY,ROCKLAND,36087,normalized
+NY,SARATOGA,36091,normalized
+NY,SCHENECTADY,36093,normalized
+NY,SCHOHARIE,36095,normalized
+NY,SCHUYLER,36097,normalized
+NY,SENECA,36099,normalized
+NY,ST LAWRENCE,36089,normalized
+NY,STEUBEN,36101,normalized
+NY,SUFFOLK,36103,normalized
+NY,SULLIVAN,36105,normalized
+NY,TIOGA,36107,normalized
+NY,TOMPKINS,36109,normalized
+NY,ULSTER,36111,normalized
+NY,WARREN,36113,normalized
+NY,WASHINGTON,36115,normalized
+NY,WAYNE,36117,normalized
+NY,WESTCHESTER,36119,normalized
+NY,WYOMING,36121,normalized
+NY,YATES,36123,normalized
+OH,ADAMS,39001,normalized
+OH,ALLEN,39003,normalized
+OH,ASHLAND,39005,normalized
+OH,ASHTABULA,39007,normalized
+OH,ATHENS,39009,normalized
+OH,AUGLAIZE,39011,normalized
+OH,BELMONT,39013,normalized
+OH,BROWN,39015,normalized
+OH,BUTLER,39017,normalized
+OH,CARROLL,39019,normalized
+OH,CHAMPAIGN,39021,normalized
+OH,CLARK,39023,normalized
+OH,CLERMONT,39025,normalized
+OH,CLINTON,39027,normalized
+OH,COLUMBIANA,39029,normalized
+OH,COSHOCTON,39031,normalized
+OH,CRAWFORD,39033,normalized
+OH,CUYAHOGA,39035,normalized
+OH,DARKE,39037,normalized
+OH,DEFIANCE,39039,normalized
+OH,DELAWARE,39041,normalized
+OH,ERIE,39043,normalized
+OH,FAIRFIELD,39045,normalized
+OH,FAYETTE,39047,normalized
+OH,FRANKLIN,39049,normalized
+OH,FULTON,39051,normalized
+OH,GALLIA,39053,normalized
+OH,GEAUGA,39055,normalized
+OH,GREENE,39057,normalized
+OH,GUERNSEY,39059,normalized
+OH,HAMILTON,39061,normalized
+OH,HANCOCK,39063,normalized
+OH,HARDIN,39065,normalized
+OH,HARRISON,39067,normalized
+OH,HENRY,39069,normalized
+OH,HIGHLAND,39071,normalized
+OH,HOCKING,39073,normalized
+OH,HOLMES,39075,normalized
+OH,HURON,39077,normalized
+OH,JACKSON,39079,normalized
+OH,JEFFERSON,39081,normalized
+OH,KNOX,39083,normalized
+OH,LAKE,39085,normalized
+OH,LAWRENCE,39087,normalized
+OH,LICKING,39089,normalized
+OH,LOGAN,39091,normalized
+OH,LORAIN,39093,normalized
+OH,LUCAS,39095,normalized
+OH,MADISON,39097,normalized
+OH,MAHONING,39099,normalized
+OH,MARION,39101,normalized
+OH,MEDINA,39103,normalized
+OH,MEIGS,39105,normalized
+OH,MERCER,39107,normalized
+OH,MIAMI,39109,normalized
+OH,MONROE,39111,normalized
+OH,MONTGOMERY,39113,normalized
+OH,MORGAN,39115,normalized
+OH,MORROW,39117,normalized
+OH,MUSKINGUM,39119,normalized
+OH,NOBLE,39121,normalized
+OH,OTTAWA,39123,normalized
+OH,PAULDING,39125,normalized
+OH,PERRY,39127,normalized
+OH,PICKAWAY,39129,normalized
+OH,PIKE,39131,normalized
+OH,PORTAGE,39133,normalized
+OH,PREBLE,39135,normalized
+OH,PUTNAM,39137,normalized
+OH,RICHLAND,39139,normalized
+OH,ROSS,39141,normalized
+OH,SANDUSKY,39143,normalized
+OH,SCIOTO,39145,normalized
+OH,SENECA,39147,normalized
+OH,SHELBY,39149,normalized
+OH,STARK,39151,normalized
+OH,SUMMIT,39153,normalized
+OH,TRUMBULL,39155,normalized
+OH,TUSCARAWAS,39157,normalized
+OH,UNION,39159,normalized
+OH,VAN WERT,39161,normalized
+OH,VINTON,39163,normalized
+OH,WARREN,39165,normalized
+OH,WASHINGTON,39167,normalized
+OH,WAYNE,39169,normalized
+OH,WILLIAMS,39171,normalized
+OH,WOOD,39173,normalized
+OH,WYANDOT,39175,normalized
+OK,ADAIR,40001,normalized
+OK,ALFALFA,40003,normalized
+OK,ATOKA,40005,normalized
+OK,BEAVER,40007,normalized
+OK,BECKHAM,40009,normalized
+OK,BLAINE,40011,normalized
+OK,BRYAN,40013,normalized
+OK,CADDO,40015,normalized
+OK,CANADIAN,40017,normalized
+OK,CARTER,40019,normalized
+OK,CHEROKEE,40021,normalized
+OK,CHOCTAW,40023,normalized
+OK,CIMARRON,40025,normalized
+OK,CLEVELAND,40027,normalized
+OK,COAL,40029,normalized
+OK,COMANCHE,40031,normalized
+OK,COTTON,40033,normalized
+OK,CRAIG,40035,normalized
+OK,CREEK,40037,normalized
+OK,CUSTER,40039,normalized
+OK,DELAWARE,40041,normalized
+OK,DEWEY,40043,normalized
+OK,ELLIS,40045,normalized
+OK,GARFIELD,40047,normalized
+OK,GARVIN,40049,normalized
+OK,GRADY,40051,normalized
+OK,GRANT,40053,normalized
+OK,GREER,40055,normalized
+OK,HARMON,40057,normalized
+OK,HARPER,40059,normalized
+OK,HASKELL,40061,normalized
+OK,HUGHES,40063,normalized
+OK,JACKSON,40065,normalized
+OK,JEFFERSON,40067,normalized
+OK,JOHNSTON,40069,normalized
+OK,KAY,40071,normalized
+OK,KINGFISHER,40073,normalized
+OK,KIOWA,40075,normalized
+OK,LATIMER,40077,normalized
+OK,LE FLORE,40079,normalized
+OK,LINCOLN,40081,normalized
+OK,LOGAN,40083,normalized
+OK,LOVE,40085,normalized
+OK,MAJOR,40093,normalized
+OK,MARSHALL,40095,normalized
+OK,MAYES,40097,normalized
+OK,MCCLAIN,40087,normalized
+OK,MCCURTAIN,40089,normalized
+OK,MCINTOSH,40091,normalized
+OK,MURRAY,40099,normalized
+OK,MUSKOGEE,40101,normalized
+OK,NOBLE,40103,normalized
+OK,NOWATA,40105,normalized
+OK,OKFUSKEE,40107,normalized
+OK,OKLAHOMA,40109,normalized
+OK,OKMULGEE,40111,normalized
+OK,OSAGE,40113,normalized
+OK,OTTAWA,40115,normalized
+OK,PAWNEE,40117,normalized
+OK,PAYNE,40119,normalized
+OK,PITTSBURG,40121,normalized
+OK,PONTOTOC,40123,normalized
+OK,POTTAWATOMIE,40125,normalized
+OK,PUSHMATAHA,40127,normalized
+OK,ROGER MILLS,40129,normalized
+OK,ROGERS,40131,normalized
+OK,SEMINOLE,40133,normalized
+OK,SEQUOYAH,40135,normalized
+OK,STEPHENS,40137,normalized
+OK,TEXAS,40139,normalized
+OK,TILLMAN,40141,normalized
+OK,TULSA,40143,normalized
+OK,WAGONER,40145,normalized
+OK,WASHINGTON,40147,normalized
+OK,WASHITA,40149,normalized
+OK,WOODS,40151,normalized
+OK,WOODWARD,40153,normalized
+OR,BAKER,41001,normalized
+OR,BENTON,41003,normalized
+OR,CLACKAMAS,41005,normalized
+OR,CLATSOP,41007,normalized
+OR,COLUMBIA,41009,normalized
+OR,COOS,41011,normalized
+OR,CROOK,41013,normalized
+OR,CURRY,41015,normalized
+OR,DESCHUTES,41017,normalized
+OR,DOUGLAS,41019,normalized
+OR,GILLIAM,41021,normalized
+OR,GRANT,41023,normalized
+OR,HARNEY,41025,normalized
+OR,HOOD RIVER,41027,normalized
+OR,JACKSON,41029,normalized
+OR,JEFFERSON,41031,normalized
+OR,JOSEPHINE,41033,normalized
+OR,KLAMATH,41035,normalized
+OR,LAKE,41037,normalized
+OR,LANE,41039,normalized
+OR,LINCOLN,41041,normalized
+OR,LINN,41043,normalized
+OR,MALHEUR,41045,normalized
+OR,MARION,41047,normalized
+OR,MORROW,41049,normalized
+OR,MULTNOMAH,41051,normalized
+OR,POLK,41053,normalized
+OR,SHERMAN,41055,normalized
+OR,TILLAMOOK,41057,normalized
+OR,UMATILLA,41059,normalized
+OR,UNION,41061,normalized
+OR,WALLOWA,41063,normalized
+OR,WASCO,41065,normalized
+OR,WASHINGTON,41067,normalized
+OR,WHEELER,41069,normalized
+OR,YAMHILL,41071,normalized
+PA,ADAMS,42001,normalized
+PA,ALLEGHENY,42003,normalized
+PA,ARMSTRONG,42005,normalized
+PA,BEAVER,42007,normalized
+PA,BEDFORD,42009,normalized
+PA,BERKS,42011,normalized
+PA,BLAIR,42013,normalized
+PA,BRADFORD,42015,normalized
+PA,BUCKS,42017,normalized
+PA,BUTLER,42019,normalized
+PA,CAMBRIA,42021,normalized
+PA,CAMERON,42023,normalized
+PA,CARBON,42025,normalized
+PA,CENTRE,42027,normalized
+PA,CHESTER,42029,normalized
+PA,CLARION,42031,normalized
+PA,CLEARFIELD,42033,normalized
+PA,CLINTON,42035,normalized
+PA,COLUMBIA,42037,normalized
+PA,CRAWFORD,42039,normalized
+PA,CUMBERLAND,42041,normalized
+PA,DAUPHIN,42043,normalized
+PA,DELAWARE,42045,normalized
+PA,ELK,42047,normalized
+PA,ERIE,42049,normalized
+PA,FAYETTE,42051,normalized
+PA,FOREST,42053,normalized
+PA,FRANKLIN,42055,normalized
+PA,FULTON,42057,normalized
+PA,GREENE,42059,normalized
+PA,HUNTINGDON,42061,normalized
+PA,INDIANA,42063,normalized
+PA,JEFFERSON,42065,normalized
+PA,JUNIATA,42067,normalized
+PA,LACKAWANNA,42069,normalized
+PA,LANCASTER,42071,normalized
+PA,LAWRENCE,42073,normalized
+PA,LEBANON,42075,normalized
+PA,LEHIGH,42077,normalized
+PA,LUZERNE,42079,normalized
+PA,LYCOMING,42081,normalized
+PA,MCKEAN,42083,normalized
+PA,MERCER,42085,normalized
+PA,MIFFLIN,42087,normalized
+PA,MONROE,42089,normalized
+PA,MONTGOMERY,42091,normalized
+PA,MONTOUR,42093,normalized
+PA,NORTHAMPTON,42095,normalized
+PA,NORTHUMBERLAND,42097,normalized
+PA,PERRY,42099,normalized
+PA,PHILADELPHIA,42101,normalized
+PA,PIKE,42103,normalized
+PA,POTTER,42105,normalized
+PA,SCHUYLKILL,42107,normalized
+PA,SNYDER,42109,normalized
+PA,SOMERSET,42111,normalized
+PA,SULLIVAN,42113,normalized
+PA,SUSQUEHANNA,42115,normalized
+PA,TIOGA,42117,normalized
+PA,UNION,42119,normalized
+PA,VENANGO,42121,normalized
+PA,WARREN,42123,normalized
+PA,WASHINGTON,42125,normalized
+PA,WAYNE,42127,normalized
+PA,WESTMORELAND,42129,normalized
+PA,WYOMING,42131,normalized
+PA,YORK,42133,normalized
+PR,AASCO MUNICIPIO,72011,normalized
+PR,ADJUNTAS MUNICIPIO,72001,normalized
+PR,AGUADA MUNICIPIO,72003,normalized
+PR,AGUADILLA MUNICIPIO,72005,normalized
+PR,AGUAS BUENAS MUNICIPIO,72007,normalized
+PR,AIBONITO MUNICIPIO,72009,normalized
+PR,ARECIBO MUNICIPIO,72013,normalized
+PR,ARROYO MUNICIPIO,72015,normalized
+PR,BARCELONETA MUNICIPIO,72017,normalized
+PR,BARRANQUITAS MUNICIPIO,72019,normalized
+PR,BAYAMN MUNICIPIO,72021,normalized
+PR,CABO ROJO MUNICIPIO,72023,normalized
+PR,CAGUAS MUNICIPIO,72025,normalized
+PR,CAMUY MUNICIPIO,72027,normalized
+PR,CANVANAS MUNICIPIO,72029,normalized
+PR,CAROLINA MUNICIPIO,72031,normalized
+PR,CATAO MUNICIPIO,72033,normalized
+PR,CAYEY MUNICIPIO,72035,normalized
+PR,CEIBA MUNICIPIO,72037,normalized
+PR,CIALES MUNICIPIO,72039,normalized
+PR,CIDRA MUNICIPIO,72041,normalized
+PR,COAMO MUNICIPIO,72043,normalized
+PR,COMERO MUNICIPIO,72045,normalized
+PR,COROZAL MUNICIPIO,72047,normalized
+PR,CULEBRA MUNICIPIO,72049,normalized
+PR,DORADO MUNICIPIO,72051,normalized
+PR,FAJARDO MUNICIPIO,72053,normalized
+PR,FLORIDA MUNICIPIO,72054,normalized
+PR,GUAYAMA MUNICIPIO,72057,normalized
+PR,GUAYANILLA MUNICIPIO,72059,normalized
+PR,GUAYNABO MUNICIPIO,72061,normalized
+PR,GUNICA MUNICIPIO,72055,normalized
+PR,GURABO MUNICIPIO,72063,normalized
+PR,HATILLO MUNICIPIO,72065,normalized
+PR,HORMIGUEROS MUNICIPIO,72067,normalized
+PR,HUMACAO MUNICIPIO,72069,normalized
+PR,ISABELA MUNICIPIO,72071,normalized
+PR,JAYUYA MUNICIPIO,72073,normalized
+PR,JUANA DAZ MUNICIPIO,72075,normalized
+PR,JUNCOS MUNICIPIO,72077,normalized
+PR,LAJAS MUNICIPIO,72079,normalized
+PR,LARES MUNICIPIO,72081,normalized
+PR,LAS MARAS MUNICIPIO,72083,normalized
+PR,LAS PIEDRAS MUNICIPIO,72085,normalized
+PR,LOZA MUNICIPIO,72087,normalized
+PR,LUQUILLO MUNICIPIO,72089,normalized
+PR,MANAT MUNICIPIO,72091,normalized
+PR,MARICAO MUNICIPIO,72093,normalized
+PR,MAUNABO MUNICIPIO,72095,normalized
+PR,MAYAGEZ MUNICIPIO,72097,normalized
+PR,MOCA MUNICIPIO,72099,normalized
+PR,MOROVIS MUNICIPIO,72101,normalized
+PR,NAGUABO MUNICIPIO,72103,normalized
+PR,NARANJITO MUNICIPIO,72105,normalized
+PR,OROCOVIS MUNICIPIO,72107,normalized
+PR,PATILLAS MUNICIPIO,72109,normalized
+PR,PEUELAS MUNICIPIO,72111,normalized
+PR,PONCE MUNICIPIO,72113,normalized
+PR,QUEBRADILLAS MUNICIPIO,72115,normalized
+PR,RINCN MUNICIPIO,72117,normalized
+PR,RO GRANDE MUNICIPIO,72119,normalized
+PR,SABANA GRANDE MUNICIPIO,72121,normalized
+PR,SALINAS MUNICIPIO,72123,normalized
+PR,SAN GERMN MUNICIPIO,72125,normalized
+PR,SAN JUAN MUNICIPIO,72127,normalized
+PR,SAN LORENZO MUNICIPIO,72129,normalized
+PR,SAN SEBASTIN MUNICIPIO,72131,normalized
+PR,SANTA ISABEL MUNICIPIO,72133,normalized
+PR,TOA ALTA MUNICIPIO,72135,normalized
+PR,TOA BAJA MUNICIPIO,72137,normalized
+PR,TRUJILLO ALTO MUNICIPIO,72139,normalized
+PR,UTUADO MUNICIPIO,72141,normalized
+PR,VEGA ALTA MUNICIPIO,72143,normalized
+PR,VEGA BAJA MUNICIPIO,72145,normalized
+PR,VIEQUES MUNICIPIO,72147,normalized
+PR,VILLALBA MUNICIPIO,72149,normalized
+PR,YABUCOA MUNICIPIO,72151,normalized
+PR,YAUCO MUNICIPIO,72153,normalized
+RI,BRISTOL,44001,normalized
+RI,KENT,44003,normalized
+RI,NEWPORT,44005,normalized
+RI,PROVIDENCE,44007,normalized
+RI,WASHINGTON,44009,normalized
+SC,ABBEVILLE,45001,normalized
+SC,AIKEN,45003,normalized
+SC,ALLENDALE,45005,normalized
+SC,ANDERSON,45007,normalized
+SC,BAMBERG,45009,normalized
+SC,BARNWELL,45011,normalized
+SC,BEAUFORT,45013,normalized
+SC,BERKELEY,45015,normalized
+SC,CALHOUN,45017,normalized
+SC,CHARLESTON,45019,normalized
+SC,CHEROKEE,45021,normalized
+SC,CHESTER,45023,normalized
+SC,CHESTERFIELD,45025,normalized
+SC,CLARENDON,45027,normalized
+SC,COLLETON,45029,normalized
+SC,DARLINGTON,45031,normalized
+SC,DILLON,45033,normalized
+SC,DORCHESTER,45035,normalized
+SC,EDGEFIELD,45037,normalized
+SC,FAIRFIELD,45039,normalized
+SC,FLORENCE,45041,normalized
+SC,GEORGETOWN,45043,normalized
+SC,GREENVILLE,45045,normalized
+SC,GREENWOOD,45047,normalized
+SC,HAMPTON,45049,normalized
+SC,HORRY,45051,normalized
+SC,JASPER,45053,normalized
+SC,KERSHAW,45055,normalized
+SC,LANCASTER,45057,normalized
+SC,LAURENS,45059,normalized
+SC,LEE,45061,normalized
+SC,LEXINGTON,45063,normalized
+SC,MARION,45067,normalized
+SC,MARLBORO,45069,normalized
+SC,MCCORMICK,45065,normalized
+SC,NEWBERRY,45071,normalized
+SC,OCONEE,45073,normalized
+SC,ORANGEBURG,45075,normalized
+SC,PICKENS,45077,normalized
+SC,RICHLAND,45079,normalized
+SC,SALUDA,45081,normalized
+SC,SPARTANBURG,45083,normalized
+SC,SUMTER,45085,normalized
+SC,UNION,45087,normalized
+SC,WILLIAMSBURG,45089,normalized
+SC,YORK,45091,normalized
+SD,AURORA,46003,normalized
+SD,BEADLE,46005,normalized
+SD,BENNETT,46007,normalized
+SD,BON HOMME,46009,normalized
+SD,BROOKINGS,46011,normalized
+SD,BROWN,46013,normalized
+SD,BRULE,46015,normalized
+SD,BUFFALO,46017,normalized
+SD,BUTTE,46019,normalized
+SD,CAMPBELL,46021,normalized
+SD,CHARLES MIX,46023,normalized
+SD,CLARK,46025,normalized
+SD,CLAY,46027,normalized
+SD,CODINGTON,46029,normalized
+SD,CORSON,46031,normalized
+SD,CUSTER,46033,normalized
+SD,DAVISON,46035,normalized
+SD,DAY,46037,normalized
+SD,DEUEL,46039,normalized
+SD,DEWEY,46041,normalized
+SD,DOUGLAS,46043,normalized
+SD,EDMUNDS,46045,normalized
+SD,FALL RIVER,46047,normalized
+SD,FAULK,46049,normalized
+SD,GRANT,46051,normalized
+SD,GREGORY,46053,normalized
+SD,HAAKON,46055,normalized
+SD,HAMLIN,46057,normalized
+SD,HAND,46059,normalized
+SD,HANSON,46061,normalized
+SD,HARDING,46063,normalized
+SD,HUGHES,46065,normalized
+SD,HUTCHINSON,46067,normalized
+SD,HYDE,46069,normalized
+SD,JACKSON,46071,normalized
+SD,JERAULD,46073,normalized
+SD,JONES,46075,normalized
+SD,KINGSBURY,46077,normalized
+SD,LAKE,46079,normalized
+SD,LAWRENCE,46081,normalized
+SD,LINCOLN,46083,normalized
+SD,LYMAN,46085,normalized
+SD,MARSHALL,46091,normalized
+SD,MCCOOK,46087,normalized
+SD,MCPHERSON,46089,normalized
+SD,MEADE,46093,normalized
+SD,MELLETTE,46095,normalized
+SD,MINER,46097,normalized
+SD,MINNEHAHA,46099,normalized
+SD,MOODY,46101,normalized
+SD,OGLALA LAKOTA,46102,normalized
+SD,PENNINGTON,46103,normalized
+SD,PERKINS,46105,normalized
+SD,POTTER,46107,normalized
+SD,ROBERTS,46109,normalized
+SD,SANBORN,46111,normalized
+SD,SPINK,46115,normalized
+SD,STANLEY,46117,normalized
+SD,SULLY,46119,normalized
+SD,TODD,46121,normalized
+SD,TRIPP,46123,normalized
+SD,TURNER,46125,normalized
+SD,UNION,46127,normalized
+SD,WALWORTH,46129,normalized
+SD,YANKTON,46135,normalized
+SD,ZIEBACH,46137,normalized
+TN,ANDERSON,47001,normalized
+TN,BEDFORD,47003,normalized
+TN,BENTON,47005,normalized
+TN,BLEDSOE,47007,normalized
+TN,BLOUNT,47009,normalized
+TN,BRADLEY,47011,normalized
+TN,CAMPBELL,47013,normalized
+TN,CANNON,47015,normalized
+TN,CARROLL,47017,normalized
+TN,CARTER,47019,normalized
+TN,CHEATHAM,47021,normalized
+TN,CHESTER,47023,normalized
+TN,CLAIBORNE,47025,normalized
+TN,CLAY,47027,normalized
+TN,COCKE,47029,normalized
+TN,COFFEE,47031,normalized
+TN,CROCKETT,47033,normalized
+TN,CUMBERLAND,47035,normalized
+TN,DAVIDSON,47037,normalized
+TN,DECATUR,47039,normalized
+TN,DEKALB,47041,normalized
+TN,DICKSON,47043,normalized
+TN,DYER,47045,normalized
+TN,FAYETTE,47047,normalized
+TN,FENTRESS,47049,normalized
+TN,FRANKLIN,47051,normalized
+TN,GIBSON,47053,normalized
+TN,GILES,47055,normalized
+TN,GRAINGER,47057,normalized
+TN,GREENE,47059,normalized
+TN,GRUNDY,47061,normalized
+TN,HAMBLEN,47063,normalized
+TN,HAMILTON,47065,normalized
+TN,HANCOCK,47067,normalized
+TN,HARDEMAN,47069,normalized
+TN,HARDIN,47071,normalized
+TN,HAWKINS,47073,normalized
+TN,HAYWOOD,47075,normalized
+TN,HENDERSON,47077,normalized
+TN,HENRY,47079,normalized
+TN,HICKMAN,47081,normalized
+TN,HOUSTON,47083,normalized
+TN,HUMPHREYS,47085,normalized
+TN,JACKSON,47087,normalized
+TN,JEFFERSON,47089,normalized
+TN,JOHNSON,47091,normalized
+TN,KNOX,47093,normalized
+TN,LAKE,47095,normalized
+TN,LAUDERDALE,47097,normalized
+TN,LAWRENCE,47099,normalized
+TN,LEWIS,47101,normalized
+TN,LINCOLN,47103,normalized
+TN,LOUDON,47105,normalized
+TN,MACON,47111,normalized
+TN,MADISON,47113,normalized
+TN,MARION,47115,normalized
+TN,MARSHALL,47117,normalized
+TN,MAURY,47119,normalized
+TN,MCMINN,47107,normalized
+TN,MCNAIRY,47109,normalized
+TN,MEIGS,47121,normalized
+TN,MONROE,47123,normalized
+TN,MONTGOMERY,47125,normalized
+TN,MOORE,47127,normalized
+TN,MORGAN,47129,normalized
+TN,OBION,47131,normalized
+TN,OVERTON,47133,normalized
+TN,PERRY,47135,normalized
+TN,PICKETT,47137,normalized
+TN,POLK,47139,normalized
+TN,PUTNAM,47141,normalized
+TN,RHEA,47143,normalized
+TN,ROANE,47145,normalized
+TN,ROBERTSON,47147,normalized
+TN,RUTHERFORD,47149,normalized
+TN,SCOTT,47151,normalized
+TN,SEQUATCHIE,47153,normalized
+TN,SEVIER,47155,normalized
+TN,SHELBY,47157,normalized
+TN,SMITH,47159,normalized
+TN,STEWART,47161,normalized
+TN,SULLIVAN,47163,normalized
+TN,SUMNER,47165,normalized
+TN,TIPTON,47167,normalized
+TN,TROUSDALE,47169,normalized
+TN,UNICOI,47171,normalized
+TN,UNION,47173,normalized
+TN,VAN BUREN,47175,normalized
+TN,WARREN,47177,normalized
+TN,WASHINGTON,47179,normalized
+TN,WAYNE,47181,normalized
+TN,WEAKLEY,47183,normalized
+TN,WHITE,47185,normalized
+TN,WILLIAMSON,47187,normalized
+TN,WILSON,47189,normalized
+TX,ANDERSON,48001,normalized
+TX,ANDREWS,48003,normalized
+TX,ANGELINA,48005,normalized
+TX,ARANSAS,48007,normalized
+TX,ARCHER,48009,normalized
+TX,ARMSTRONG,48011,normalized
+TX,ATASCOSA,48013,normalized
+TX,AUSTIN,48015,normalized
+TX,BAILEY,48017,normalized
+TX,BANDERA,48019,normalized
+TX,BASTROP,48021,normalized
+TX,BAYLOR,48023,normalized
+TX,BEE,48025,normalized
+TX,BELL,48027,normalized
+TX,BEXAR,48029,normalized
+TX,BLANCO,48031,normalized
+TX,BORDEN,48033,normalized
+TX,BOSQUE,48035,normalized
+TX,BOWIE,48037,normalized
+TX,BRAZORIA,48039,normalized
+TX,BRAZOS,48041,normalized
+TX,BREWSTER,48043,normalized
+TX,BRISCOE,48045,normalized
+TX,BROOKS,48047,normalized
+TX,BROWN,48049,normalized
+TX,BURLESON,48051,normalized
+TX,BURNET,48053,normalized
+TX,CALDWELL,48055,normalized
+TX,CALHOUN,48057,normalized
+TX,CALLAHAN,48059,normalized
+TX,CAMERON,48061,normalized
+TX,CAMP,48063,normalized
+TX,CARSON,48065,normalized
+TX,CASS,48067,normalized
+TX,CASTRO,48069,normalized
+TX,CHAMBERS,48071,normalized
+TX,CHEROKEE,48073,normalized
+TX,CHILDRESS,48075,normalized
+TX,CLAY,48077,normalized
+TX,COCHRAN,48079,normalized
+TX,COKE,48081,normalized
+TX,COLEMAN,48083,normalized
+TX,COLLIN,48085,normalized
+TX,COLLINGSWORTH,48087,normalized
+TX,COLORADO,48089,normalized
+TX,COMAL,48091,normalized
+TX,COMANCHE,48093,normalized
+TX,CONCHO,48095,normalized
+TX,COOKE,48097,normalized
+TX,CORYELL,48099,normalized
+TX,COTTLE,48101,normalized
+TX,CRANE,48103,normalized
+TX,CROCKETT,48105,normalized
+TX,CROSBY,48107,normalized
+TX,CULBERSON,48109,normalized
+TX,DALLAM,48111,normalized
+TX,DALLAS,48113,normalized
+TX,DAWSON,48115,normalized
+TX,DEAF SMITH,48117,normalized
+TX,DELTA,48119,normalized
+TX,DENTON,48121,normalized
+TX,DEWITT,48123,normalized
+TX,DICKENS,48125,normalized
+TX,DIMMIT,48127,normalized
+TX,DONLEY,48129,normalized
+TX,DUVAL,48131,normalized
+TX,EASTLAND,48133,normalized
+TX,ECTOR,48135,normalized
+TX,EDWARDS,48137,normalized
+TX,EL PASO,48141,normalized
+TX,ELLIS,48139,normalized
+TX,ERATH,48143,normalized
+TX,FALLS,48145,normalized
+TX,FANNIN,48147,normalized
+TX,FAYETTE,48149,normalized
+TX,FISHER,48151,normalized
+TX,FLOYD,48153,normalized
+TX,FOARD,48155,normalized
+TX,FORT BEND,48157,normalized
+TX,FRANKLIN,48159,normalized
+TX,FREESTONE,48161,normalized
+TX,FRIO,48163,normalized
+TX,GAINES,48165,normalized
+TX,GALVESTON,48167,normalized
+TX,GARZA,48169,normalized
+TX,GILLESPIE,48171,normalized
+TX,GLASSCOCK,48173,normalized
+TX,GOLIAD,48175,normalized
+TX,GONZALES,48177,normalized
+TX,GRAY,48179,normalized
+TX,GRAYSON,48181,normalized
+TX,GREGG,48183,normalized
+TX,GRIMES,48185,normalized
+TX,GUADALUPE,48187,normalized
+TX,HALE,48189,normalized
+TX,HALL,48191,normalized
+TX,HAMILTON,48193,normalized
+TX,HANSFORD,48195,normalized
+TX,HARDEMAN,48197,normalized
+TX,HARDIN,48199,normalized
+TX,HARRIS,48201,normalized
+TX,HARRISON,48203,normalized
+TX,HARTLEY,48205,normalized
+TX,HASKELL,48207,normalized
+TX,HAYS,48209,normalized
+TX,HEMPHILL,48211,normalized
+TX,HENDERSON,48213,normalized
+TX,HIDALGO,48215,normalized
+TX,HILL,48217,normalized
+TX,HOCKLEY,48219,normalized
+TX,HOOD,48221,normalized
+TX,HOPKINS,48223,normalized
+TX,HOUSTON,48225,normalized
+TX,HOWARD,48227,normalized
+TX,HUDSPETH,48229,normalized
+TX,HUNT,48231,normalized
+TX,HUTCHINSON,48233,normalized
+TX,IRION,48235,normalized
+TX,JACK,48237,normalized
+TX,JACKSON,48239,normalized
+TX,JASPER,48241,normalized
+TX,JEFF DAVIS,48243,normalized
+TX,JEFFERSON,48245,normalized
+TX,JIM HOGG,48247,normalized
+TX,JIM WELLS,48249,normalized
+TX,JOHNSON,48251,normalized
+TX,JONES,48253,normalized
+TX,KARNES,48255,normalized
+TX,KAUFMAN,48257,normalized
+TX,KENDALL,48259,normalized
+TX,KENEDY,48261,normalized
+TX,KENT,48263,normalized
+TX,KERR,48265,normalized
+TX,KIMBLE,48267,normalized
+TX,KING,48269,normalized
+TX,KINNEY,48271,normalized
+TX,KLEBERG,48273,normalized
+TX,KNOX,48275,normalized
+TX,LA SALLE,48283,normalized
+TX,LAMAR,48277,normalized
+TX,LAMB,48279,normalized
+TX,LAMPASAS,48281,normalized
+TX,LAVACA,48285,normalized
+TX,LEE,48287,normalized
+TX,LEON,48289,normalized
+TX,LIBERTY,48291,normalized
+TX,LIMESTONE,48293,normalized
+TX,LIPSCOMB,48295,normalized
+TX,LIVE OAK,48297,normalized
+TX,LLANO,48299,normalized
+TX,LOVING,48301,normalized
+TX,LUBBOCK,48303,normalized
+TX,LYNN,48305,normalized
+TX,MADISON,48313,normalized
+TX,MARION,48315,normalized
+TX,MARTIN,48317,normalized
+TX,MASON,48319,normalized
+TX,MATAGORDA,48321,normalized
+TX,MAVERICK,48323,normalized
+TX,MCCULLOCH,48307,normalized
+TX,MCLENNAN,48309,normalized
+TX,MCMULLEN,48311,normalized
+TX,MEDINA,48325,normalized
+TX,MENARD,48327,normalized
+TX,MIDLAND,48329,normalized
+TX,MILAM,48331,normalized
+TX,MILLS,48333,normalized
+TX,MITCHELL,48335,normalized
+TX,MONTAGUE,48337,normalized
+TX,MONTGOMERY,48339,normalized
+TX,MOORE,48341,normalized
+TX,MORRIS,48343,normalized
+TX,MOTLEY,48345,normalized
+TX,NACOGDOCHES,48347,normalized
+TX,NAVARRO,48349,normalized
+TX,NEWTON,48351,normalized
+TX,NOLAN,48353,normalized
+TX,NUECES,48355,normalized
+TX,OCHILTREE,48357,normalized
+TX,OLDHAM,48359,normalized
+TX,ORANGE,48361,normalized
+TX,PALO PINTO,48363,normalized
+TX,PANOLA,48365,normalized
+TX,PARKER,48367,normalized
+TX,PARMER,48369,normalized
+TX,PECOS,48371,normalized
+TX,POLK,48373,normalized
+TX,POTTER,48375,normalized
+TX,PRESIDIO,48377,normalized
+TX,RAINS,48379,normalized
+TX,RANDALL,48381,normalized
+TX,REAGAN,48383,normalized
+TX,REAL,48385,normalized
+TX,RED RIVER,48387,normalized
+TX,REEVES,48389,normalized
+TX,REFUGIO,48391,normalized
+TX,ROBERTS,48393,normalized
+TX,ROBERTSON,48395,normalized
+TX,ROCKWALL,48397,normalized
+TX,RUNNELS,48399,normalized
+TX,RUSK,48401,normalized
+TX,SABINE,48403,normalized
+TX,SAN AUGUSTINE,48405,normalized
+TX,SAN JACINTO,48407,normalized
+TX,SAN PATRICIO,48409,normalized
+TX,SAN SABA,48411,normalized
+TX,SCHLEICHER,48413,normalized
+TX,SCURRY,48415,normalized
+TX,SHACKELFORD,48417,normalized
+TX,SHELBY,48419,normalized
+TX,SHERMAN,48421,normalized
+TX,SMITH,48423,normalized
+TX,SOMERVELL,48425,normalized
+TX,STARR,48427,normalized
+TX,STEPHENS,48429,normalized
+TX,STERLING,48431,normalized
+TX,STONEWALL,48433,normalized
+TX,SUTTON,48435,normalized
+TX,SWISHER,48437,normalized
+TX,TARRANT,48439,normalized
+TX,TAYLOR,48441,normalized
+TX,TERRELL,48443,normalized
+TX,TERRY,48445,normalized
+TX,THROCKMORTON,48447,normalized
+TX,TITUS,48449,normalized
+TX,TOM GREEN,48451,normalized
+TX,TRAVIS,48453,normalized
+TX,TRINITY,48455,normalized
+TX,TYLER,48457,normalized
+TX,UPSHUR,48459,normalized
+TX,UPTON,48461,normalized
+TX,UVALDE,48463,normalized
+TX,VAL VERDE,48465,normalized
+TX,VAN ZANDT,48467,normalized
+TX,VICTORIA,48469,normalized
+TX,WALKER,48471,normalized
+TX,WALLER,48473,normalized
+TX,WARD,48475,normalized
+TX,WASHINGTON,48477,normalized
+TX,WEBB,48479,normalized
+TX,WHARTON,48481,normalized
+TX,WHEELER,48483,normalized
+TX,WICHITA,48485,normalized
+TX,WILBARGER,48487,normalized
+TX,WILLACY,48489,normalized
+TX,WILLIAMSON,48491,normalized
+TX,WILSON,48493,normalized
+TX,WINKLER,48495,normalized
+TX,WISE,48497,normalized
+TX,WOOD,48499,normalized
+TX,YOAKUM,48501,normalized
+TX,YOUNG,48503,normalized
+TX,ZAPATA,48505,normalized
+TX,ZAVALA,48507,normalized
+UT,BEAVER,49001,normalized
+UT,BOX ELDER,49003,normalized
+UT,CACHE,49005,normalized
+UT,CARBON,49007,normalized
+UT,DAGGETT,49009,normalized
+UT,DAVIS,49011,normalized
+UT,DUCHESNE,49013,normalized
+UT,EMERY,49015,normalized
+UT,GARFIELD,49017,normalized
+UT,GRAND,49019,normalized
+UT,IRON,49021,normalized
+UT,JUAB,49023,normalized
+UT,KANE,49025,normalized
+UT,MILLARD,49027,normalized
+UT,MORGAN,49029,normalized
+UT,PIUTE,49031,normalized
+UT,RICH,49033,normalized
+UT,SALT LAKE,49035,normalized
+UT,SAN JUAN,49037,normalized
+UT,SANPETE,49039,normalized
+UT,SEVIER,49041,normalized
+UT,SUMMIT,49043,normalized
+UT,TOOELE,49045,normalized
+UT,UINTAH,49047,normalized
+UT,UTAH,49049,normalized
+UT,WASATCH,49051,normalized
+UT,WASHINGTON,49053,normalized
+UT,WAYNE,49055,normalized
+UT,WEBER,49057,normalized
+VA,ACCOMACK,51001,normalized
+VA,ALBEMARLE,51003,normalized
+VA,ALEXANDRIA CITY,51510,normalized
+VA,ALLEGHANY,51005,normalized
+VA,AMELIA,51007,normalized
+VA,AMHERST,51009,normalized
+VA,APPOMATTOX,51011,normalized
+VA,ARLINGTON,51013,normalized
+VA,AUGUSTA,51015,normalized
+VA,BATH,51017,normalized
+VA,BEDFORD,51019,normalized
+VA,BLAND,51021,normalized
+VA,BOTETOURT,51023,normalized
+VA,BRISTOL CITY,51520,normalized
+VA,BRUNSWICK,51025,normalized
+VA,BUCHANAN,51027,normalized
+VA,BUCKINGHAM,51029,normalized
+VA,BUENA VISTA CITY,51530,normalized
+VA,CAMPBELL,51031,normalized
+VA,CAROLINE,51033,normalized
+VA,CARROLL,51035,normalized
+VA,CHARLES CITY,51036,normalized
+VA,CHARLOTTE,51037,normalized
+VA,CHARLOTTESVILLE CITY,51540,normalized
+VA,CHESAPEAKE CITY,51550,normalized
+VA,CHESTERFIELD,51041,normalized
+VA,CLARKE,51043,normalized
+VA,COLONIAL HEIGHTS CITY,51570,normalized
+VA,COVINGTON CITY,51580,normalized
+VA,CRAIG,51045,normalized
+VA,CULPEPER,51047,normalized
+VA,CUMBERLAND,51049,normalized
+VA,DANVILLE CITY,51590,normalized
+VA,DICKENSON,51051,normalized
+VA,DINWIDDIE,51053,normalized
+VA,EMPORIA CITY,51595,normalized
+VA,ESSEX,51057,normalized
+VA,FAIRFAX,51059,normalized
+VA,FAIRFAX CITY,51600,normalized
+VA,FALLS CHURCH CITY,51610,normalized
+VA,FAUQUIER,51061,normalized
+VA,FLOYD,51063,normalized
+VA,FLUVANNA,51065,normalized
+VA,FRANKLIN,51067,normalized
+VA,FRANKLIN CITY,51620,normalized
+VA,FREDERICK,51069,normalized
+VA,FREDERICKSBURG CITY,51630,normalized
+VA,GALAX CITY,51640,normalized
+VA,GILES,51071,normalized
+VA,GLOUCESTER,51073,normalized
+VA,GOOCHLAND,51075,normalized
+VA,GRAYSON,51077,normalized
+VA,GREENE,51079,normalized
+VA,GREENSVILLE,51081,normalized
+VA,HALIFAX,51083,normalized
+VA,HAMPTON CITY,51650,normalized
+VA,HANOVER,51085,normalized
+VA,HARRISONBURG CITY,51660,normalized
+VA,HENRICO,51087,normalized
+VA,HENRY,51089,normalized
+VA,HIGHLAND,51091,normalized
+VA,HOPEWELL CITY,51670,normalized
+VA,ISLE OF WIGHT,51093,normalized
+VA,JAMES CITY,51095,normalized
+VA,KING AND QUEEN,51097,normalized
+VA,KING GEORGE,51099,normalized
+VA,KING WILLIAM,51101,normalized
+VA,LANCASTER,51103,normalized
+VA,LEE,51105,normalized
+VA,LEXINGTON CITY,51678,normalized
+VA,LOUDOUN,51107,normalized
+VA,LOUISA,51109,normalized
+VA,LUNENBURG,51111,normalized
+VA,LYNCHBURG CITY,51680,normalized
+VA,MADISON,51113,normalized
+VA,MANASSAS CITY,51683,normalized
+VA,MANASSAS PARK CITY,51685,normalized
+VA,MARTINSVILLE CITY,51690,normalized
+VA,MATHEWS,51115,normalized
+VA,MECKLENBURG,51117,normalized
+VA,MIDDLESEX,51119,normalized
+VA,MONTGOMERY,51121,normalized
+VA,NELSON,51125,normalized
+VA,NEW KENT,51127,normalized
+VA,NEWPORT NEWS CITY,51700,normalized
+VA,NORFOLK CITY,51710,normalized
+VA,NORTHAMPTON,51131,normalized
+VA,NORTHUMBERLAND,51133,normalized
+VA,NORTON CITY,51720,normalized
+VA,NOTTOWAY,51135,normalized
+VA,ORANGE,51137,normalized
+VA,PAGE,51139,normalized
+VA,PATRICK,51141,normalized
+VA,PETERSBURG CITY,51730,normalized
+VA,PITTSYLVANIA,51143,normalized
+VA,POQUOSON CITY,51735,normalized
+VA,PORTSMOUTH CITY,51740,normalized
+VA,POWHATAN,51145,normalized
+VA,PRINCE EDWARD,51147,normalized
+VA,PRINCE GEORGE,51149,normalized
+VA,PRINCE WILLIAM,51153,normalized
+VA,PULASKI,51155,normalized
+VA,RADFORD CITY,51750,normalized
+VA,RAPPAHANNOCK,51157,normalized
+VA,RICHMOND,51159,normalized
+VA,RICHMOND CITY,51760,normalized
+VA,ROANOKE,51161,normalized
+VA,ROANOKE CITY,51770,normalized
+VA,ROCKBRIDGE,51163,normalized
+VA,ROCKINGHAM,51165,normalized
+VA,RUSSELL,51167,normalized
+VA,SALEM CITY,51775,normalized
+VA,SCOTT,51169,normalized
+VA,SHENANDOAH,51171,normalized
+VA,SMYTH,51173,normalized
+VA,SOUTHAMPTON,51175,normalized
+VA,SPOTSYLVANIA,51177,normalized
+VA,STAFFORD,51179,normalized
+VA,STAUNTON CITY,51790,normalized
+VA,SUFFOLK CITY,51800,normalized
+VA,SURRY,51181,normalized
+VA,SUSSEX,51183,normalized
+VA,TAZEWELL,51185,normalized
+VA,VIRGINIA BEACH CITY,51810,normalized
+VA,WARREN,51187,normalized
+VA,WASHINGTON,51191,normalized
+VA,WAYNESBORO CITY,51820,normalized
+VA,WESTMORELAND,51193,normalized
+VA,WILLIAMSBURG CITY,51830,normalized
+VA,WINCHESTER CITY,51840,normalized
+VA,WISE,51195,normalized
+VA,WYTHE,51197,normalized
+VA,YORK,51199,normalized
+VT,ADDISON,50001,normalized
+VT,BENNINGTON,50003,normalized
+VT,CALEDONIA,50005,normalized
+VT,CHITTENDEN,50007,normalized
+VT,ESSEX,50009,normalized
+VT,FRANKLIN,50011,normalized
+VT,GRAND ISLE,50013,normalized
+VT,LAMOILLE,50015,normalized
+VT,ORANGE,50017,normalized
+VT,ORLEANS,50019,normalized
+VT,RUTLAND,50021,normalized
+VT,WASHINGTON,50023,normalized
+VT,WINDHAM,50025,normalized
+VT,WINDSOR,50027,normalized
+WA,ADAMS,53001,normalized
+WA,ASOTIN,53003,normalized
+WA,BENTON,53005,normalized
+WA,CHELAN,53007,normalized
+WA,CLALLAM,53009,normalized
+WA,CLARK,53011,normalized
+WA,COLUMBIA,53013,normalized
+WA,COWLITZ,53015,normalized
+WA,DOUGLAS,53017,normalized
+WA,FERRY,53019,normalized
+WA,FRANKLIN,53021,normalized
+WA,GARFIELD,53023,normalized
+WA,GRANT,53025,normalized
+WA,GRAYS HARBOR,53027,normalized
+WA,ISLAND,53029,normalized
+WA,JEFFERSON,53031,normalized
+WA,KING,53033,normalized
+WA,KITSAP,53035,normalized
+WA,KITTITAS,53037,normalized
+WA,KLICKITAT,53039,normalized
+WA,LEWIS,53041,normalized
+WA,LINCOLN,53043,normalized
+WA,MASON,53045,normalized
+WA,OKANOGAN,53047,normalized
+WA,PACIFIC,53049,normalized
+WA,PEND OREILLE,53051,normalized
+WA,PIERCE,53053,normalized
+WA,SAN JUAN,53055,normalized
+WA,SKAGIT,53057,normalized
+WA,SKAMANIA,53059,normalized
+WA,SNOHOMISH,53061,normalized
+WA,SPOKANE,53063,normalized
+WA,STEVENS,53065,normalized
+WA,THURSTON,53067,normalized
+WA,WAHKIAKUM,53069,normalized
+WA,WALLA WALLA,53071,normalized
+WA,WHATCOM,53073,normalized
+WA,WHITMAN,53075,normalized
+WA,YAKIMA,53077,normalized
+WI,ADAMS,55001,normalized
+WI,ASHLAND,55003,normalized
+WI,BARRON,55005,normalized
+WI,BAYFIELD,55007,normalized
+WI,BROWN,55009,normalized
+WI,BUFFALO,55011,normalized
+WI,BURNETT,55013,normalized
+WI,CALUMET,55015,normalized
+WI,CHIPPEWA,55017,normalized
+WI,CLARK,55019,normalized
+WI,COLUMBIA,55021,normalized
+WI,CRAWFORD,55023,normalized
+WI,DANE,55025,normalized
+WI,DODGE,55027,normalized
+WI,DOOR,55029,normalized
+WI,DOUGLAS,55031,normalized
+WI,DUNN,55033,normalized
+WI,EAU CLAIRE,55035,normalized
+WI,FLORENCE,55037,normalized
+WI,FOND DU LAC,55039,normalized
+WI,FOREST,55041,normalized
+WI,GRANT,55043,normalized
+WI,GREEN,55045,normalized
+WI,GREEN LAKE,55047,normalized
+WI,IOWA,55049,normalized
+WI,IRON,55051,normalized
+WI,JACKSON,55053,normalized
+WI,JEFFERSON,55055,normalized
+WI,JUNEAU,55057,normalized
+WI,KENOSHA,55059,normalized
+WI,KEWAUNEE,55061,normalized
+WI,LA CROSSE,55063,normalized
+WI,LAFAYETTE,55065,normalized
+WI,LANGLADE,55067,normalized
+WI,LINCOLN,55069,normalized
+WI,MANITOWOC,55071,normalized
+WI,MARATHON,55073,normalized
+WI,MARINETTE,55075,normalized
+WI,MARQUETTE,55077,normalized
+WI,MENOMINEE,55078,normalized
+WI,MILWAUKEE,55079,normalized
+WI,MONROE,55081,normalized
+WI,OCONTO,55083,normalized
+WI,ONEIDA,55085,normalized
+WI,OUTAGAMIE,55087,normalized
+WI,OZAUKEE,55089,normalized
+WI,PEPIN,55091,normalized
+WI,PIERCE,55093,normalized
+WI,POLK,55095,normalized
+WI,PORTAGE,55097,normalized
+WI,PRICE,55099,normalized
+WI,RACINE,55101,normalized
+WI,RICHLAND,55103,normalized
+WI,ROCK,55105,normalized
+WI,RUSK,55107,normalized
+WI,SAUK,55111,normalized
+WI,SAWYER,55113,normalized
+WI,SHAWANO,55115,normalized
+WI,SHEBOYGAN,55117,normalized
+WI,ST CROIX,55109,normalized
+WI,TAYLOR,55119,normalized
+WI,TREMPEALEAU,55121,normalized
+WI,VERNON,55123,normalized
+WI,VILAS,55125,normalized
+WI,WALWORTH,55127,normalized
+WI,WASHBURN,55129,normalized
+WI,WASHINGTON,55131,normalized
+WI,WAUKESHA,55133,normalized
+WI,WAUPACA,55135,normalized
+WI,WAUSHARA,55137,normalized
+WI,WINNEBAGO,55139,normalized
+WI,WOOD,55141,normalized
+WV,BARBOUR,54001,normalized
+WV,BERKELEY,54003,normalized
+WV,BOONE,54005,normalized
+WV,BRAXTON,54007,normalized
+WV,BROOKE,54009,normalized
+WV,CABELL,54011,normalized
+WV,CALHOUN,54013,normalized
+WV,CLAY,54015,normalized
+WV,DODDRIDGE,54017,normalized
+WV,FAYETTE,54019,normalized
+WV,GILMER,54021,normalized
+WV,GRANT,54023,normalized
+WV,GREENBRIER,54025,normalized
+WV,HAMPSHIRE,54027,normalized
+WV,HANCOCK,54029,normalized
+WV,HARDY,54031,normalized
+WV,HARRISON,54033,normalized
+WV,JACKSON,54035,normalized
+WV,JEFFERSON,54037,normalized
+WV,KANAWHA,54039,normalized
+WV,LEWIS,54041,normalized
+WV,LINCOLN,54043,normalized
+WV,LOGAN,54045,normalized
+WV,MARION,54049,normalized
+WV,MARSHALL,54051,normalized
+WV,MASON,54053,normalized
+WV,MCDOWELL,54047,normalized
+WV,MERCER,54055,normalized
+WV,MINERAL,54057,normalized
+WV,MINGO,54059,normalized
+WV,MONONGALIA,54061,normalized
+WV,MONROE,54063,normalized
+WV,MORGAN,54065,normalized
+WV,NICHOLAS,54067,normalized
+WV,OHIO,54069,normalized
+WV,PENDLETON,54071,normalized
+WV,PLEASANTS,54073,normalized
+WV,POCAHONTAS,54075,normalized
+WV,PRESTON,54077,normalized
+WV,PUTNAM,54079,normalized
+WV,RALEIGH,54081,normalized
+WV,RANDOLPH,54083,normalized
+WV,RITCHIE,54085,normalized
+WV,ROANE,54087,normalized
+WV,SUMMERS,54089,normalized
+WV,TAYLOR,54091,normalized
+WV,TUCKER,54093,normalized
+WV,TYLER,54095,normalized
+WV,UPSHUR,54097,normalized
+WV,WAYNE,54099,normalized
+WV,WEBSTER,54101,normalized
+WV,WETZEL,54103,normalized
+WV,WIRT,54105,normalized
+WV,WOOD,54107,normalized
+WV,WYOMING,54109,normalized
+WY,ALBANY,56001,normalized
+WY,BIG HORN,56003,normalized
+WY,CAMPBELL,56005,normalized
+WY,CARBON,56007,normalized
+WY,CONVERSE,56009,normalized
+WY,CROOK,56011,normalized
+WY,FREMONT,56013,normalized
+WY,GOSHEN,56015,normalized
+WY,HOT SPRINGS,56017,normalized
+WY,JOHNSON,56019,normalized
+WY,LARAMIE,56021,normalized
+WY,LINCOLN,56023,normalized
+WY,NATRONA,56025,normalized
+WY,NIOBRARA,56027,normalized
+WY,PARK,56029,normalized
+WY,PLATTE,56031,normalized
+WY,SHERIDAN,56033,normalized
+WY,SUBLETTE,56035,normalized
+WY,SWEETWATER,56037,normalized
+WY,TETON,56039,normalized
+WY,UINTA,56041,normalized
+WY,WASHAKIE,56043,normalized
+WY,WESTON,56045,normalized

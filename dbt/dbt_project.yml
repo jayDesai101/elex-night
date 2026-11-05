@@ -1,0 +1,43 @@
+name: elex
+version: "0.1.0"
+config-version: 2
+profile: elex
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+target-path: "target"
+
+vars:
+  include_test_data: false
+  load_until: null  # set by rebuild_in_chunks; bounds the incremental region load
+
+seeds:
+  elex:
+    +schema: ref
+    region_crosswalk:
+      +column_types: {province: varchar, region_name_norm: varchar, county_fips: varchar, match_method: varchar}
+    region_overrides:
+      +column_types: {province: varchar, region_name_norm: varchar, county_fips: varchar}
+    tracked_races:
+      +column_types: {race_id: bigint, label: varchar, tier: varchar, baseline_proxy: varchar}
+    holdovers:
+      +column_types: {office: varchar, party_code: varchar, seats_not_up: integer}
+    party_codes:
+      +column_types: {party_label: varchar, party_code: varchar}
+
+models:
+  elex:
+    staging:
+      +schema: silver
+      +materialized: view
+    intermediate:
+      +schema: silver
+      +materialized: view
+    marts:
+      +schema: gold
+      +materialized: table
+
+flags:
+  send_anonymous_usage_stats: false

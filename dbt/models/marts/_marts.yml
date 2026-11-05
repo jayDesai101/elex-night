@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: fct_race_latest
+    columns:
+      - name: race_id
+        tests: [unique, not_null]
+      - name: office
+        tests:
+          - accepted_values:
+              arguments:
+                values: [senate, house, governor, other]
+  - name: fct_county_timeseries
+    columns:
+      - name: "race_id || '|' || county_fips || '|' || fetched_at"
+        tests: [unique]
+      - name: fetched_at
+        tests: [not_null]
+  - name: fct_county_latest
+    columns:
+      - name: "office || '|' || county_fips"
+        tests: [unique]
+      - name: county_fips
+        tests: [not_null]
+  - name: fct_chamber_summary
+    columns:
+      - name: office
+        tests: [unique, not_null]
+  - name: fct_pipeline_health
+    columns:
+      - name: last_ingest_at
+        tests: [not_null]

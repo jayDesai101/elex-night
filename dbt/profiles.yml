@@ -1,0 +1,25 @@
+elex:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: "{{ env_var('ELEX_DUCKDB_PATH', 'data/warehouse/elex.duckdb') }}"
+      threads: 1
+      settings:
+        TimeZone: UTC
+        # A full refresh re-parses every archived payload; without a cap DuckDB took the
+        # whole host (12.3 GiB) and died. Spill to disk instead, in the warehouse dir.
+        # (no temp_directory: DuckDB refuses to switch it once used, and dbt-duckdb sets
+        # settings per cursor; the default spill dir is next to the database file)
+        # 8 GB: the per-cycle incremental build peaked at 6.2 GiB on election night's
+        # archive (2.7 M region rows); at 4 GB its marts ran out of memory.
+        memory_limit: "{{ env_var('ELEX_DUCKDB_MEMORY', '8GB') }}"
+        preserve_insertion_order: false
+    test:
+      type: duckdb
+      path: "{{ env_var('ELEX_DUCKDB_TEST_PATH', 'data-test/warehouse/dbt_test.duckdb') }}"
+      threads: 1
+      settings:
+        TimeZone: UTC
+        memory_limit: "2GB"
+        preserve_insertion_order: false

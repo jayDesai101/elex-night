@@ -1,4 +1,11 @@
-with c as (
+with l as (
+    select * from {{ ref('int_race_latest') }}
+),
+
+-- Only the latest snapshot per race is needed here. Aggregating every archived
+-- snapshot parsed the whole payload history each cycle and ran DuckDB out of
+-- memory once the archive passed ~3.5 GB (2026-11-07), which blocked publishing.
+c as (
     select
         snapshot_id,
         cast(sum(votes) filter (where party_code = 'D') as bigint) as d_votes,
@@ -7,6 +14,7 @@ with c as (
         -- civicAPI's own winner flag; we never make calls (ADR-003)
         max(party_code) filter (where winner) as winner_party
     from {{ ref('stg_civic__candidate_results') }}
+    where snapshot_id in (select snapshot_id from l)
     group by snapshot_id
 )
 
@@ -33,6 +41,6 @@ select
     coalesce(l.last_changed, l.source_last_updated) as last_updated,
     l.polls_close,
     l.fetched_at
-from {{ ref('int_race_latest') }} as l
+from l
 left join c using (snapshot_id)
 left join {{ ref('tracked_races') }} as t on t.race_id = l.race_id

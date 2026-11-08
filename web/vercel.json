@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://sauce-produced-inflation-physiology.trycloudflare.com/api/:path*" },
-    { "source": "/replay/:path*", "destination": "https://sauce-produced-inflation-physiology.trycloudflare.com/replay/:path*" }
+    { "source": "/api/:path*", "destination": "https://assists-room-implies-rendering.trycloudflare.com/api/:path*" },
+    { "source": "/replay/:path*", "destination": "https://assists-room-implies-rendering.trycloudflare.com/replay/:path*" }
   ]
 }

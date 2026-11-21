@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from "react";
+import { STATIC, STATIC_AS_OF } from "../lib/replay";
 import { applyTheme, getTheme, type Theme } from "../lib/theme";
 
 const clock = new Intl.DateTimeFormat("en-US", {
@@ -23,13 +24,15 @@ export const Hero: React.FC<{ onHowItWorks: () => void }> = ({ onHowItWorks }) =
       <div className="relative flex flex-wrap items-end justify-between gap-4">
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-slate-400">
-            Live · Tuesday, November 3, 2026
+            {STATIC ? "Final results · Tuesday, November 3, 2026" : "Live · Tuesday, November 3, 2026"}
           </p>
           <h1 className="mt-1 text-3xl font-extrabold tracking-tight text-slate-100 sm:text-4xl">
             2026 Midterm Election Results
           </h1>
           <p className="mt-1 text-sm text-slate-400">
-            Senate, House and Governor races, county by county, updated every minute.
+            {STATIC
+              ? `Senate, House and Governor races, county by county, as counted through ${STATIC_AS_OF}.`
+              : "Senate, House and Governor races, county by county, updated every minute."}
           </p>
         </div>
         <div className="flex items-center gap-2">

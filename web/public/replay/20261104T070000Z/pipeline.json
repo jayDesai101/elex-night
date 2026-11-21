@@ -1,0 +1,1 @@
+{"last_ingest_at":"2026-11-04T06:59:42Z","rows_processed":5163808,"checks":[{"name":"source_freshness","status":"error","detail":"last request to civicAPI (warn after 3 min, error after 10)"}],"latency":[]}

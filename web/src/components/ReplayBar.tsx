@@ -1,5 +1,5 @@
 import React from "react";
-import type { ReplayClock } from "../lib/replay";
+import { STATIC, STATIC_AS_OF, type ReplayClock } from "../lib/replay";
 
 const etTime = new Intl.DateTimeFormat("en-US", {
   timeZone: "America/New_York",
@@ -21,12 +21,23 @@ export const ReplayBar: React.FC<{ clock: ReplayClock }> = ({ clock }) => {
   const canReplay = n > 1;
 
   if (live) {
+    // Static site: the last step is the final count, there is nothing live to go back to
     return (
-      <div className="flex items-center gap-3 rounded-xl border border-emerald-500/30 bg-slate-900/90 px-4 py-2.5 shadow">
-        <span className="live-ping h-2.5 w-2.5 shrink-0 rounded-full bg-emerald-400" />
+      <div
+        className={`flex items-center gap-3 rounded-xl border bg-slate-900/90 px-4 py-2.5 shadow ${STATIC ? "border-sky-500/30" : "border-emerald-500/30"}`}
+      >
+        <span
+          className={`h-2.5 w-2.5 shrink-0 rounded-full ${STATIC ? "bg-sky-400" : "live-ping bg-emerald-400"}`}
+        />
         <div className="min-w-0 flex-1 leading-tight">
-          <div className="text-xs font-semibold uppercase tracking-wider text-emerald-400">Live</div>
-          <div className="truncate text-xs text-slate-400">Results update every 30 seconds</div>
+          <div
+            className={`text-xs font-semibold uppercase tracking-wider ${STATIC ? "text-sky-400" : "text-emerald-400"}`}
+          >
+            {STATIC ? "Final results" : "Live"}
+          </div>
+          <div className="truncate text-xs text-slate-400">
+            {STATIC ? `As counted through ${STATIC_AS_OF}` : "Results update every 30 seconds"}
+          </div>
         </div>
         {canReplay && (
           <button
@@ -61,10 +72,10 @@ export const ReplayBar: React.FC<{ clock: ReplayClock }> = ({ clock }) => {
         <button
           type="button"
           onClick={goLive}
-          className="flex shrink-0 items-center gap-1.5 rounded-lg border border-emerald-500/40 px-3 py-1.5 text-xs font-semibold text-emerald-400 hover:bg-emerald-500/10"
+          className={`flex shrink-0 items-center gap-1.5 rounded-lg border px-3 py-1.5 text-xs font-semibold ${STATIC ? "border-sky-500/40 text-sky-400 hover:bg-sky-500/10" : "border-emerald-500/40 text-emerald-400 hover:bg-emerald-500/10"}`}
         >
-          <span className="h-2 w-2 rounded-full bg-emerald-400" />
-          Back to live
+          <span className={`h-2 w-2 rounded-full ${STATIC ? "bg-sky-400" : "bg-emerald-400"}`} />
+          {STATIC ? "Final results" : "Back to live"}
         </button>
       </div>
       <div className="mt-3 flex items-center gap-3">

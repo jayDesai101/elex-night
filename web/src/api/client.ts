@@ -81,6 +81,10 @@ export function fetchRecap(office: Office): Promise<Recap> {
 }
 
 export function fetchRaces(office: Office, tracked = true): Promise<Race[]> {
+  if (inReplay() && !tracked) {
+    // An office's full list is races.json filtered; steps carry only the tracked lists
+    return fetchAllRaces().then((rs) => rs.filter((r) => r.office === office));
+  }
   const params = new URLSearchParams({
     office,
     tracked: String(tracked),

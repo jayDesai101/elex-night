@@ -1,6 +1,3 @@
 {
-  "rewrites": [
-    { "source": "/api/:path*", "destination": "https://assists-room-implies-rendering.trycloudflare.com/api/:path*" },
-    { "source": "/replay/:path*", "destination": "https://assists-room-implies-rendering.trycloudflare.com/replay/:path*" }
-  ]
+  "build": { "env": { "VITE_STATIC": "1" } }
 }

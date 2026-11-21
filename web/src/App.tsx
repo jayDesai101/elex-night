@@ -11,7 +11,7 @@ import {
   useRaces,
   useSummary,
 } from "./api/client";
-import { REPLAY_ENABLED, useReplayClock } from "./lib/replay";
+import { REPLAY_ENABLED, STATIC, useReplayClock } from "./lib/replay";
 import { ReplayBar } from "./components/ReplayBar";
 import { TopBar } from "./components/TopBar";
 import { GovernorsCard } from "./components/GovernorsCard";
@@ -105,6 +105,13 @@ export const App: React.FC = () => {
               health={healthQuery.data}
               fallbackLastIngestAt={pipelineQuery.data?.last_ingest_at}
               isLoading={healthQuery.isLoading}
+              badge={
+                STATIC
+                  ? replay.live
+                    ? { label: "FINAL", color: "blue" }
+                    : { label: "REPLAY", color: "amber" }
+                  : undefined
+              }
             />
           </div>
 

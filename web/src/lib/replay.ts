@@ -7,10 +7,17 @@ import { useEffect, useState } from "react";
  * VITE_REPLAY=0 at build time disables replay entirely (plain live site). */
 export const REPLAY_ENABLED = import.meta.env.VITE_REPLAY !== "0";
 export const REPLAY_BASE = `${import.meta.env.BASE_URL}replay`;
+/** Static site (VITE_STATIC=1 at build time, or any *.vercel.app host): there is no API,
+ * the bundled replay steps are the only data, the last step is the final count and
+ * nothing polls. */
+export const STATIC =
+  import.meta.env.VITE_STATIC === "1" ||
+  (typeof window !== "undefined" && window.location.hostname.endsWith(".vercel.app"));
+export const STATIC_AS_OF = "November 20, 2026";
 
 /** True while the page shows a replay step; false once it has handed over to live. */
 export function inReplay(): boolean {
-  return REPLAY_ENABLED && !live;
+  return REPLAY_ENABLED && (STATIC || !live);
 }
 
 export interface ReplayIndex {
@@ -79,14 +86,14 @@ export function useReplayClock(): ReplayClock {
         })
         .catch(() => setIndex({ steps: [], keys: [] }));
     load();
-    const t = setInterval(load, INDEX_REFRESH_MS);
+    const t = STATIC ? null : setInterval(load, INDEX_REFRESH_MS); // static steps never change
     const l = () => {
       setLocal(current);
       setLiveLocal(live);
     };
     listeners.add(l);
     return () => {
-      clearInterval(t);
+      if (t) clearInterval(t);
       listeners.delete(l);
     };
   }, []);

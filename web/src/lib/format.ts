@@ -2,8 +2,8 @@ import { STATES } from "./photos";
 import type { Summary } from "../api/types";
 import { PARTY_COLORS } from "./scales";
 
-export type LiveLabel = "LIVE" | "DELAYED" | "OFFLINE";
-export type LiveColor = "green" | "amber" | "red";
+export type LiveLabel = "LIVE" | "DELAYED" | "OFFLINE" | "FINAL" | "REPLAY";
+export type LiveColor = "green" | "amber" | "red" | "blue";
 
 export interface LiveStateResult {
   label: LiveLabel;

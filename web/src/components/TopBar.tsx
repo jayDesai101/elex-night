@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import type { Health, Office } from "../api/types";
-import { ageSeconds, formatET, liveState } from "../lib/format";
+import { ageSeconds, formatET, liveState, type LiveStateResult } from "../lib/format";
 
 export interface TopBarProps {
   activeOffice: Office;
@@ -8,6 +8,8 @@ export interface TopBarProps {
   health: Health | undefined;
   fallbackLastIngestAt?: string | null;
   isLoading?: boolean;
+  /** Replaces the age-based LIVE/DELAYED/OFFLINE badge (static site: FINAL or REPLAY) */
+  badge?: LiveStateResult;
 }
 
 const OFFICE_TABS: { id: Office; label: string }[] = [
@@ -22,6 +24,7 @@ export const TopBar: React.FC<TopBarProps> = ({
   health,
   fallbackLastIngestAt,
   isLoading,
+  badge: badgeOverride,
 }) => {
   const lastUpdatedIso = health?.last_ingest_at ?? fallbackLastIngestAt ?? null;
   // Age is computed here, against the clock, not taken from the last response: a page that
@@ -31,7 +34,7 @@ export const TopBar: React.FC<TopBarProps> = ({
     const t = setInterval(() => setNow(Date.now()), 15_000);
     return () => clearInterval(t);
   }, []);
-  const badge = liveState(ageSeconds(lastUpdatedIso, now));
+  const badge = badgeOverride ?? liveState(ageSeconds(lastUpdatedIso, now));
   const formattedTime = formatET(lastUpdatedIso);
 
   const badgeStyles: Record<
@@ -49,6 +52,10 @@ export const TopBar: React.FC<TopBarProps> = ({
     red: {
       container: "bg-rose-950/80 text-rose-300 border-rose-700/60",
       dot: "bg-rose-500",
+    },
+    blue: {
+      container: "bg-sky-950/80 text-sky-300 border-sky-700/60",
+      dot: "bg-sky-400",
     },
   };
 

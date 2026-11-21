@@ -11,7 +11,6 @@ __pycache__/
 web/dist/
 dbt/.user.yml
 data-replay*/
-web/public/replay/
 data-fr-test/
 data-memtest/
 data-chunktest/

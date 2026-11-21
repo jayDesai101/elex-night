@@ -66,6 +66,14 @@ class Store:
     def has(self, table: str) -> bool:
         return table in self._tables
 
+    def close(self) -> None:
+        """Free the in-memory database. A Store that is dropped without this keeps its DuckDB
+        instance (worker threads and the loaded tables) alive for the life of the process."""
+        with self._lock:
+            if self._con is not None:
+                self._con.close()
+            self._con, self._version, self._tables = None, None, set()
+
 
 def _matches(header: str | None, etag: str) -> bool:
     if not header:
@@ -76,6 +84,7 @@ def _matches(header: str | None, etag: str) -> bool:
 def create_app(data_dir: Path | None = None, web_dist: Path | None = None) -> FastAPI:
     store = Store(data_dir or get_settings().data_dir)
     app = FastAPI(title="elex-night API", version="0.1.0")
+    app.state.store = store  # so a short-lived app (the replay export) can close it
 
     @app.middleware("http")
     async def etag_and_cache(request: Request, call_next):

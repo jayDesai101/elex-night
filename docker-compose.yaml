@@ -8,6 +8,19 @@ services:
     environment:
       ELEX_DATA_DIR: /app/data
       TZ: UTC
+      # dbt's DuckDB cap (dbt/profiles.yml defaults to 8GB). DuckDB fills whatever it is given: at 8GB each
+      # cycle's build held 7.5 GB, and with the archiver's own 1-3 GB the host (15 GB shared by every app) ran out
+      # of memory and swap, so the host's earlyoom killed dbt and other apps many times a day. Past the cap
+      # DuckDB spills to data/warehouse/elex.duckdb.tmp instead. 5GB was too low: one cycle in 14 failed
+      # assert_pct_reporting_bounds with "Out of Memory Error ... (4.6 GiB/4.6 GiB used)".
+      ELEX_DUCKDB_MEMORY: 6GB
+      # glibc otherwise keeps one malloc arena per thread, and the 29 DuckDB threads of each 10-minute replay
+      # export left 10-20 MB behind every time; with two arenas the archiver's memory stays level
+      MALLOC_ARENA_MAX: "2"
+    # ceiling for the whole container (RAM, then RAM + swap): an overrun ends inside this container
+    # instead of taking memory from the rest of the host
+    mem_limit: 7g
+    memswap_limit: 9g
     volumes:
       - ./data:/app/data
       - ./dbt:/app/dbt

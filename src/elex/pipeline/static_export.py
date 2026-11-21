@@ -51,18 +51,25 @@ def step_key(t: datetime) -> str:
 
 def export_step(data_dir: Path, out_dir: Path, race_ids: list[int]) -> int:
     """Write every static request for the serving version currently in data_dir."""
-    client = TestClient(create_app(data_dir, web_dist=Path("/nonexistent")))
+    app = create_app(data_dir, web_dist=Path("/nonexistent"))
+    client = TestClient(app)
     out_dir.mkdir(parents=True, exist_ok=True)
     n = 0
-    for req in STATIC_REQUESTS + [
-        f"/api/races/{rid}/{kind}" for rid in race_ids for kind in ("history", "votes")
-    ]:
-        r = client.get(req)
-        if r.status_code != 200:
-            log.warning("%s -> %s", req, r.status_code)
-            continue
-        (out_dir / file_name(req)).write_bytes(r.content)
-        n += 1
+    try:
+        for req in STATIC_REQUESTS + [
+            f"/api/races/{rid}/{kind}" for rid in race_ids for kind in ("history", "votes")
+        ]:
+            r = client.get(req)
+            if r.status_code != 200:
+                log.warning("%s -> %s", req, r.status_code)
+                continue
+            (out_dir / file_name(req)).write_bytes(r.content)
+            n += 1
+    finally:
+        # The archiver calls this every 10 minutes. Without the close each call left a DuckDB
+        # instance behind (29 threads, ~190 MB), about 1 GB an hour in the archiver process.
+        client.close()
+        app.state.store.close()
     return n
 
 

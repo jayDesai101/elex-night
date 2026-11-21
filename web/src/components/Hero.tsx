@@ -2,20 +2,8 @@ import React, { useEffect, useState } from "react";
 import { STATIC, STATIC_AS_OF } from "../lib/replay";
 import { applyTheme, getTheme, type Theme } from "../lib/theme";
 
-const clock = new Intl.DateTimeFormat("en-US", {
-  timeZone: "America/New_York",
-  hour: "numeric",
-  minute: "2-digit",
-  second: "2-digit",
-});
-
 export const Hero: React.FC<{ onHowItWorks: () => void }> = ({ onHowItWorks }) => {
-  const [now, setNow] = useState(() => new Date());
   const [theme, setTheme] = useState<Theme>(getTheme);
-  useEffect(() => {
-    const t = setInterval(() => setNow(new Date()), 1000);
-    return () => clearInterval(t);
-  }, []);
   useEffect(() => applyTheme(theme), [theme]);
 
   return (
@@ -36,12 +24,6 @@ export const Hero: React.FC<{ onHowItWorks: () => void }> = ({ onHowItWorks }) =
           </p>
         </div>
         <div className="flex items-center gap-2">
-          <div className="rounded-xl border border-slate-700 bg-slate-950/60 px-3 py-2 text-right">
-            <div className="font-mono text-lg font-semibold tabular-nums text-slate-100">
-              {clock.format(now)}
-            </div>
-            <div className="text-[10px] uppercase tracking-wider text-slate-500">Eastern Time</div>
-          </div>
           <button
             type="button"
             onClick={onHowItWorks}
